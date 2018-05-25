@@ -1,9 +1,9 @@
 <template>
 	<div class="Capitulo6">
 		
-		<h1 class="cap_lei">CAPÍTULO VI – DOS PROCEDIMENTOS FISCALIZATÓRIOS RELATIVOS À ATIVIDADE EDILÍCIA</h1>
+		<h1>DOS PROCEDIMENTOS FISCALIZATÓRIOS RELATIVOS À ATIVIDADE EDILÍCIA</h1>
 	
-		<h2 class="secao_lei">Seção I - Verificação da Regularidade da Obra</h2>
+		<h2>Seção I - Verificação da Regularidade da Obra</h2>
 		<p class="corpo_lei"><strong class="artigo-lei">Art. 81. </strong>Toda obra, edificação, serviço e equipamento pode, a qualquer tempo, ser vistoriado pela Prefeitura para a verificação do cumprimento das normas estabelecidas neste Código.</p>
 		<p class="corpo_decreto"><strong class="artigo-decreto">Art. 80. </strong>Compete às Prefeituras Regionais, por meio dos seus servidores municipais, regularmente investidos em cargo público e com poderes fiscalizatórios, a fiscalização das disposições estabelecidas no COE e neste decreto, bem como a aplicação das penalidades previstas no Anexo III do COE, quando for o caso. </p>
 		<p class="corpo_decreto"><strong class="destaque-decreto">Parágrafo único. </strong>Ressalvado o disposto no inciso XI do artigo 5º da Constituição Federal, deverá ser franqueado o imediato e irrestrito acesso ao local objeto de vistoria ao servidor municipal responsável pela fiscalização, desde que devidamente identificado por documento fornecido pela Administração Municipal.<strong class="subtitulo_txt"></strong></p>
@@ -62,7 +62,8 @@
 		<p class="corpo_decreto"><strong class="destaque-decreto">§ 1º </strong>Na hipótese prevista no “caput” deste artigo, poderá ocorrer o levantamento parcial do embargo para o fim específico da execução das medidas necessárias à eliminação do risco, ficando condicionado à apresentação de ART ou RRT relacionando os serviços a serem executados e seu cronograma de execução. </p>
 		<p class="corpo_decreto"><strong class="destaque-decreto">§ 2º </strong>Eliminado o risco, retorna-se à situação de embargo, o qual somente cessará nas hipóteses estabelecidas no § 4º do artigo 83 deste decreto. </p>
 		<p class="corpo_decreto"><strong class="destaque-decreto">§ 3º </strong>Quaisquer trabalhos ou serviços que extrapolem o previsto no § 1º deste artigo caracterizarão resistência ao embargo e à interdição, ensejando as penalidades previstas no COE. </p>
-		<h2 class="secao_lei">Seção II - Da Verificação da Estabilidade, Segurança e Salubridade da Obra</h2>
+		
+		<h2>Seção II - Da Verificação da Estabilidade, Segurança e Salubridade da Obra</h2>
 		<p class="corpo_lei"><strong class="artigo-lei">Art. 87. </strong>Verificada a inexistência de condições de estabilidade, segurança ou salubridade de uma obra, edificação, serviço ou equipamento, o proprietário ou o possuidor e o responsável técnico pela obra devem ser intimados a dar início às medidas necessárias à solução da irregularidade no prazo de 5 (cinco) dias, devendo ainda ser lavrado o auto de interdição total ou parcial do imóvel, dando-se ciência aos proprietários e ocupantes.</p>
 		<p class="corpo_lei"><strong class="destaque-lei">§ 1º </strong>No caso de a irregularidade constatada apresentar perigo de ruína ou contaminação, ocorrerá, se necessário, a interdição do entorno do imóvel.</p>
 		<p class="corpo_lei"><strong class="destaque-lei">§ 2º </strong>O não cumprimento da intimação para a regularização necessária ou interdição implica responsabilidade exclusiva do infrator, eximindo-se a Prefeitura da responsabilidade pelos danos decorrentes de eventual sinistro.</p>
@@ -93,7 +94,8 @@
 		<p class="corpo_lei"><strong class="artigo-lei">Art. 90. </strong>O proprietário ou possuidor do imóvel que constatar perigo de ruína ou contaminação pode, devidamente assistido por profissional habilitado, dar início imediato às obras de emergência, comunicando o fato, por escrito, à Prefeitura e justificando e informando a natureza dos serviços a serem executados, observadas as exigências da legislação pertinente à matéria.</p>
 		<p class="corpo_decreto"><strong class="artigo-decreto">Art. 88. </strong>O proprietário ou possuidor do imóvel que constatar perigo de ruína ou contaminação pode, devidamente assistido por profissional habilitado, dar início imediato às obras de emergência, comunicando o fato, por escrito, à Prefeitura Regional competente, justificando e informando a natureza dos serviços a serem executados, observadas as exigências da legislação pertinente à matéria. </p>
 		<p class="corpo_decreto"><strong class="destaque-decreto">Parágrafo único. </strong>Quando estiver implementado o sistema informatizado, a comunicação digital suprirá, para todos os fins, a prevista no “caput” deste artigo. </p>
-		<h2 class="secao_lei">Seção III - Das Penalidades</h2>
+		
+		<h2>Seção III - Das Penalidades</h2>
 		<p class="corpo_lei"><strong class="artigo-lei">Art. 91. </strong>A inobservância de qualquer disposição deste Código constitui infração sujeita à aplicação das penalidades previstas na Tabela de Multas constante do seu Anexo III.</p>
 		<p class="corpo_decreto"><strong class="artigo-decreto">Art. 89. </strong>A inobservância de qualquer disposição do COE constitui infração sujeita à aplicação das penalidades previstas na Tabela de Multas, constante do seu Anexo III e do Anexo III deste decreto, e ensejará os procedimentos fiscais previstos neste capítulo.</p>
 		<p class="corpo_decreto"><strong class="artigo-decreto">Art. 90. </strong>Os autos previstos no COE e neste decreto, quando a infração exigir lavraturas concomitantes, poderão ser lavrados em um único documento, quando emitidos por meio eletrônico.<strong class="subtitulo_txt"></strong></p>

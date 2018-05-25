@@ -1,6 +1,6 @@
 <template>
 	<div class="Capitulo7">
-		<h1 class="cap_lei">CAPÍTULO VII – DO ALINHAMENTO E DO MELHORAMENTO VIÁRIO</h1>
+		<h1>DO ALINHAMENTO E DO MELHORAMENTO VIÁRIO</h1>
 
 		<p class="corpo_lei"><strong class="artigo-lei">Art. 102. </strong>Para os fins deste Código, consideram-se fixados os atuais alinhamentos e nivelamento dos logradouros públicos existentes no Município de São Paulo, oficializados ou pertencentes a loteamento aceito ou regularizado, bem como daqueles oriundos de melhoramento viário executado sob a responsabilidade do Poder Público Municipal, Estadual ou Federal.</p>
 		<p class="corpo_lei"><strong class="destaque-lei">Parágrafo único. </strong>No caso de indefinição, a pedido do interessado, a Prefeitura deve fornecer o alinhamento e nivelamento, mediante a emissão de certidão.</p>
@@ -9,7 +9,7 @@
 		<p class="corpo_decreto"><strong class="artigo-decreto">Art. 97. </strong>Desde que não exista declaração de utilidade pública em vigor por ocasião da emissão do Alvará de Aprovação do projeto, não se aplicam, para efeito do licenciamento edilício, os novos alinhamentos aprovados constantes de lei de melhoramento viário e do PRM, publicados anteriormente a 8 de novembro de 1988, inclusive no caso de processos em andamento.</p>
 		<p class="corpo_lei"><strong class="artigo-lei">Art. 104. </strong>A alteração de alinhamento de logradouro público que importe em alargamento, estreitamento ou retificação, total ou parcial, deve ser objeto de plano de melhoramento viário aprovado por lei.</p>
 		<p class="corpo_lei"><strong class="destaque-lei">Parágrafo único. </strong>A alteração de nivelamento de logradouro público, parcial ou em toda sua extensão, pode ser definida por ato do Executivo.</p>
-		<p class="corpo_lei"><span class="bolinha">Art. 105.</span><strong class="artigo-lei"> </strong>É permitida a execução de qualquer obra em imóvel totalmente atingido por plano de melhoramento público e sem declaração de utilidade pública ou de interesse social em vigor, observado o disposto na LOE, PDE e LPUOS.</p>
+		<p class="corpo_lei"><strong class="bolinha">Art. 105.</strong> É permitida a execução de qualquer obra em imóvel totalmente atingido por plano de melhoramento público e sem declaração de utilidade pública ou de interesse social em vigor, observado o disposto na LOE, PDE e LPUOS.</p>
 		<p class="corpo_lei"><strong class="destaque-lei">§ 1º </strong>No caso de declaração de utilidade pública ou de interesse social em vigor, permite-se a execução de qualquer obra, a título precário, observado o disposto na LOE, PDE e LPUOS, não sendo devida ao proprietário qualquer indenização pela benfeitoria ou acessão quando da execução do melhoramento público.</p>
 		<p class="corpo_lei"><strong class="destaque-lei">§ 2º </strong>Considera-se também como totalmente atingido por melhoramento público o imóvel:</p>
 		<p class="corpo_lei"><strong class="destaque-lei">I - </strong>cujo remanescente não possibilite a execução de edificação que atenda ao disposto na LOE, PDE e LPUOS;</p>
@@ -18,10 +18,11 @@
 		<p class="corpo_decreto"><strong class="destaque-decreto">I -</strong> a indicação do número da lei do melhoramento público e da DUP ou DIS em vigor, quando for o caso; </p>
 		<p class="corpo_decreto"><strong class="destaque-decreto">II -</strong> a indicação da área de terreno e da área necessária ao melhoramento público.<strong class="destaque-decreto"></strong></p>
 		<p class="corpo_decreto"><strong class="destaque-decreto">Parágrafo único. </strong>Em se tratando de DUP ou DIS em vigor, por ocasião do despacho de deferimento do Alvará para imóvel totalmente atingido por melhoramento público, deverá ser incluída nota para constar que o Alvará é emitido a título precário, não sendo devida indenização por obras, benfeitorias ou acessão dele decorrentes por ocasião da execução do melhoramento público, nos termos do § 1º do artigo 105 do COE. </p>
-		<p class="corpo_lei"><span class="bolinha">Art. 106. </span>A edificação nova e as novas partes da edificação existente, nas reformas com aumento de área executadas em imóvel parcialmente atingido por plano de melhoramento público aprovado por lei e sem declaração de utilidade pública ou de interesse social em vigor, devem observar as seguintes disposições:</p>
+		<p class="corpo_lei"><strong class="bolinha">Art. 106. </strong> A edificação nova e as novas partes da edificação existente, nas reformas com aumento de área executadas em imóvel parcialmente atingido por plano de melhoramento público aprovado por lei e sem declaração de utilidade pública ou de interesse social em vigor, devem observar as seguintes disposições:</p>
 		<p class="corpo_lei"><strong class="destaque-lei">I - </strong>atender aos recuos mínimos obrigatórios, à taxa de ocupação e ao coeficiente de aproveitamento estabelecidos no PDE e LPUOS, em relação ao lote original;</p>
 		<p class="corpo_lei"><strong class="destaque-lei">II - </strong>observar soluções que garantam, após a execução do plano de melhoramento público, o pleno atendimento, pelas edificações remanescentes, das disposições previstas na LOE, PDE e LPUOS em relação ao lote resultante da desapropriação, inclusive com a previsão de demolição total se for o caso.</p>
-		<p class="corpo_lei"><span class="bolinha">Art. 107.</span><strong class="artigo-lei"> </strong>No caso de imóvel parcialmente atingido por plano de melhoramento aprovado por lei e com declaração de utilidade pública ou de interesse social em vigor, a edificação nova e as novas partes da edificação existente nas reformas com aumento de área devem observar os recuos mínimos obrigatórios, a taxa de ocupação e o coeficiente de aproveitamento estabelecidos no PDE e LPUOS e as disposições do COE em relação ao lote resultante da desapropriação.</p>
+		<p class="corpo_lei"><strong class="bolinha">Art. 107.</strong> No caso de imóvel parcialmente atingido por plano de melhoramento aprovado por lei e com declaração de utilidade pública ou de interesse social em vigor, a edificação nova e as novas partes da edificação existente nas reformas com aumento de área devem observar os recuos mínimos obrigatórios, a taxa de ocupação e o coeficiente de aproveitamento estabelecidos no PDE e LPUOS e as disposições do COE em relação ao lote resultante da desapropriação.</p>
+
 
 		<!-- 07_capitulo-VII_d01.html -->
 		<div id="g-07_capitulo-VII_d01-box" class="ai2html">
@@ -169,7 +170,6 @@
 		<p class="corpo_decreto"><strong class="destaque-decreto">§ 2º </strong>Fica delegada aos Coordenadores de SMUL e aos Coordenadores de Planejamento e Desenvolvimento Urbano das PRs, no âmbito de suas atribuições, a competência para representar o Município nas escrituras de doação de áreas necessárias à emissão do Alvará de Execução de edificação. </p>
 		<p class="corpo_decreto"><strong class="destaque-decreto">§ 3º </strong>A relação de documentos necessários à formalização de escritura de doação, a padronização de minutas de escritura e as respectivas rotinas serão estabelecidas em portaria do Secretário de SMUL.</p>
 		<p class="corpo_decreto"><strong class="artigo-decreto">Art. 101. </strong>Quando a lei de melhoramento previr a instituição de faixa de servidão não edificável, com ou sem DUP em vigor, não será lavrada escritura de doação ou de servidão, devendo a faixa ser indicada no projeto da edificação e o Alvará ser emitido com nota indicando o número da respectiva lei de melhoramento público, a metragem da área não edificável e sua localização aproximada dentro dos limites do imóvel.</p>
-
 		
 	</div>
 </template>
@@ -205,7 +205,7 @@ export default{
 	width:960px;
 }
 #g-07_capitulo-VII_d01-01 p {
-	font-family:arial,helvetica,sans-serif;
+	/*font-family:arial,helvetica,sans-serif;*/
 	font-size:14px;
 	line-height:17px;
 	filter:alpha(opacity=100);

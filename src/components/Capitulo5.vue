@@ -1,7 +1,7 @@
 <template>
 	<div class="Capitulo5">
 		
-		<h1 class="cap_lei">CAPÍTULO V – DA EDIFICAÇÃO EXISTENTE</h1>
+		<h1>DA EDIFICAÇÃO EXISTENTE</h1>
 
 		<h2 class="secao_lei">Seção I - Da Edificação Regular</h2>
 		<p class="corpo_lei"><strong class="artigo-lei">Art. 73. </strong>Para os fins de aplicação deste Código, a edificação existente é considerada regular quando:</p>
@@ -23,10 +23,11 @@
 		<p class="corpo_decreto"><strong class="artigo-decreto">Art. 67. </strong>As edificações incluídas no Setor de Edificações Irregulares do Cadastro de Edificações do Município poderão ser transferidas a qualquer tempo para o Setor de Edificações Regulares, mediante a apresentação, pelo interessado, de documentos que comprovem a regularidade. </p>
 		<p class="corpo_decreto"><strong class="artigo-decreto">Art. 68. </strong>A Notificação de Irregularidade é o documento emitido pelo Cadastro de Edificações do Município para atestar a irregularidade da edificação perante a legislação edilícia. </p>
 		<p class="corpo_decreto"><strong class="artigo-decreto">Art. 69. </strong>A pedido do interessado, será emitido Histórico da Edificação, documento que comprova a situação da edificação a partir de 1º de janeiro de 1976, no que se refere à sua regularidade ou irregularidade perante a legislação edilícia, com a eventual alteração da área construída ao longo do tempo. </p>
-		<p class="corpo_decreto"><strong class="artigo-decreto">Art. 70. </strong>A inclusão da edificação no Setor de Edificações Regulares ou no Setor de Edificações Irregulares do Cadastro de Edificações do Município estará sujeita à análise individualizada do caso, independentemente do lançamento tributário pela Secretaria Municipal da Fazenda. </p>
+		<p class="corpo_decreto"><strong class="artigo-decreto">Art. 70. </strong>A inclusão da edificação no Setor de Edificações Regulares ou no Setor de Edificações Irregulares do Cadastro de Edificações do Município estará sujeita à análise individualizada do caso, independentemente do lançamento tributário pela Secretaria Municipal da Fazenda.</p>
+
 		<h2 class="secao_lei">Seção II - Da Reforma</h2>
-		<p class="corpo_lei"><span class="bolinha">Art. 74.</span><strong class="artigo-lei"> </strong>A edificação regularmente existente pode ser reformada desde que a edificação resultante não crie nem agrave eventual desconformidade com a LOE, PDE ou LPUOS.</p>
-		<p class="corpo_decreto"><span class="bolinha">Art. 71.</span><strong class="artigo-decreto"> </strong>Mediante procedimento administrativo e a pedido do interessado, a Prefeitura emitirá Alvará de Aprovação de reforma para edificação existente que seja objeto de intervenção e implique em alteração de área construída, volumetria, modificação de estrutura, pé-direito ou compartimentação vertical, com ou sem mudança de uso. <strong class="subtitulo_txt"></strong></p>
+		<p class="corpo_lei"><strong class="bolinha">Art. 74.</strong> A edificação regularmente existente pode ser reformada desde que a edificação resultante não crie nem agrave eventual desconformidade com a LOE, PDE ou LPUOS.</p>
+		<p class="corpo_decreto"><strong class="bolinha">Art. 71.</strong> Mediante procedimento administrativo e a pedido do interessado, a Prefeitura emitirá Alvará de Aprovação de reforma para edificação existente que seja objeto de intervenção e implique em alteração de área construída, volumetria, modificação de estrutura, pé-direito ou compartimentação vertical, com ou sem mudança de uso. <strong class="subtitulo_txt"></strong></p>
 		<p class="corpo_decreto"><strong class="artigo-decreto">Art. 72. </strong>A cobrança de TEV/COE pelo pedido de Alvará de Aprovação de reforma incidirá sobre a área a ser reformada. </p>
 		<p class="corpo_decreto"><strong class="destaque-decreto">§ 1º </strong>As áreas a serem eventualmente acrescidas e/ou regularizadas serão cobradas pelo valor da TEV/COE da área a ser construída e área a ser regularizada, respectivamente, conforme Anexo II do COE. </p>
 		<p class="corpo_decreto"><strong class="destaque-decreto">§ 2º </strong>A mera mudança de uso, sem alteração de ordem física no imóvel, não incidirá na cobrança de TEV/COE para Alvará de reforma. </p>
@@ -65,8 +66,9 @@
 		<p class="corpo_lei"><strong class="destaque-lei">§ 2º </strong>O projeto deve observar soluções de acessibilidade que atendam aos princípios da <strong>adaptação razoável</strong><sup class="referencias-notas">21</sup> de acordo com o estabelecido neste Código.</p>
 		
 		<div id="05_capitulo-V_b01" class="glossario-box">
-			<p class="corpo_referencias1"><sup>21 </sup>Modificações e ajustes necessários e adequados que não acarretem ônus desproporcional ou indevido, quando requeridos em cada caso, a fim de assegurar que as pessoas com deficiência ou mobilidade reduzida possam gozar ou exercer, em igualdade de oportunidades com as demais pessoas, os direitos humanos e liberdades fundamentais.</p>
+			<p class="corpo_referencias1"><span class="nota">21</span> Modificações e ajustes necessários e adequados que não acarretem ônus desproporcional ou indevido, quando requeridos em cada caso, a fim de assegurar que as pessoas com deficiência ou mobilidade reduzida possam gozar ou exercer, em igualdade de oportunidades com as demais pessoas, os direitos humanos e liberdades fundamentais.</p>
 		</div>
+
 		<p class="corpo_decreto"><strong class="artigo-decreto">Art. 75. </strong>Na requalificação de edificação existente, é admitida a ampliação da área construída para suprir as necessidades de adequação e modernização das instalações da edificação.</p>
 		<p class="corpo_decreto"><strong class="destaque-decreto">§ 1º </strong>É considerado não computável o aumento de área destinado à adaptação razoável à acessibilidade e à melhoria das condições de segurança de uso, higiene e salubridade da edificação existente, não sendo considerado para efeito de cálculo do coeficiente de aproveitamento e da taxa de ocupação previstos na LPUOS. </p>
 		<p class="corpo_decreto"><strong class="destaque-decreto">§ 2º </strong>As intervenções poderão ocupar as faixas de recuo quando não for possível atendê-las nas próprias edificações. </p>
@@ -122,7 +124,7 @@ export default{
 	width:960px;
 }
 #g-05_capitulo-V_d01-01 p {
-	font-family:arial,helvetica,sans-serif;
+	/*font-family:arial,helvetica,sans-serif;*/
 	font-size:14px;
 	line-height:21px;
 	filter:alpha(opacity=100);

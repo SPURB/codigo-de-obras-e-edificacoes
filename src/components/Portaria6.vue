@@ -9,7 +9,7 @@
 		<!-- 6A.html -->
 		<div id="g-6A-box" class="ai2html">
 			<div id="g-6A-Artboard_2" class="g-artboard g-artboard-v4" data-min-width='853'>
-				<img id="g-6A-Artboard_2-img" class="g-aiImg" src="static/img/6A-Artboard_2.png"/>
+				<img id="g-6A-Artboard_2-img" class="g-aiImg" :src="caminho + '6A-Artboard_2.png'"/>
 				<div id="g-ai0-1" class="g-norte g-aiAbs g-aiPointText" style="top:2.2879%;margin-top:-8.1px;left:30.2835%;margin-left:-15px;width:30px;">
 					<p class="g-pstyle0">A</p>
 				</div>
@@ -107,13 +107,13 @@
 				</div>
 			</div>
 		</div>
-		<h5 class="nota_quadro"><span class="notas">Nota: </span><strong class="destaque-decreto">Desenhos em escala reduzida para orientação do projeto simplificado. As peças gráficas devem ser apresentadas na escala 1:100 ou 1:200 nos casos em que o lote for muito grande. Os textos indicativos e números devem ser legíveis, de perfeita compreensão.</strong></h5>
+		<h5 class="nota_quadro"><span class="notas">Nota:</span> <strong class="destaque-decreto">Desenhos em escala reduzida para orientação do projeto simplificado. As peças gráficas devem ser apresentadas na escala 1:100 ou 1:200 nos casos em que o lote for muito grande. Os textos indicativos e números devem ser legíveis, de perfeita compreensão.</strong></h5>
 
 		<h2>Seção 6.B - Planta nível acesso (uso misto)</h2>
 		<!-- 6B.html -->
 		<div id="g-6B-box" class="ai2html">
 			<div id="g-6B-Artboard_2" class="g-artboard g-artboard-v4" data-min-width='845'>
-				<img id="g-6B-Artboard_2-img" class="g-aiImg" src="static/img/6B-Artboard_2.png"/>
+				<img id="g-6B-Artboard_2-img" class="g-aiImg" :src="caminho + '6B-Artboard_2.png'"/>
 				<div id="g-ai0-1" class="g-norte g-aiAbs g-aiPointText" style="top:2.1145%;margin-top:-8.1px;left:30.4608%;margin-left:-15px;width:30px;">
 					<p class="g-pstyle0">A</p>
 				</div>
@@ -290,13 +290,13 @@
 				</div>
 			</div>
 		</div>
-		<h5 class="nota_quadro"><span class="notas">Nota: </span><strong class="destaque-decreto">Desenhos em escala reduzida para orientação do projeto simplificado. As peças gráficas devem ser apresentadas na escala 1:100 ou 1:200 nos casos em que o lote for muito grande. Os textos indicativos e números devem ser legíveis, de perfeita compreensão.</strong></h5>
+		<h5 class="nota_quadro"><span class="notas">Nota:</span> <strong class="destaque-decreto">Desenhos em escala reduzida para orientação do projeto simplificado. As peças gráficas devem ser apresentadas na escala 1:100 ou 1:200 nos casos em que o lote for muito grande. Os textos indicativos e números devem ser legíveis, de perfeita compreensão.</strong></h5>
 
 		<h2>Seção 6.C - Planta nível térreo não residencial</h2>
 		<!-- 6C.html -->
 		<div id="g-6C-box" class="ai2html">
 			<div id="g-6C-Artboard_2" class="g-artboard g-artboard-v4" data-min-width='835'>
-				<img id="g-6C-Artboard_2-img" class="g-aiImg" src="static/img/6C-Artboard_2.png"/>
+				<img id="g-6C-Artboard_2-img" class="g-aiImg" :src="caminho + '6C-Artboard_2.png'"/>
 				<div id="g-ai0-1" class="g-norte g-aiAbs g-aiPointText" style="top:1.8738%;margin-top:-8.1px;left:58.6934%;margin-left:-142px;width:284px;">
 					<p class="g-pstyle0">E=0,00m&emsp;R=0,00m&emsp;REMANESCENTE=0,00m</p>
 				</div>
@@ -439,13 +439,13 @@
 				</div>
 			</div>
 		</div>
-		<h5 class="nota_quadro"><span class="notas">Nota: </span><strong class="destaque-decreto">Desenhos em escala reduzida para orientação do projeto simplificado. As peças gráficas devem ser apresentadas na escala 1:100 ou 1:200 nos casos em que o lote for muito grande. Os textos indicativos e números devem ser legíveis, de perfeita compreensão.</strong></h5>
+		<h5 class="nota_quadro"><span class="notas">Nota:</span> <strong class="destaque-decreto">Desenhos em escala reduzida para orientação do projeto simplificado. As peças gráficas devem ser apresentadas na escala 1:100 ou 1:200 nos casos em que o lote for muito grande. Os textos indicativos e números devem ser legíveis, de perfeita compreensão.</strong></h5>
 
 		<h2>Seção 6.D - Planta pavimento tipo residencial</h2>
 		<!-- 6D.html -->
 		<div id="g-6D-box" class="ai2html">
 			<div id="g-6D-Artboard_2" class="g-artboard g-artboard-v4" data-min-width='826'>
-				<img id="g-6D-Artboard_2-img" class="g-aiImg" src="static/img/6D-Artboard_2.png"/>
+				<img id="g-6D-Artboard_2-img" class="g-aiImg" :src="caminho + '6D-Artboard_2.png'"/>
 				<div id="g-ai0-1" class="g-norte g-aiAbs g-aiPointText" style="top:2.1885%;margin-top:-8.1px;left:31.1614%;margin-left:-15px;width:30px;">
 					<p class="g-pstyle0">A</p>
 				</div>
@@ -568,13 +568,13 @@
 				</div>
 			</div>
 		</div>
-		<h5 class="nota_quadro"><span class="notas">Nota: </span><strong class="destaque-decreto">Desenhos em escala reduzida para orientação do projeto simplificado. As peças gráficas devem ser apresentadas na escala 1:100 ou 1:200 nos casos em que o lote for muito grande. Os textos indicativos e números devem ser legíveis, de perfeita compreensão.</strong></h5>
+		<h5 class="nota_quadro"><span class="notas">Nota:</span> <strong class="destaque-decreto">Desenhos em escala reduzida para orientação do projeto simplificado. As peças gráficas devem ser apresentadas na escala 1:100 ou 1:200 nos casos em que o lote for muito grande. Os textos indicativos e números devem ser legíveis, de perfeita compreensão.</strong></h5>
 
 		<h2>Seção 6.E - Planta pavimento tipo não residencial</h2>
 		<!-- 6E.html -->
 		<div id="g-6E-box" class="ai2html">
 			<div id="g-6E-Artboard_2" class="g-artboard g-artboard-v4" data-min-width='837'>
-				<img id="g-6E-Artboard_2-img" class="g-aiImg" src="static/img/6E-Artboard_2.png"/>
+				<img id="g-6E-Artboard_2-img" class="g-aiImg" :src="caminho + '6E-Artboard_2.png'"/>
 				<div id="g-ai0-1" class="g-texto g-aiAbs g-aiPointText" style="top:2.9106%;margin-top:-8.1px;left:59.2335%;margin-left:-142px;width:284px;">
 					<p class="g-pstyle0">E=0,00m&emsp;R=0,00m&emsp;REMANESCENTE=0,00m</p>
 				</div>
@@ -662,13 +662,13 @@
 				</div>
 			</div>
 		</div>
-		<h5 class="nota_quadro"><span class="notas">Nota: </span><strong class="destaque-decreto">Desenhos em escala reduzida para orientação do projeto simplificado. As peças gráficas devem ser apresentadas na escala 1:100 ou 1:200 nos casos em que o lote for muito grande. Os textos indicativos e números devem ser legíveis, de perfeita compreensão.</strong></h5>
+		<h5 class="nota_quadro"><span class="notas">Nota:</span> <strong class="destaque-decreto">Desenhos em escala reduzida para orientação do projeto simplificado. As peças gráficas devem ser apresentadas na escala 1:100 ou 1:200 nos casos em que o lote for muito grande. Os textos indicativos e números devem ser legíveis, de perfeita compreensão.</strong></h5>
 
 		<h2>Seção 6.F - Planta ático</h2>
 		<!-- 6F.html -->
 		<div id="g-6F-box" class="ai2html">
 			<div id="g-6F-Artboard_2" class="g-artboard g-artboard-v4" data-min-width='838'>
-				<img id="g-6F-Artboard_2-img" class="g-aiImg" src="static/img/6F-Artboard_2.png"/>
+				<img id="g-6F-Artboard_2-img" class="g-aiImg" :src="caminho + '6F-Artboard_2.png'"/>
 				<div id="g-ai0-1" class="g-texto g-aiAbs g-aiPointText" style="top:2.1867%;margin-top:-8.1px;left:59.1927%;margin-left:-142px;width:284px;">
 					<p class="g-pstyle0">E=0,00m&emsp;R=0,00m&emsp;REMANESCENTE=0,00m</p>
 				</div>
@@ -714,13 +714,13 @@
 				</div>
 			</div>
 		</div>
-		<h5 class="nota_quadro"><span class="notas">Nota: </span><strong class="destaque-decreto">Desenhos em escala reduzida para orientação do projeto simplificado. As peças gráficas devem ser apresentadas na escala 1:100 ou 1:200 nos casos em que o lote for muito grande. Os textos indicativos e números devem ser legíveis, de perfeita compreensão.</strong></h5>
+		<h5 class="nota_quadro"><span class="notas">Nota:</span> <strong class="destaque-decreto">Desenhos em escala reduzida para orientação do projeto simplificado. As peças gráficas devem ser apresentadas na escala 1:100 ou 1:200 nos casos em que o lote for muito grande. Os textos indicativos e números devem ser legíveis, de perfeita compreensão.</strong></h5>
 
 		<h2>Seção 6.G - Planta subsolo com estacionamento</h2>
 		<!-- 6G.html -->
 		<div id="g-6G-box" class="ai2html">
 			<div id="g-6G-Artboard_2" class="g-artboard g-artboard-v4" data-min-width='838'>
-				<img id="g-6G-Artboard_2-img" class="g-aiImg" src="static/img/6G-Artboard_2.png"/>
+				<img id="g-6G-Artboard_2-img" class="g-aiImg" :src="caminho + '6G-Artboard_2.png'"/>
 				<div id="g-ai0-1" class="g-guias g-aiAbs g-aiPointText" style="top:1.87%;margin-top:-8.1px;left:58.5045%;margin-left:-142px;width:284px;">
 					<p class="g-pstyle0">E=0,00m&emsp;R=0,00m&emsp;REMANESCENTE=0,00m</p>
 				</div>
@@ -793,13 +793,13 @@
 				</div>
 			</div>
 		</div>
-		<h5 class="nota_quadro"><span class="notas">Nota: </span><strong class="destaque-decreto">Desenhos em escala reduzida para orientação do projeto simplificado. As peças gráficas devem ser apresentadas na escala 1:100 ou 1:200 nos casos em que o lote for muito grande. Os textos indicativos e números devem ser legíveis, de perfeita compreensão.</strong></h5>
+		<h5 class="nota_quadro"><span class="notas">Nota:</span> <strong class="destaque-decreto">Desenhos em escala reduzida para orientação do projeto simplificado. As peças gráficas devem ser apresentadas na escala 1:100 ou 1:200 nos casos em que o lote for muito grande. Os textos indicativos e números devem ser legíveis, de perfeita compreensão.</strong></h5>
 
 		<h2>Seção 6.H - Cortes</h2>
 		<!-- 6H.html -->
 		<div id="g-6H-box" class="ai2html">
 			<div id="g-6H-01" class="g-artboard g-artboard-v4" data-min-width='960'>
-				<img id="g-6H-01-img" class="g-aiImg" src="static/img/6H-01.png"/>
+				<img id="g-6H-01-img" class="g-aiImg" :src="caminho + '6H-01.png'"/>
 				<div id="g-ai0-1" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:6.938%;margin-top:-15.3px;left:48.6753%;width:76px;">
 					<p class="g-pstyle0">Nível</p>
 					<p class="g-pstyle0">Cobertura</p>
@@ -879,14 +879,14 @@
 				</div>
 			</div>
 		</div>
-		<h5 class="nota_quadro"><span class="notas">Nota: </span><strong class="destaque-decreto">Desenhos em escala reduzida para orientação do projeto simplificado. As peças gráficas devem ser apresentadas na escala 1:100 ou 1:200 nos casos em que o lote for muito grande. Os textos indicativos e números devem ser legíveis, de perfeita compreensão.</strong></h5>
+		<h5 class="nota_quadro"><span class="notas">Nota:</span> <strong class="destaque-decreto">Desenhos em escala reduzida para orientação do projeto simplificado. As peças gráficas devem ser apresentadas na escala 1:100 ou 1:200 nos casos em que o lote for muito grande. Os textos indicativos e números devem ser legíveis, de perfeita compreensão.</strong></h5>
 
 		<h2>Seção 6.I - Demonstração de segurança</h2>
 		<h4 class="subsecao_portaria">Projeto simplificado para grandes empreendimentos – Pavimento térreo</h4>
 		<!-- 6I.html -->
 		<div id="g-6I-box" class="ai2html">
 			<div id="g-6I-01" class="g-artboard g-artboard-v4" data-min-width='960'>
-				<img id="g-6I-01-img" class="g-aiImg" src="static/img/6I-01.png"/>
+				<img id="g-6I-01-img" class="g-aiImg" :src="caminho + '6I-01.png'"/>
 				<div id="g-ai0-1" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:2.6001%;margin-top:-9.6px;left:1.2041%;width:588px;">
 					<p class="g-pstyle0">PROJETO SIMPLIFICADO PARA GRANDES EMPREENDIMENTOS PGT / EGIV / EGIA</p>
 				</div>
@@ -950,14 +950,14 @@
 				</div>
 			</div>
 		</div>
-		<h5 class="nota_quadro"><span class="notas">Nota:</span><strong class="destaque-decreto"> Todos os percursos indicados de acordo com os itens 6.D.1 e 6.D.2 do Anexo I do Decreto nº 57.776/17.</strong></h5>
+		<h5 class="nota_quadro"><span class="notas">Nota:</span> <strong class="destaque-decreto">Todos os percursos indicados de acordo com os itens 6.D.1 e 6.D.2 do Anexo I do Decreto nº 57.776/17.</strong></h5>
 
 		<h2>Seção 6.J - Demonstração de segurança</h2>
 		<h4 class="subsecao_portaria">Projeto simplificado para grandes empreendimentos – Pavimento superior</h4>
 		<!-- 6J.html -->
 		<div id="g-6J-box" class="ai2html">
 			<div id="g-6J-01" class="g-artboard g-artboard-v4" data-min-width='960'>
-				<img id="g-6J-01-img" class="g-aiImg" src="static/img/6J-01.png"/>
+				<img id="g-6J-01-img" class="g-aiImg" :src="caminho + '6J-01.png'"/>
 				<div id="g-ai0-1" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:2.5368%;margin-top:-9.6px;left:0.6976%;width:579px;">
 					<p class="g-pstyle0">PROJETO SIMPLIFICADO PARA GRANDES EMPREENDIMENTOS PGT / EGIV / EGIA</p>
 				</div>
@@ -1018,14 +1018,14 @@
 				</div>
 			</div>
 		</div>
-		<h5 class="nota_quadro"><span class="notas">Nota:</span><strong class="destaque-decreto"> Todos os percursos indicados de acordo com os itens 6.D.1 e 6.D.2 do Anexo I do Decreto nº 57.776/17.</strong></h5>
+		<h5 class="nota_quadro"><span class="notas">Nota:</span> <strong class="destaque-decreto">Todos os percursos indicados de acordo com os itens 6.D.1 e 6.D.2 do Anexo I do Decreto nº 57.776/17.</strong></h5>
 
 		<h2>Seção 6.K - Atendimento quota ambiental</h2>
 		<h4 class="subsecao_portaria">Implantação</h4>
 		<!-- 6K.html -->
 		<div id="g-6K-box" class="ai2html">
 			<div id="g-6K-01" class="g-artboard g-artboard-v4" data-min-width='960'>
-				<img id="g-6K-01-img" class="g-aiImg" src="static/img/6K-01.png"/>
+				<img id="g-6K-01-img" class="g-aiImg" :src="caminho + '6K-01.png'"/>
 				<div id="g-ai0-1" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:2.3235%;margin-top:-8.1px;left:52.0726%;margin-left:-144px;width:288px;">
 					<p class="g-pstyle0">E=0,00m&emsp;R=0,00m&emsp;REMANESCENTE=0,00m</p>
 				</div>
@@ -1157,14 +1157,14 @@
 				</div>
 			</div>
 		</div>
-		<h5 class="nota_quadro"><span class="notas">Nota: </span><strong class="destaque-decreto">Desenhos em escala reduzida para orientação do projeto simplificado. As peças gráficas devem ser apresentadas na escala 1:100 ou 1:200 nos casos em que o lote for muito grande. Os textos indicativos e números devem ser legíveis, de perfeita compreensão.</strong></h5>
+		<h5 class="nota_quadro"><span class="notas">Nota:</span> <strong class="destaque-decreto">Desenhos em escala reduzida para orientação do projeto simplificado. As peças gráficas devem ser apresentadas na escala 1:100 ou 1:200 nos casos em que o lote for muito grande. Os textos indicativos e números devem ser legíveis, de perfeita compreensão.</strong></h5>
 
 		<h2>Seção 6.L - Atendimento quota ambiental</h2>
 		<h4 class="subsecao_portaria">Pavimento com coberturas impermeabilizadas e/ou verdes</h4>
 		<!-- 6L.html -->
 		<div id="g-6L-box" class="ai2html">
 			<div id="g-6L-01" class="g-artboard g-artboard-v4" data-min-width='960'>
-				<img id="g-6L-01-img" class="g-aiImg" src="static/img/6L-01.png"/>
+				<img id="g-6L-01-img" class="g-aiImg" :src="caminho + '6L-01.png'"/>
 				<div id="g-ai0-1" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:2.6767%;margin-top:-8.1px;left:51.7772%;margin-left:-144px;width:288px;">
 					<p class="g-pstyle0">E=0,00m&emsp;R=0,00m&emsp;REMANESCENTE=0,00m</p>
 				</div>
@@ -1222,14 +1222,14 @@
 				</div>
 			</div>
 		</div>
-		<h5 class="nota_quadro"><span class="notas">Nota: </span><strong class="destaque-decreto">Desenhos em escala reduzida para orientação do projeto simplificado. As peças gráficas devem ser apresentadas na escala 1:100 ou 1:200 nos casos em que o lote for muito grande. Os textos indicativos e números devem ser legíveis, de perfeita compreensão.</strong></h5>
+		<h5 class="nota_quadro"><span class="notas">Nota:</span> <strong class="destaque-decreto">Desenhos em escala reduzida para orientação do projeto simplificado. As peças gráficas devem ser apresentadas na escala 1:100 ou 1:200 nos casos em que o lote for muito grande. Os textos indicativos e números devem ser legíveis, de perfeita compreensão.</strong></h5>
 
 		<h2>Seção 6.M - Atendimento quota ambiental</h2>
 		<h4 class="subsecao_portaria">Reservatórios de controle de escoamento superficial e aproveitamento e de aproveitamento de águas pluviais.</h4>
 		<!-- 6M.html -->
 		<div id="g-6M-box" class="ai2html">
 			<div id="g-6M-01" class="g-artboard g-artboard-v4" data-min-width='960'>
-				<img id="g-6M-01-img" class="g-aiImg" src="static/img/6M-01.png"/>
+				<img id="g-6M-01-img" class="g-aiImg" :src="caminho + '6M-01.png'"/>
 				<div id="g-ai0-1" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:2.6442%;margin-top:-8.1px;left:51.871%;margin-left:-144px;width:288px;">
 					<p class="g-pstyle0">E=0,00m&emsp;R=0,00m&emsp;REMANESCENTE=0,00m</p>
 				</div>
@@ -1304,13 +1304,13 @@
 				</div>
 			</div>
 		</div>
-		<h5 class="nota_quadro"><span class="notas">Nota: </span><strong class="destaque-decreto">Desenhos em escala reduzida para orientação do projeto simplificado. As peças gráficas devem ser apresentadas na escala 1:100 ou 1:200 nos casos em que o lote for muito grande. Os textos indicativos e números devem ser legíveis, de perfeita compreensão.</strong></h5>
+		<h5 class="nota_quadro"><span class="notas">Nota:</span> <strong class="destaque-decreto">Desenhos em escala reduzida para orientação do projeto simplificado. As peças gráficas devem ser apresentadas na escala 1:100 ou 1:200 nos casos em que o lote for muito grande. Os textos indicativos e números devem ser legíveis, de perfeita compreensão.</strong></h5>
 
 		<h2>Seção 6.N e 6.O - Edificações até 1.500 Mts</h2>
 		<!-- 6N.html -->
 		<div id="g-6N-box" class="ai2html">
 			<div id="g-6N-Prancheta_1" class="g-artboard g-artboard-v4" data-min-width='960'>
-				<img id="g-6N-Prancheta_1-img" class="g-aiImg" src="static/img/6N-Prancheta_1.png"/>
+				<img id="g-6N-Prancheta_1-img" class="g-aiImg" :src="caminho + '6N-Prancheta_1.png'"/>
 				<div id="g-ai0-1" class="g-Camada_1 g-aiAbs g-aiPointText" style="transform: matrix(0,-1,1,0,0,0);transform-origin: 50% 58.4540763673891%;-webkit-transform: matrix(0,-1,1,0,0,0);-webkit-transform-origin: 50% 58.4540763673891%;-ms-transform: matrix(0,-1,1,0,0,0);-ms-transform-origin: 50% 58.4540763673891%;top:3.2597%;margin-top:-5.9px;left:21.6017%;margin-left:-20.5px;width:41px;">
 					<p class="g-pstyle0">cota</p>
 				</div>
@@ -1672,13 +1672,13 @@
 				</div>
 			</div>
 		</div>
-		<h5 class="nota_quadro"><span class="notas">Nota: </span><strong class="destaque-decreto">Desenhos em escala reduzida para orientação do projeto simplificado. As peças gráficas devem ser apresentadas na escala 1:100. Os textos indicativos e números devem ser legíveis, de perfeita compreensão.</strong></h5>
+		<h5 class="nota_quadro"><span class="notas">Nota:</span> <strong class="destaque-decreto">Desenhos em escala reduzida para orientação do projeto simplificado. As peças gráficas devem ser apresentadas na escala 1:100. Os textos indicativos e números devem ser legíveis, de perfeita compreensão.</strong></h5>
 
 		<h2>Critérios para cálculo de áreas</h2>
 		<!-- 6Ob-1.html -->
 		<div id="g-6Ob-1-box" class="ai2html">
 			<div id="g-6Ob-1-Artboard_2" class="g-artboard g-artboard-v4" data-min-width='960'>
-				<img id="g-6Ob-1-Artboard_2-img" class="g-aiImg" src="static/img/6Ob-1-Artboard_2.png"/>
+				<img id="g-6Ob-1-Artboard_2-img" class="g-aiImg" :src="caminho + '6Ob-1-Artboard_2.png'"/>
 				<div id="g-ai0-1" class="g-texto g-aiAbs g-aiPointText" style="top:13.6837%;margin-top:-22.7px;left:91.2589%;width:83px;">
 					<p class="g-pstyle0">Área </p>
 					<p class="g-pstyle0">computável</p>
@@ -1790,13 +1790,13 @@
 				</div>
 			</div>
 		</div>
-		<h5 class="nota_quadro"><span class="notas">Nota: </span><strong class="destaque-decreto">Desenhos em escala reduzida para orientação do projeto simplificado. As peças gráficas devem ser apresentadas na escala 1:100. Os textos indicativos e números devem ser legíveis, de perfeita compreensão.</strong></h5>
+		<h5 class="nota_quadro"><span class="notas">Nota:</span> <strong class="destaque-decreto">Desenhos em escala reduzida para orientação do projeto simplificado. As peças gráficas devem ser apresentadas na escala 1:100. Os textos indicativos e números devem ser legíveis, de perfeita compreensão.</strong></h5>
 
 		<h2>Modelo de folha de rosto</h2>
 		<!-- 6Ob-2.html -->
 		<div id="g-6Ob-2-box" class="ai2html">
 			<div id="g-6Ob-2-Prancheta_1" class="g-artboard g-artboard-v4" data-min-width='601'>
-				<img id="g-6Ob-2-Prancheta_1-img" class="g-aiImg" src="static/img/6Ob-2-Prancheta_1.png"/>
+				<img id="g-6Ob-2-Prancheta_1-img" class="g-aiImg" :src="caminho + '6Ob-2-Prancheta_1.png'"/>
 				<div id="g-ai0-1" class="g-Camada_1 g-aiAbs g-aiPointText" style="transform: matrix(1,0,0,1,0,0);transform-origin: 50% 53.8140643623361%;-webkit-transform: matrix(1,0,0,1,0,0);-webkit-transform-origin: 50% 53.8140643623361%;-ms-transform: matrix(1,0,0,1,0,0);-ms-transform-origin: 50% 53.8140643623361%;top:3.9738%;margin-top:-13.1px;left:2.7454%;width:145px;">
 					<p class="g-pstyle0">Título da folha</p>
 				</div>
@@ -2040,6 +2040,7 @@
 <script>
 export default{
   name: "Portaria6", 
+  props:['caminho'],
   data(){
     return{
       title: "Portaria - Capítulo 6"
@@ -2072,7 +2073,7 @@ export default{
 	width:853px;
 }
 #g-6A-Artboard_2 p {
-	font-family:'Museo',arial,helvetica,sans-serif;
+	/*font-family:'Museo',arial,helvetica,sans-serif;*/
 	font-size:12px;
 	line-height:14px;
 	height:auto;
@@ -2126,7 +2127,7 @@ export default{
 	width:845px;
 }
 #g-6B-Artboard_2 p {
-	font-family:'Museo',arial,helvetica,sans-serif;
+	/*font-family:'Museo',arial,helvetica,sans-serif;*/
 	font-size:12px;
 	line-height:14px;
 	filter:alpha(opacity=100);
@@ -2180,7 +2181,7 @@ export default{
 	width:835px;
 }
 #g-6C-Artboard_2 p {
-	font-family:'Museo',arial,helvetica,sans-serif;
+	/*font-family:'Museo',arial,helvetica,sans-serif;*/
 	font-size:12px;
 	line-height:14px;
 	filter:alpha(opacity=100);
@@ -2229,7 +2230,7 @@ export default{
 	width:826px;
 }
 #g-6D-Artboard_2 p {
-	font-family:'Museo',arial,helvetica,sans-serif;
+	/*font-family:'Museo',arial,helvetica,sans-serif;*/
 	font-size:12px;
 	line-height:14px;
 	filter:alpha(opacity=100);
@@ -2271,7 +2272,7 @@ export default{
 	width:837px;
 }
 #g-6E-Artboard_2 p {
-	font-family:'Museo',arial,helvetica,sans-serif;
+	/*font-family:'Museo',arial,helvetica,sans-serif;*/
 	font-size:12px;
 	line-height:14px;
 	filter:alpha(opacity=100);
@@ -2316,7 +2317,7 @@ export default{
 	width:838px;
 }
 #g-6F-Artboard_2 p {
-	font-family:'Museo',arial,helvetica,sans-serif;
+	/*font-family:'Museo',arial,helvetica,sans-serif;*/
 	font-size:12px;
 	line-height:14px;
 	height:auto;
@@ -2361,7 +2362,7 @@ export default{
 	width:838px;
 }
 #g-6G-Artboard_2 p {
-	font-family:'Museo',arial,helvetica,sans-serif;
+	/*font-family:'Museo',arial,helvetica,sans-serif;*/
 	font-size:12px;
 	line-height:14px;
 	height:auto;
@@ -2406,7 +2407,7 @@ export default{
 	width:960px;
 }
 #g-6H-01 p {
-	font-family:'Museo',arial,helvetica,sans-serif;
+	/*font-family:'Museo',arial,helvetica,sans-serif;*/
 	font-size:12px;
 	line-height:14px;
 	height:auto;
@@ -2455,7 +2456,7 @@ export default{
 	width:960px;
 }
 #g-6I-01 p {
-	font-family:'Museo',arial,helvetica,sans-serif;
+	/*font-family:'Museo',arial,helvetica,sans-serif;*/
 	font-size:12px;
 	line-height:16px;
 	height:auto;
@@ -2526,7 +2527,7 @@ export default{
 	width:960px;
 }
 #g-6J-01 p {
-	font-family:'Museo',arial,helvetica,sans-serif;
+	/*font-family:'Museo',arial,helvetica,sans-serif;*/
 	font-size:12px;
 	line-height:16px;
 	height:auto;
@@ -2602,7 +2603,7 @@ export default{
 	width:960px;
 }
 #g-6K-01 p {
-	font-family:'Museo',arial,helvetica,sans-serif;
+	/*font-family:'Museo',arial,helvetica,sans-serif;*/
 	font-size:12px;
 	line-height:16px;
 	height:auto;
@@ -2658,7 +2659,7 @@ export default{
 	width:960px;
 }
 #g-6L-01 p {
-	font-family:'Museo',arial,helvetica,sans-serif;
+	/*font-family:'Museo',arial,helvetica,sans-serif;*/
 	font-size:12px;
 	line-height:14px;
 	height:auto;
@@ -2707,7 +2708,7 @@ export default{
 	width:960px;
 }
 #g-6M-01 p {
-	font-family:'Museo',arial,helvetica,sans-serif;
+	/*font-family:'Museo',arial,helvetica,sans-serif;*/
 	font-size:12px;
 	line-height:14px;
 	height:auto;
@@ -2760,7 +2761,7 @@ export default{
 	width:960px;
 }
 #g-6N-Prancheta_1 p {
-	font-family:'Museo',arial,helvetica,sans-serif;
+	/*font-family:'Museo',arial,helvetica,sans-serif;*/
 	font-size:10px;
 	line-height:10px;
 	height:auto;
@@ -2863,7 +2864,7 @@ export default{
 	width:960px;
 }
 #g-6Ob-1-Artboard_2 p {
-	font-family:'Museo',arial,helvetica,sans-serif;
+	/*font-family:'Museo',arial,helvetica,sans-serif;*/
 	font-size:12px;
 	line-height:14px;
 	height:auto;
@@ -2908,7 +2909,7 @@ export default{
 	width:601px;
 }
 #g-6Ob-2-Prancheta_1 p {
-	font-family:'Museo',arial,helvetica,sans-serif;
+	/*font-family:'Museo',arial,helvetica,sans-serif;*/
 	font-size:12px;
 	line-height:14px;
 	height:auto;

@@ -1,16 +1,14 @@
 <template>
 	<div class="Capitulo8">
 
-		<h1 class="cap_lei">CAPÍTULO VIII – DAS DISPOSIÇÕES FINAIS E TRANSITÓRIAS</h1>
+		<h1>DAS DISPOSIÇÕES FINAIS E TRANSITÓRIAS</h1>
 
-		<p class="corpo_lei"><span class="bolinha">Art. 108.</span><strong class="artigo-lei"> </strong>Para fins de aplicação dos índices de ocupação e aproveitamento do solo, observados os limites estabelecidos na LPUOS, não é considerada <strong>área construída computável</strong><sup>22</sup>:</p>
-
-		<div id="08_capitulo-VIII_b01" class="glossario-box">
-			<p class="corpo_referencias1"><sup>22 </sup><span class="glossario-museo">Área computavel</span> é a soma das áreas cobertas de todos os pavimentos de uma edificação, que são consideradas para o cálculo do coeficiente de aproveitamento.</p>
-			<p class="corpo_referencias2"><span class="glossario-museo">Área não computável</span> é a soma das áreas cobertas de uma edificação não considerada para o cálculo do coeficiente de aproveitamento, nos termos dispostos na legislação pertinente.<span class="glossario-museo"></span></p>
-			<h6 class="corpo-referencias-pequeno">Fonte: Quadro 01 da Lei nº 16.050/14</h6>
+		<div id="08_capitulo-VIII_b01" class="glossario-box" style="margin-top: 1.5em;">
+			<p><span class="nota">22</span> Área computavel é a soma das áreas cobertas de todos os pavimentos de uma edificação, que são consideradas para o cálculo do coeficiente de aproveitamento.</p>
+			<p>Área não computável é a soma das áreas cobertas de uma edificação não considerada para o cálculo do coeficiente de aproveitamento, nos termos dispostos na legislação pertinente.<br />
+			<span style="font-size: x-small; margin-left: 2em;">Fonte: Quadro 01 da Lei nº 16.050/14</span></p>
 		</div>
-
+		<p class="corpo_lei"><strong class="bolinha">Art. 108.</strong> Para fins de aplicação dos índices de ocupação e aproveitamento do solo, observados os limites estabelecidos na LPUOS, não é considerada <strong>área construída computável</strong><sup>22</sup>:</p>
 		<p class="corpo_decreto"><strong class="artigo-decreto">Art. 102. </strong>Para fins de aplicação dos índices de ocupação e aproveitamento do solo, observados os limites estabelecidos na LPUOS, são consideradas áreas construídas não computáveis aquelas constantes do artigo 108 do COE, atendidas as seguintes regras:<strong class="subtitulo_txt"></strong></p>
 		<p class="corpo_lei"><strong class="destaque-lei">I - </strong>o terraço aberto, com área construída máxima por pavimento equivalente a 5% (cinco por cento) da área do terreno;</p>
 		<p class="corpo_decreto"><strong class="destaque-decreto">I -</strong> no terraço aberto, com área construída máxima por pavimento equivalente a 5% (cinco por cento) da área do terreno, deve ser observado o remanescente do imóvel quando o terreno for objeto de doação de área para alargamento de passeio ou por melhoramento público; </p>
@@ -100,19 +98,30 @@
 		</div>
 
 		<div id="08_capitulo-VIII_b02" class="glossario-box">
-			<p class="corpo_referencias1"><sup>23 </sup>Em função das alterações do novo PDE, Lei Nº 16.050, as vias coletoras não são contempladas.</p>
+			<p class="corpo_referencias1"><span class="nota">23</span>Em função das alterações do novo PDE, Lei Nº 16.050, as vias coletoras não são contempladas.</p>
 		</div>
 
+		<p class="corpo_lei"><strong class="artigo-lei">Art. 109. </strong>A edificação cuja titularidade seja de pessoa jurídica de direito público do Município, do Estado de São Paulo e da União Federal e respectivas autarquias universitárias, ainda que implantada em imóvel não constante do Cadastro de Edificações do Município, fica considerada regular na situação existente em 31 de julho de 2014, data da Lei nº 16.050, de 31 de julho de 2014.</p>
+		<p class="corpo_lei"><strong class="destaque-lei">Parágrafo único. </strong>O atendimento às normas de estabilidade, segurança, salubridade e acessibilidade na edificação de que trata o “caput” deste artigo é de responsabilidade do ente público que a ocupa.</p>
+		<p class="corpo_lei"><strong class="artigo-lei">Art. 110. </strong>Os arts. 2º e 13 da Lei nº 15.150, de 6 de maio de 2010, passam a vigorar com as seguintes alterações:</p>
+		<p class="corpo_lei">“<strong class="bolinha" style="font-weight: 300;">Art. 2º</strong> (…)</p>
+		<p class="corpo_lei">§ 1º São consideradas Áreas Especiais de Tráfego – AET:</p>
+
+		<div id="08_capitulo-VIII_b02" class="glossario-box">
+			<span class="nota">23</span> Em função das alterações do novo PDE, Lei Nº 16.050, as vias coletoras não são contempladas.
+		</div>
+		
+		<p class="corpo_lei">I - AET 1<sup class="referencias-notas">23</sup> – Minianel Viário: vias classificadas pela legislação vigente como Estruturais N1 e N3, inseridas no Minianel Viário;</p>
 		<p class="corpo_lei">II - AET 2 – na área externa ao Minianel Viário: vias classificadas pela legislação vigente como Estruturais N1, N2 e N3;</p>
 		<p class="corpo_lei">III - AET 3 – áreas de Operação Urbana: em todas as vias, independentemente de sua classificação.</p>
-		<p class="corpo_lei">§ 2º Para fins de enquadramento das edificações como Polos Geradores de Tráfego – PGT, são consideradas vagas de estacionamento de veículos o somatório das vagas oferecidas no projeto, excetuadas aquelas destinadas a carga e descarga, atendimento médico de emergência, segurança, motocicletas e bicicletas. <strong class="destaque-lei">”</strong></p>
-		<p class="corpo_lei"><strong class="destaque-lei">“ </strong><span class="bolinha">Art. 13.</span> A Certidão de Diretrizes é documento obrigatório para a obtenção de Alvará de Aprovação e Execução, de Alvará de Execução e de Certificado de Regularização para empreendimento qualificado como Polo Gerador de Tráfego.</p>
+		<p class="corpo_lei">§ 2º Para fins de enquadramento das edificações como Polos Geradores de Tráfego – PGT, são consideradas vagas de estacionamento de veículos o somatório das vagas oferecidas no projeto, excetuadas aquelas destinadas a carga e descarga, atendimento médico de emergência, segurança, motocicletas e bicicletas."</p>
+		<p class="corpo_lei">“<strong class="bolinha" style="font-weight: 300;">Art. 13.</strong> A Certidão de Diretrizes é documento obrigatório para a obtenção de Alvará de Aprovação e Execução, de Alvará de Execução e de Certificado de Regularização para empreendimento qualificado como Polo Gerador de Tráfego.</p>
 		<p class="corpo_lei">§ 1º Quando se tratar de pedido de Alvará de Aprovação, este será expedido mediante manifestação favorável da CET em relação ao cumprimento, no projeto do empreendimento, do disposto nos incisos I a III do parágrafo único do art. 4º desta lei.</p>
 		<p class="corpo_lei">§ 2º No caso de pedido de Certificado de Regularização, também deverá ser apresentado o Termo de Recebimento e Aceitação Definitivo – TRAD.</p>
 		<p class="corpo_lei">§ 3º No caso de projeto modificativo ou de mudança do projeto no decorrer da análise, fica dispensada a apresentação de nova certidão quando as alterações em relação ao projeto original analisado por CET:</p>
 		<p class="corpo_lei">a) não impliquem em alteração de uso, categoria de uso ou subcategoria de uso;</p>
 		<p class="corpo_lei">b) não ultrapassem 5% (cinco por cento) nas áreas computáveis e não computáveis, na taxa de ocupação e no número de vagas para veículos;</p>
-		<p class="corpo_lei">c) não impliquem em alteração de acessos de pedestres e veículos.<strong class="destaque-lei"> ”</strong></p>
+		<p class="corpo_lei">c) não impliquem em alteração de acessos de pedestres e veículos."</p>
 
 		<!-- 08_capitulo-VIII_d02.html -->
 		<div id="g-08_capitulo-VIII_d02-box" class="ai2html">
@@ -236,7 +245,7 @@
 		</div>
 
 		<p class="corpo_lei"><strong class="artigo-lei">Art. 111. </strong>Os arts. 82 e 83 da Lei nº 15.764, de 27 de maio de 2013, passam a vigorar com as seguintes alterações:</p>
-		<p class="corpo_lei"><strong class="destaque-lei">“ </strong>Art. 82. (…)</p>
+		<p class="corpo_lei"><strong class="destaque-lei">“</strong>Art. 82. (…)</p>
 		<p class="corpo_lei">IV - emitir parecer sobre a aplicação da legislação de edificações e de uso, ocupação e parcelamento do solo e do Plano Diretor Estratégico – PDE, em especial no que diz respeito à implantação e afastamentos de edificação em especial relativas a nível do pavimento térreo em função de determinantes construtivas resultantes de:</p>
 		<p class="corpo_lei">a) áreas sujeitas a alagamento;</p>
 		<p class="corpo_lei">b) restrição à construção de subsolo em terrenos contaminados e, quando exigido por órgão ambiental competente;</p>
@@ -244,16 +253,14 @@
 		<p class="corpo_lei">V <strong class="destaque-lei">- </strong>(…)</p>
 		<p class="corpo_lei">VI - decidir quanto à dispensa dos recuos laterais e de fundo quando o lote vizinho apresentar edificação encostada na divisa do lote, conforme análise caso a caso.</p>
 		<p class="corpo_lei">(…)<strong class="destaque-lei"> ”</strong><strong class="destaque-decreto"></strong></p>
-		<p class="corpo_lei"><strong class="destaque-lei">“ </strong>Art. 83. A <strong>CEUSO</strong><sup>24</sup> é composta de 8 (oito) membros, todos com seus respectivos suplentes, sendo 4 (quatro) do Poder Público e 4 (quatro) da sociedade civil pertencentes a entidades ligadas à engenharia, arquitetura e construção civil, na forma definida em decreto.</p>
+		<div id="08_capitulo-VIII_b03" class="glossario-box">
+			<p><span class="nota">24</span> Comissão de Edificações e Uso do Solo – CEUSO</span> Órgão normativo e consultivo sobre a legislação de obras, de edificações, de parcelamento do solo, de acessibilidade e de segurança de uso das edificações e equipamentos.</p>
+			<p><span class="nota">25</span> Conforme Decreto Nº 57.576, a Secretaria Municipal dos Negócios Jurídicos teve sua denominação alterada para Secretaria Municipal de Justiça - SMJ.</p>
+		</div>
+		<p class="corpo_lei">“Art. 83. A <strong>CEUSO</strong><sup>24</sup> é composta de 8 (oito) membros, todos com seus respectivos suplentes, sendo 4 (quatro) do Poder Público e 4 (quatro) da sociedade civil pertencentes a entidades ligadas à engenharia, arquitetura e construção civil, na forma definida em decreto.</p>
 		<p class="corpo_lei">(…)<strong class="destaque-decreto"></strong></p>
 		<p class="corpo_lei">§ 2º Os representantes da CEUSO devem ser arquitetos ou engenheiros, podendo o representante da <strong>Secretaria Municipal dos Negócios Jurídicos</strong><sup>25</sup> ser Procurador do Município.</p>
-
-		<div id="08_capitulo-VIII_b03" class="glossario-box">
-			<p class="corpo_referencias1"><sup>24 </sup><span class="glossario-museo">Comissão de Edificações e Uso do Solo – CEUSO</span> Órgão normativo e consultivo sobre a legislação de obras, de edificações, de parcelamento do solo, de acessibilidade e de segurança de uso das edificações e equipamentos.</p>
-			<p class="corpo_referencias1"><sup>25 </sup>Conforme Decreto Nº 57.576, a Secretaria Municipal dos Negócios Jurídicos teve sua denominação alterada para Secretaria Municipal de Justiça - SMJ.</p>
-		</div>
-
-		<p class="corpo_lei">(…)<strong class="destaque-lei"> ”</strong></p>
+		<p class="corpo_lei">(…)"</p>
 		<p class="corpo_decreto"><strong class="artigo-decreto">Art. 104. </strong>Conforme previsto no artigo 111 do COE, que altera a Lei nº 15.764, de 27 de março de 2013, ficam definidos os seguintes membros da CEUSO:</p>
 		<p class="corpo_decreto"><strong class="destaque-decreto">I -</strong> membros indicados pela Administração Municipal, titular e suplente, a saber:<strong class="destaque-decreto"></strong></p>
 		<p class="corpo_decreto"><strong class="destaque-decreto">a)</strong> 2 (dois) representantes da Secretaria Municipal de Urbanismo e Licenciamento – SMUL; </p>
@@ -296,7 +303,7 @@
 		<p class="corpo_decreto"><strong class="artigo-decreto">Art. 109. </strong>Nos processos de Alvará em andamento e sem despacho decisório em última instância poderão ser analisados nos termos do COE e deste decreto, desde que o interessado formalize o respectivo pedido até o dia 15 de dezembro de 2017, sem a apresentação de projeto simplificado. </p>
 		<p class="corpo_decreto"><strong class="destaque-decreto">§ 1º </strong>Após essa data, o interessado deverá protocolar novo pedido e recolher as taxas e preços públicos devidos. </p>
 		<p class="corpo_decreto"><strong class="destaque-decreto">§ 2º </strong>Na hipótese prevista no “caput” deste artigo, os documentos a serem emitidos, as taxas e preços ou as eventuais diferenças a serem cobradas serão aquelas previstas pela legislação edilícia vigente à época do protocolo do pedido inicial.</p>
-		<p class="corpo_lei"><span class="bolinha">Art. 116.</span><strong class="artigo-lei"> </strong>O prazo de vigência do Alvará de Aprovação a ser expedido em processo protocolado em data anterior à data da entrada em vigor deste Código será de 3 (três) anos.</p>
+		<p class="corpo_lei"><strong class="bolinha">Art. 116.</strong> O prazo de vigência do Alvará de Aprovação a ser expedido em processo protocolado em data anterior à data da entrada em vigor deste Código será de 3 (três) anos.</p>
 		<p class="corpo_lei"><strong class="destaque-lei">Parágrafo único. </strong>O disposto no “caput” deste artigo aplica-se aos Alvarás de Aprovação e aos Alvarás de Aprovação e Execução já emitidos e vigentes na data da entrada em vigor deste Código.</p>
 		<p class="corpo_decreto"><strong class="artigo-decreto">Art. 110. </strong>Nos casos previstos no artigo 116 do COE, os pedidos de Alvará de Aprovação e Execução expedidos conjuntamente ou em separado terão prazo de vigência total de 5 (cinco) anos.<strong class="destaque-decreto"></strong></p>
 		<p class="corpo_decreto"><strong class="destaque-decreto">Parágrafo único. </strong>Quando o Alvará de Execução for expedido após o prazo de validade do Alvará de Aprovação, o prazo de vigência do Alvará de Execução será contado a partir do seu deferimento.</p>
@@ -366,6 +373,7 @@
 		<p class="corpo_decreto"><strong class="destaque-decreto">XXVIII - </strong>o artigo 1° do Decreto nº 55.036, de 15 de abril de 2014; </p>
 		<p class="corpo_decreto"><strong class="destaque-decreto">XXIX - </strong>o Decreto nº 55.131, de 20 de maio de 2014; </p>
 		<p class="corpo_decreto"><strong class="destaque-decreto">XXX - </strong>o inciso I do artigo 18 do Decreto nº 57.377, de 11 de outubro de 2016. </p>
+		<hr>
 		<p class="corpo_lei">PREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 9 de maio de 2017, 464º da fundação de São Paulo.</p>
 		<p class="corpo_lei"><strong class="destaque-lei">JOÃO DORIA</strong>, PREFEITO</p>
 		<p class="corpo_lei"><strong class="destaque-lei">ANDERSON POMINI</strong>, Secretário Municipal de Justiça</p>
@@ -412,7 +420,7 @@ export default{
 	width:960px;
 }
 #g-08_capitulo-VIII_d01-01 p {
-	font-family:arial,helvetica,sans-serif;
+	/*font-family:arial,helvetica,sans-serif;*/
 	font-size:12px;
 	line-height:14px;
 	filter:alpha(opacity=100);
@@ -476,7 +484,7 @@ export default{
 	width:960px;
 }
 #g-08_capitulo-VIII_d02-01 p {
-	font-family:arial,helvetica,sans-serif;
+	/*font-family:arial,helvetica,sans-serif;*/
 	font-size:12px;
 	line-height:14px;
 	filter:alpha(opacity=100);
@@ -628,7 +636,7 @@ export default{
 	width:960px;
 }
 #g-08_capitulo-VIII_d03-01 p {
-	font-family:arial,helvetica,sans-serif;
+	/*font-family:arial,helvetica,sans-serif;*/
 	font-size:14px;
 	line-height:17px;
 	filter:alpha(opacity=100);

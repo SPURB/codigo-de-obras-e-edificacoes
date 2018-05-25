@@ -1,7 +1,7 @@
 <template>
 	<div class="Capitulo3">
 
-		<h1 class="cap_lei">CAPÍTULO III – DAS TAXAS<br />(DAS ISENÇÕES DE TAXAS E DISPENSA DO PAGAMENTO DOS PREÇOS PÚBLICOS)</h1>
+		<h1>DAS TAXAS (DAS ISENÇÕES DE TAXAS E DISPENSA DO PAGAMENTO DOS PREÇOS PÚBLICOS)</h1>
 
 		<p class="corpo_lei"><strong class="artigo-lei">Art. 52. </strong>A Taxa para Exame e Verificação dos Pedidos de Documentos de Controle da Atividade Edilícia – TEV/COE, fundada no poder de polícia do Município, tem como fato gerador os pedidos de alvará, certificado, autorização, cadastro e manutenção previstos neste Código.</p>
 		<p class="corpo_lei"><strong class="destaque-lei">§ 1º </strong>Considera-se ocorrido o fato gerador no ato do protocolo dos pedidos de documentos e do cadastro de equipamentos.</p>
@@ -10,7 +10,7 @@
 		<p class="corpo_lei"><strong class="destaque-lei">§ 4º </strong>Na omissão total ou parcial do recolhimento de eventual diferença, cabe lançamento de ofício, regularmente notificado o sujeito passivo, com prazo de 30 (trinta) dias para pagamento ou impugnação administrativa.</p>
 		<p class="corpo_lei"><strong class="destaque-lei">§ 5º </strong>O valor da taxa deve ser atualizado anualmente, em 1º de fevereiro, pela variação do Índice de Preços ao Consumidor Amplo – IPCA, apurado pelo Instituto Brasileiro de Geografia e Estatística – IBGE, ou por outro índice que venha a substituí-lo, verificada entre janeiro e dezembro do exercício anterior.</p>
 		<p class="corpo_lei"><strong class="destaque-lei">§ 6º </strong>O débito resultante do procedimento previsto no § 4º deste artigo não pago até a data do vencimento deve ser atualizado da forma e pelo índice de correção estabelecidos na Lei nº 10.734, de 30 de junho de 1989, com a redação dada pela Lei nº 13.275, de 4 de janeiro de 2002, e acrescido de juros moratórios calculados à taxa de 0,33% (trinta e três centésimos por cento), por dia de atraso, sobre o valor do débito, até o limite de 20% (vinte por cento), sem prejuízo, quando for o caso, do acréscimo de honorários advocatícios, custas e demais despesas judiciais, conforme a legislação municipal pertinente.</p>
-		<p class="corpo_lei"><span class="bolinha">Art. 53.</span><strong class="artigo-lei"> </strong>Ficam isentos do pagamento da TEV/COE e dispensados do pagamento dos preços públicos os pedidos relativos a Empreendimento Habitacional de Interesse Social em ZEIS – EZEIS, Empreendimento Habitacional de Interesse Social – EHIS, Empreendimento Habitacional do Mercado Popular – EHMP, Habitação de Interesse Social – HIS, Habitação de Mercado Popular – HMP e moradia econômica, definidos em legislação municipal.</p>
+		<p class="corpo_lei"><strong class="bolinha">Art. 53.</strong> Ficam isentos do pagamento da TEV/COE e dispensados do pagamento dos preços públicos os pedidos relativos a Empreendimento Habitacional de Interesse Social em ZEIS – EZEIS, Empreendimento Habitacional de Interesse Social – EHIS, Empreendimento Habitacional do Mercado Popular – EHMP, Habitação de Interesse Social – HIS, Habitação de Mercado Popular – HMP e moradia econômica, definidos em legislação municipal.</p>
 
 		<!--03_capitulo-III_d01.html -->
 		<div id="g-03_capitulo-III_d01-box" class="ai2html">
@@ -26,7 +26,7 @@
 					<p class="g-pstyle2">Ficam isentos do pagamento da TEV/COE (Taxa para Exame e Verificação dos Pedidos de Documentos de Controle da Atividade Edilícia), e dispensados do pagamento dos preços públicos os pedidos, dentre outros, relativos a:</p>
 				</div>
 				<div id="g-ai0-4" class="g-Camada_2 g-aiAbs" style="top:33.4753%;left:11.154%;margin-left:-76.5px;width:15.9375%;">
-					<p class="g-pstyle3">E<span class="g-cstyle0">MP</span>REEND<span class="g-cstyle0">IM</span>EN<span class="g-cstyle1">T</span>O<span class="g-cstyle2"> </span>HA<span class="g-cstyle0">BI</span><span class="g-cstyle3">T</span><span class="g-cstyle4">A</span><span class="g-cstyle0">C</span>ION<span class="g-cstyle0">A</span><span class="g-cstyle5">L </span><span class="g-cstyle6">DO</span> <span class="g-cstyle6">ME</span><span class="g-cstyle7">R</span><span class="g-cstyle6">C</span>A<span class="g-cstyle6">DO</span> <span class="g-cstyle6">PO</span>P<span class="g-cstyle6">U</span><span class="g-cstyle8">L</span>A<span class="g-cstyle5">R</span></p>
+					<p class="g-pstyle4">EMPREENDIMENTO HABITACIONAL DO MERCADO POPULAR</p>
 				</div>
 				<div id="g-ai0-5" class="g-Camada_2 g-aiAbs" style="top:33.4753%;left:46.2473%;margin-left:-76.5px;width:15.9375%;">
 					<p class="g-pstyle4">EMPREENDIMENTO HABITACIONAL DE INTERESSE SOCIAL</p>
@@ -82,7 +82,7 @@
 		<p class="corpo_decreto"><strong class="destaque-decreto">I -</strong> no ato do protocolo de pedido de documento do COE para as edificações previstas neste artigo, não será emitida guia de recolhimento de TEV/COE e de preços públicos; </p>
 		<p class="corpo_decreto"><strong class="destaque-decreto">II -</strong> caso não se comprovem as condições legais da isenção e dispensa de pagamento, o interessado será comunicado para recolher os valores, sob pena de indeferimento do pedido e inscrição do débito na Dívida Ativa do Município; </p>
 		<p class="corpo_decreto"><strong class="destaque-decreto">III -</strong> o recurso administrativo será analisado mediante a comprovação da condição da isenção ou dispensa do pagamento da TEV/COE e de preços públicos; </p>
-		<p class="corpo_decreto"><strong class="destaque-decreto">IV -</strong> o primeiro despacho do pedido de documento do COE deverá conter, ainda, a decisão a respeito da isenção e da dispensa de pagamento. </p>
+		<p class="corpo_decreto"><strong class="destaque-decreto">IV -</strong> o primeiro despacho do pedido de documento do COE deverá conter, ainda, a decisão a respeito da isenção e da dispensa de pagamento.</p>
 
 	</div>
 </template>
@@ -118,7 +118,7 @@ export default{
 	width:960px;
 }
 #g-03_capitulo-III_d01-01 p {
-	font-family:arial,helvetica,sans-serif;
+	/*font-family:arial,helvetica,sans-serif;*/
 	font-size:12px;
 	line-height:14px;
 	filter:alpha(opacity=100);

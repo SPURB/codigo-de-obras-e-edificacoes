@@ -1,38 +1,42 @@
 <template>
   <div class="Apresentacao">
-	<h1 class="cap_lei">Simplificando o Licenciamento em São Paulo</h1>
+	<h2>Simplificando o Licenciamento em São Paulo</h2>
 	<p>O Código de Obras e Edificações – COE, sancionado pelo Prefeito João Dória em maio de 2017 e em vigor desde julho de 2017, apresenta um novo modelo de licenciamento de edificações. O COE vem para resolver entraves que perduram por anos e dificultam a transformação de São Paulo em sua vocação de cidade dinâmica e global.</p>
 	<p>A primeira conquista deste Código é a simplificação. Com base na experiência administrativa da SMUL em liberar edificações, o texto da lei também detalhou procedimentos internos para facilitar e desburocratizar a análise dos projetos pelos técnicos. A nova lei está menos burocrática e em consonância com as diretrizes do Plano Diretor Estratégico e da Lei de Parcelamento, Uso e Ocupação do Solo.  Visa, assim, deixar os procedimentos e o processo de licenciamento mais simples, tanto para o cidadão, quanto para os técnicos, além de contribuir para o crescimento e desenvolvimento da cidade.</p>
 	<p>Com este COE, os detalhes internos das edificações ficam a critério do proprietário e do autor do projeto, que agora possuem responsabilidades explícitas. Deste modo, a Prefeitura poderá se focar nos aspectos urbanísticos, ambientais, de sustentabilidade, acessibilidade e segurança dos empreendimentos.</p>
 	<p>Hoje, na administração pública, perseguimos o princípio da transparência. Com os regramentos administrativos mais claros, existem poucas exigências técnicas complementares, o que dá agilidade ao processo. Em relação aos códigos anteriores, este não legisla quando já existem normas técnicas, evitando sobreposições de normas, além de possibilitar que o profissional habilitado exerça seu oficio com responsabilidade.</p>
 	<p>Este COE traz avanços significativos. Foram revistos os prazos, indeferimentos, instâncias, além de outros assuntos importantes que tornaram a legislação edilícia mais moderna. Agora há poucas regras edilícias e urbanísticas efetivamente relevantes. A racionalização e agilização; a responsabilização de empreendedores e profissionais; a modernização e informatização dos procedimentos são os principais destaques a lei.</p>
 	<p>Com o novo COE, a Secretaria Municipal de Urbanismo e Licenciamento está mais perto de atingir sua meta de modernizar o licenciamento na cidade de São Paulo. A expectativa é de diminuir consideravelmente o tempo de licenciamento para os empreendimentos na cidade, tornar os processos eletrônicos, e assim, ter projetos com maior qualidade no Município.</p>
-	<p> </p>
-	<p><strong>Heloisa Maria de Salles Penteado Proença</strong><br />Secretária Municipal de Urbanismo e Licenciamento</p>
+	<p style="text-align: right; margin-top: 2em;"><strong>Heloisa Maria de Salles Penteado Proença</strong><br /> 
+	Secretária Municipal de Urbanismo e Licenciamento</p>
 
-	<h1>Apresentação</h1>
-	<h2>O que é um Código de Obras?</h2>
+	<h2>Apresentação</h2>
+	<h3>O que é um Código de Obras?</h3>
 	<p>O Código de Obras e Edificações (COE) é o instrumento que disciplina as regras gerais de licenciamento da atividade edilícia, bem como de fiscalização da execução, manutenção e utilização de obras e equipamentos. Além disso, estabelece normas edilícias específicas a serem observadas no Município de São Paulo, em complemento às fixadas por Normas Técnicas relacionadas à matéria.</p>
 	<p>O COE do Município de São Paulo, aprovado e sancionado em 09 de maio de 2017, vem para completar o Marco Regulatório Municipal, ao lado do Plano Diretor Estratégico (PDE) e da Lei de Parcelamento, Uso e Ocupação do Solo (LPUOS), revisados recentemente. </p>
 	<p>No novo COE os componentes prioritários de avaliação são urbanísticos, ambientais e de vizinhança. Asseguram que a Prefeitura mantenha seu compromisso em estabelecer instrumentos de planejamento urbano, capazes de organizar melhor os espaços da cidade de modo a torná-la um lugar mais agradável para se viver.</p>
-	<h2>Como foi o processo de revisão?</h2>
+	
+	<h3>Como foi o processo de revisão?</h3>
 	<p>Considerando que o código anterior encontra-se em vigor há 25 anos e com base na experiência prática da sua aplicação, a Prefeitura de São Paulo iniciou um processo de avaliação e atualização dessas normas, tendo em vista oferecer resposta a novas demandas relacionadas à produção e consumo do ambiente construído, bem como adequação ao marco atual da disciplina urbanística, inaugurado com a aprovação do novo Plano Diretor Estratégico – PDE.</p>
 	<p>A primeira providência desse trabalho foi a elaboração e consolidação de todas as alterações e inclusões promovidas no Código de Obras e Edificações, desde junho de 1992 até o presente. </p>
-	<p>A partir do texto compilado, iniciou-se o processo de revisão do COE no âmbito da <strong>Secretaria Municipal de Licenciamento – SEL</strong><sup class="referencias-notas">1</sup>, atual Secretaria Municipal de Urbanismo e Licenciamento – SMUL, envolvendo representantes da Secretaria Executiva dos Órgãos Colegiados (SEC), Coordenadorias de Edificação Residencial (RESID), Edificação de Serviços e Uso institucional (SERVIN), Edificação de Uso Comercial e Industrial (COMIN), Parcelamento do Solo e Habitação de Interesse Social (PARHIS), Atividade Especial e Segurança de Uso (SEGUR) e Gabinete da Secretaria.</p>
-
-	<div id="box_00_apresentacao" class="glossario-box">
-		<p class="corpo-referencias-pequeno"><sup>1</sup> Conforme Decreto Nº 57.576, a Secretaria Municipal de Licenciamento (SEL) teve suas atribuições fundidas com a Secretaria Municipal de Desenvolvimento Urbano (SMDU), tornando-se em janeiro de 2017 a atual Secretaria Municipal de Urbanismo e Licenciamento (SMUL).</p>
-		<p class="corpo-referencias-pequeno">O mesmo decreto alterou as seguintes denominações:	</p>
-		<p class="corpo-referencias-pequeno">Secretaria Municipal das Subprefeituras para Secretaria Municipal das Prefeituras Regionais (SMPR);</p>
-		<p class="corpo-referencias-pequeno">Secretaria Municipal dos Negócios Jurídicos para Secretaria Municipal de Justiça (SMJ)</p>
-		<p class="corpo-referencias-pequeno">Secretaria Municipal dos Transportes para Secretaria Municipal de Mobilidade e Transportes (SMT)</p>
-		<p class="corpo-referencias-pequeno">Secretaria Municipal de Infraestrutura Urbana para Secretaria Municipal de Serviços e Obras (SMSO)</p>
-		<p class="corpo-referencias-pequeno">Secretaria Municipal de Finanças e Desenvolvimento Econômico para Secretaria Municipal da Fazenda (SF)</p>
-		<p class="corpo-referencias-pequeno">Secretaria Municipal da Pessoa com Deficiência e Mobilidade Reduzida para Secretaria Municipal da Pessoa com Deficiência (SMPED)</p>
+	
+	<div class="glossario-box">
+		<span class="nota">1</span> Conforme Decreto Nº 57.576, a Secretaria Municipal de Licenciamento (SEL) teve suas atribuições fundidas com a Secretaria Municipal de Desenvolvimento Urbano (SMDU), tornando-se em janeiro de 2017 a atual Secretaria Municipal de Urbanismo e Licenciamento (SMUL).</p>
+		O mesmo decreto alterou as seguintes denominações:</p>
+		<ul>
+			<li>Secretaria Municipal das Subprefeituras para Secretaria Municipal das Prefeituras Regionais (SMPR);</li>
+			<li>Secretaria Municipal dos Negócios Jurídicos para Secretaria Municipal de Justiça (SMJ);</li>
+			<li>Secretaria Municipal dos Transportes para Secretaria Municipal de Mobilidade e Transportes (SMT);</li>
+			<li>Secretaria Municipal de Infraestrutura Urbana para Secretaria Municipal de Serviços e Obras (SMSO);</li>
+			<li>Secretaria Municipal de Finanças e Desenvolvimento Econômico para Secretaria Municipal da Fazenda (SF);</li>
+			<li>Secretaria Municipal da Pessoa com Deficiência e Mobilidade Reduzida para Secretaria Municipal da Pessoa com Deficiência (SMPED)</li>
+		</ul>
 	</div>
 
+	<p>A partir do texto compilado, iniciou-se o processo de revisão do COE no âmbito da <strong>Secretaria Municipal de Licenciamento – SEL</strong><sup class="referencias-notas">1</sup>, atual Secretaria Municipal de Urbanismo e Licenciamento – SMUL, envolvendo representantes da Secretaria Executiva dos Órgãos Colegiados (SEC), Coordenadorias de Edificação Residencial (RESID), Edificação de Serviços e Uso institucional (SERVIN), Edificação de Uso Comercial e Industrial (COMIN), Parcelamento do Solo e Habitação de Interesse Social (PARHIS), Atividade Especial e Segurança de Uso (SEGUR) e Gabinete da Secretaria.</p>
+
 	<p>Em paralelo, realizaram-se rodadas de discussão com entidades representativas de profissionais ligados à engenharia e arquitetura, do setor imobiliário e da construção civil, que agregam a maior parte do público que, necessariamente, utiliza o COE na elaboração dos projetos submetidos ao licenciamento, em especial: Associação Brasileira dos Escritórios de Arquitetura (ASBEA), Sindicato das Empresas de Compra, Venda, Locação e Administração de Imóveis Residenciais e Comerciais de São Paulo (SECOVI-SP) e Sindicato da Indústria da Construção Civil do Estado de São Paulo (SINDUSCON-SP).</p>
-	<p>Em novembro de 2013 foi apresentado ao Sr. Prefeito um plano de trabalho contendo os princípios orientadores do novo Código: (<strong>1) Simplificação, (2) Clareza, (3) Estrutura da Lei, (4) Responsabilização, (5) Atualização, (6) Adequação ao novo Plano Diretor</strong>, conforme descrição ao lado.</p>
+	<p>Em novembro de 2013 foi apresentado ao Sr. Prefeito um plano de trabalho contendo os princípios orientadores do novo Código: <strong>(1) Simplificação, (2) Clareza, (3) Estrutura da Lei, (4) Responsabilização, (5) Atualização, (6) Adequação ao novo Plano Diretor</strong>, conforme descrição abaixo.</p>
 
 	<!-- apresentacao_d01.html -->
 	
@@ -101,7 +105,7 @@
 	<p>Com base nessas premissas, o grupo técnico formado junto à SEL elaborou uma primeira minuta que foi encaminhada à apreciação das demais secretarias envolvidas com o tema: Secretaria Municipal das Subprefeituras (SMSP), Secretaria Municipal de Desenvolvimento Urbano (SMDU), Secretaria Municipal dos Negócios Jurídicos (SNJ), Secreta ria Municipal dos Transportes (SMT), Secretaria Municipal do Verde e do Meio Ambiente (SVMA), Secretaria Municipal de Infra-estrutura Urbana (SIURB), Secretaria Municipal da Pessoa com Deficiência (SMPED), Secretaria Municipal de Finanças e Desenvolvimento Econômico (SF).</p>
 	<p>Mediante sugestões via e-mail e após reuniões com cada Secretaria envolvida, a minuta foi aperfeiçoada e complementada. As contribuições que não foram incorporadas ao texto da lei foram compiladas para um futuro decreto regulamentador. Novamente procedeu-se à apresentação e discussão das alterações com as entidades profissionais e empresariais parceiras (ASBEA, SECOVI, SINDUSCON, etc.).</p>
 	<p>Dentre as principais alterações e inovações incorporadas à minuta do Projeto de Lei destacam-se:</p>
-	<ul>
+	<ul class="lista">
 		<li>Previsão de regras específicas para requalificações de edificações existentes;</li>
 		<li>Redução de exigências técnicas já disciplinadas por Normas Técnicas;</li>
 		<li>Previsão de licenciamento com base em projeto simplificado, cabendo à análise do órgão licenciador a verificação da compatibilidade do projeto proposto com as normas urbanísticas e ambientais da cidade, incluindo melhoramentos viários, áreas de preservação permanente, manejo arbóreo, bem como segurança de uso, acessibilidade e condições de aeração da edificação; </li>
@@ -115,8 +119,10 @@
 		<li>Definição dos valores das taxas de análise de forma progressiva em função da complexidade dos projetos e da participação de maior número de técnicos e secretarias na decisão dos grandes projetos, bem como isenção para obras residenciais de pequeno porte, habitação de interesse social e obras da administração pública direta e indireta.</li>
 	</ul>
 	<p>Após a sanção da Lei 16.642/2017, o Grupo de Trabalho da SMUL elaborou o Decreto regulamentador nº 57.776/17 no prazo de 60 dias, com a colaboração das mesmas entidades que haviam participado da elaboração da Lei.</p>
-	<p>O resultado deste processo pode ser conferido a seguir. Na primeira parte, com o objetivo de facilitar a compreensão, o leitor encontra o texto da lei combinado com o Decreto Regulamentador nº 57.776/17. Na sequência, a Portaria nº 221 indica a documentação necessária e os padrões de apresentação dos projetos. Na parte final, há o índice remissivo, no qual estão listados os principais termos que compõem o texto da lei e o decreto, permitindo que o leitor realize a busca por assuntos específicos.</p><br />
-	<p><strong>Pedro Luiz Ferreira da Fonseca</strong></p>
+	<p>O resultado deste processo pode ser conferido a seguir. Na primeira parte, com o objetivo de facilitar a compreensão, o leitor encontra o texto da lei combinado com o Decreto Regulamentador nº 57.776/17. Na sequência, a Portaria nº 221 indica a documentação necessária e os padrões de apresentação dos projetos. Na parte final, há o índice remissivo, no qual estão listados os principais termos que compõem o texto da lei e o decreto, permitindo que o leitor realize a busca por assuntos específicos.</p>
+	<p style="text-align: right; margin-top: 2em;"><strong>Pedro Luiz Ferreira da Fonseca</strong></p>
+
+	<hr />
 
 	<!-- apresentacao_d02.html -->
 
@@ -227,7 +233,6 @@ export default {
 	width:100%;
 }
 #g-00_apresentacao_d01-01 p {
-	font-family:arial,helvetica,sans-serif;
 	font-size:14px;
 	line-height:20px;
 	filter:alpha(opacity=100);
@@ -307,9 +312,11 @@ export default {
 /* Estilo apresentacao_d02.html */
 #g-00_apresentacao_d02-box .g-artboard {
 	margin:0 auto;
+	line-height: unset;
 }
 #g-00_apresentacao_d02-box .g-artboard p {
 	margin:0;
+	line-height: unset;
 }
 .g-aiAbs {
 	position:absolute;
@@ -325,7 +332,6 @@ export default {
 	width:100%;
 }
 #g-00_apresentacao_d02-01 p {
-	font-family:arial,helvetica,sans-serif;
 	font-size:16px;
 	line-height:19px;
 	height:auto;

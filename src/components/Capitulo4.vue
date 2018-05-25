@@ -1,15 +1,15 @@
 <template>
 	<div class="Capitulo4">
 		
-		<h1 class="cap_lei">CAPÍTULO IV – DOS PROCEDIMENTOS ADMINISTRATIVOS</h1>
+		<h1>DOS PROCEDIMENTOS ADMINISTRATIVOS</h1>
 
-		<h2 class="secao_lei">Seção I - Dos Procedimentos Gerais</h2>
-		<p class="corpo_lei"><strong class="artigo-lei">Art. 55. </strong>O pedido instruído pelo interessado deve ser analisado conforme a sua natureza, observadas as normas municipais, em especial as prescrições da LOE, PDE, LPUOS, sem prejuízo da observância das disposições estaduais e federais pertinentes.</p>
+		<h2>Seção I - Dos Procedimentos Gerais</h2>
+		<p class="corpo_lei"><strong class="artigo-lei">Art. 55.</strong> O pedido instruído pelo interessado deve ser analisado conforme a sua natureza, observadas as normas municipais, em especial as prescrições da LOE, PDE, LPUOS, sem prejuízo da observância das disposições estaduais e federais pertinentes.</p>
 		<p class="corpo_lei"><strong class="destaque-lei">§ 1º </strong>O pedido deve ser instruído com todos os elementos necessários à sua apreciação, nos termos das normas legais e regulamentares.</p>
 		<p class="corpo_lei"><strong class="destaque-lei">§ 2º </strong>Todos os documentos exigidos para a instrução dos pedidos podem ser substituídos por equivalentes eletrônicos ou por documentos disponíveis nos cadastros e bancos de dados da Prefeitura.</p>
 		<p class="corpo_lei"><strong class="destaque-lei">§ 3º </strong>Os diversos pedidos referentes ao mesmo imóvel, bem como os recursos contra os respectivos despachos, podem ser analisados em um único processo.</p>
-		<p class="corpo_lei"><span class="bolinha">Art. 56.</span><strong class="artigo-lei"> </strong>O pedido deve ser deferido se o processo estiver devidamente instruído e o projeto observar a legislação pertinente à matéria.</p>
-		<p class="corpo_lei"><span class="bolinha">Art. 57.</span><strong class="artigo-lei"> </strong>O processo que apresentar elementos incompletos ou incorretos ou necessitar de complementação da documentação ou esclarecimentos deve ser objeto de um único comunicado (“comunique-se”) para que as falhas sejam sanadas.</p>
+		<p class="corpo_lei"><strong class="bolinha">Art. 56.</strong> O pedido deve ser deferido se o processo estiver devidamente instruído e o projeto observar a legislação pertinente à matéria.</p>
+		<p class="corpo_lei"><strong class="bolinha">Art. 57.</strong> O processo que apresentar elementos incompletos ou incorretos ou necessitar de complementação da documentação ou esclarecimentos deve ser objeto de um único comunicado (“comunique-se”) para que as falhas sejam sanadas.</p>
 
 		<!-- 04_capitulo-IV_d01.html -->
 		<div id="g-04_capitulo-IV_d01-box" class="ai2html">
@@ -168,14 +168,13 @@
 		<p class="corpo_decreto"><strong class="destaque-decreto">§ 4º </strong>Do despacho que anular ou cassar o alvará, caberá um único recurso no prazo de 30 (trinta) dias, contados de sua publicação no DOC, a ser apreciado pelo Secretário Municipal de Urbanismo e Licenciamento ou Prefeito Regional, no âmbito de suas respectivas competências. </p>
 		<p class="corpo_decreto"><strong class="destaque-decreto">§ 5º </strong>A decisão do recurso pelo Secretário Municipal de Urbanismo e Licenciamento ou Prefeito Regional encerra definitivamente a instância administrativa a respeito de declaração de nulidade, anulação ou cassação do alvará. </p>
 		<p class="corpo_decreto"><strong class="destaque-decreto">§ 6º </strong>As notificações e comunicações de decisões de que tratam este artigo serão publicadas no DOC e poderão ser enviadas ao interessado por meio do endereço eletrônico cadastrado no processo. </p>
-		<h2 class="secao_lei">Seção II - Das Instâncias e Prazos para Despacho</h2>
-		<p class="corpo_lei"><span class="bolinha">Art. 69. </span> As instâncias administrativas para a apreciação e decisão dos pedidos de que trata este Código, protocolados a partir da data de sua vigência, são as seguintes:</p>
-		<p class="corpo_lei"><strong class="destaque-lei">I - </strong>para os pedidos de competência da <strong>Secretaria Municipal de Licenciamento</strong><sup>17</sup>:</p>
 
-		<div id="04_capitulo-IV_b01" class="glossario-box">
+		<h2>Seção II - Das Instâncias e Prazos para Despacho</h2>
+		<p class="corpo_lei"><strong class="bolinha">Art. 69.</strong> As instâncias administrativas para a apreciação e decisão dos pedidos de que trata este Código, protocolados a partir da data de sua vigência, são as seguintes:</p>
+		<div id="04_capitulo-IV_b01" class="glossario-box" style="width: 25%;">
 			<p class="corpo_referencias1"><sup>17 </sup>Conforme Decreto Nº 57.576, a Secretaria Municipal de Licenciamento (SEL) teve suas atribuições fundidas com a Secretaria Municipal de Desenvolvimento Urbano (SMDU), tornando-se em janeiro de 2017 a atual Secretaria Municipal de Urbanismo e Licenciamento (SMUL). </p>
 		</div>	
-
+		<p class="corpo_lei"><strong class="destaque-lei">I - </strong>para os pedidos de competência da <strong>Secretaria Municipal de Licenciamento</strong><sup>17</sup>:</p>
 		<p class="corpo_lei"><strong class="destaque-lei">a)</strong> Diretor de Divisão Técnica;</p>
 		<p class="corpo_lei"><strong class="destaque-lei">b)</strong> Coordenador;</p>
 		<p class="corpo_lei"><strong class="destaque-lei">c)</strong> Secretário Municipal de Licenciamento;</p>
@@ -525,19 +524,19 @@
 			</div>
 		</div>
 
-		<p class="corpo_lei"><span class="bolinha">Art. 70.</span><strong class="artigo-lei"> </strong>O prazo para a decisão dos pedidos não pode exceder 90 (noventa) dias, inclusive quando se tratar de recurso.</p>
+		<p class="corpo_lei"><strong class="bolinha">Art. 70.</strong> O prazo para a decisão dos pedidos não pode exceder 90 (noventa) dias, inclusive quando se tratar de recurso.</p>
 		<p class="corpo_lei"><strong class="destaque-lei">§ 1º </strong>Prazos diferentes podem ser fixados por ato do Executivo, em função da complexidade da análise do pedido.</p>
 		<p class="corpo_lei"><strong class="destaque-lei">§ 2º </strong>O curso do prazo fixado no “caput” deste artigo fica suspenso durante a pendência do atendimento, pelo interessado, das exigências feitas no “comunique-se”.</p>
-		<p class="corpo_lei"><span class="bolinha">Art. 71.</span><strong class="artigo-lei"> </strong>Escoado o prazo para a decisão do processo de Alvará de Aprovação, o interessado pode requerer o Alvará de Execução.</p>
+		<p class="corpo_lei"><strong class="bolinha">Art. 71.</strong> Escoado o prazo para a decisão do processo de Alvará de Aprovação, o interessado pode requerer o Alvará de Execução.</p>
 		<p class="corpo_lei"><strong class="destaque-lei">§ 1º </strong>Decorridos 30 (trinta) dias contados da data do protocolo do pedido do Alvará de Execução, caso o processo não tenha sido indeferido, a obra pode ser iniciada, sendo de inteira responsabilidade do proprietário ou possuidor e profissionais envolvidos a adequação da obra às posturas municipais.</p>
 		<p class="corpo_lei"><strong class="destaque-lei">§ 2º </strong>Quando solicitado Alvará de Aprovação e de Execução em conjunto, o prazo para a decisão é de 120 (cento e vinte) dias.</p>
 		<p class="corpo_lei"><strong class="destaque-lei">§ 3º </strong>Nos casos de incidência de outorga onerosa, o início da obra fica condicionado à comprovação de seu pagamento.</p>
-		<p class="corpo_decreto"><strong class="artigo-decreto">Art. 59. </strong>O direito do início de obras se dará após 30 (trinta) dias do protocolo do pedido de Alvará de Execução ou 120 (cento e vinte) dias do protocolo do pedido de Alvará de Aprovação e Execução, exceto quando: </p>
-		<p class="corpo_decreto"><strong class="destaque-decreto">I -</strong> indeferido o pedido; </p>
-		<p class="corpo_decreto"><strong class="destaque-decreto">II -</strong> incidir outorga onerosa. </p>
-		<p class="corpo_decreto"><strong class="destaque-decreto">§ 1º </strong>A contagem dos prazos previstos no “caput” deste artigo fica suspensa durante transcurso do prazo de atendimento de “comunique-se”. </p>
-		<p class="corpo_decreto"><strong class="destaque-decreto">§ 2º </strong>Para os fins do “caput” deste artigo, será considerada início das obras qualquer intervenção para a execução das obras relacionadas no artigo 23 do COE. </p>
-		<p class="corpo_decreto"><strong class="destaque-decreto">§ 3º </strong>Será de inteira responsabilidade do proprietário ou possuidor e profissionais habilitados a eventual necessidade de adequação da obra às posturas municipais. </p>
+		<p class="corpo_decreto"><strong class="artigo-decreto">Art. 59. </strong>O direito do início de obras se dará após 30 (trinta) dias do protocolo do pedido de Alvará de Execução ou 120 (cento e vinte) dias do protocolo do pedido de Alvará de Aprovação e Execução, exceto quando:</p>
+		<p class="corpo_decreto"><strong class="destaque-decreto">I -</strong> indeferido o pedido;</p>
+		<p class="corpo_decreto"><strong class="destaque-decreto">II -</strong> incidir outorga onerosa.</p>
+		<p class="corpo_decreto"><strong class="destaque-decreto">§ 1º </strong>A contagem dos prazos previstos no “caput” deste artigo fica suspensa durante transcurso do prazo de atendimento de “comunique-se”.</p>
+		<p class="corpo_decreto"><strong class="destaque-decreto">§ 2º </strong>Para os fins do “caput” deste artigo, será considerada início das obras qualquer intervenção para a execução das obras relacionadas no artigo 23 do COE.</p>
+		<p class="corpo_decreto"><strong class="destaque-decreto">§ 3º </strong>Será de inteira responsabilidade do proprietário ou possuidor e profissionais habilitados a eventual necessidade de adequação da obra às posturas municipais.</p>
 
 		<!-- 04_capitulo-IV_d03.html -->
 		<div id="g-04_capitulo-IV_d03-box" class="ai2html">
@@ -638,6 +637,33 @@
 			</div>
 		</div>
 
+		<h2>Seção III - Dos Procedimentos Especiais</h2>
+		<p class="corpo_lei"><strong class="artigo-lei">Art. 72. </strong>O Executivo regulamentará, no prazo de 90 (noventa) dias, os procedimentos, exigências e prazos diferenciados para exame de pedidos relativos ao licenciamento de:</p>
+		<p class="corpo_lei"><strong class="destaque-lei">I - </strong>empreendimento da Administração Pública Direta e Indireta;</p>
+		<p class="corpo_decreto"><strong class="artigo-decreto">Art. 60. </strong>Nos processos de interesse de órgãos ou de serviços públicos, em especial aqueles da Administração Pública Direta e Indireta, comunicados ao interessado, inclusive sobre eventuais desconformidades em relação às normas municipais, serão feitas também mediante ofício, adotando-se o mesmo procedimento para as decisões. </p>
+		<p class="corpo_decreto"><strong class="artigo-decreto">Art. 61. </strong>Nos pedidos de licenciamento edilício em imóvel de propriedade da União, do Estado e do Município protocolados até a data de entrada em vigor deste decreto e sem despacho decisório, deverá ser emitido “comunique-se” informando sobre a possibilidade de opção pelo encerramento do processo nos termos do artigo 14 do COE. </p>
+		<p class="corpo_decreto"><strong class="destaque-decreto">§ 1º </strong>Nos processos em andamento de que trata o “caput” deste artigo, quando o pedido incluir a regularização de edificação declarada existente até 31 de julho de 2014, data da Lei nº 16.050, de 31 de julho de 2014, também deverá ser dada ciência ao interessado quanto às disposições do artigo 109 do COE. </p>
+		<p class="corpo_decreto"><strong class="destaque-decreto">§ 2º </strong>Em caso de desistência do pedido, deve ser exarado despacho declaratório de indeferimento na instância alcançada, sem a emissão de documento. </p>
+		<p class="corpo_decreto"><strong class="destaque-decreto">§ 3º </strong>O disposto neste artigo não dispensa da necessidade de elaboração de projeto ou verificação da edificação por profissional habilitado e não desobriga o profissional do cumprimento das normas disciplinadoras de sua regular atuação e daquelas decorrentes da legislação federal, estadual e municipal, bem como não desobriga o proprietário e o responsável técnico do atendimento às disposições da LPUOS e da LOE, em especial do atendimento às normas de estabilidade, segurança, salubridade e acessibilidade da edificação. </p>
+		<p class="corpo_lei"><strong class="destaque-lei">II - </strong>Empreendimento Habitacional de Interesse Social em ZEIS – EZEIS, Empreendimento Habitacional de Interesse Social – EHIS, Empreendimento Habitacional do Mercado Popular – EHMP, Habitação de Interesse Social – HIS, Habitação de Mercado Popular – HMP e moradia econômica, definidos em legislação específica;</p>
+		<p class="corpo_decreto"><strong class="artigo-decreto">Art. 62. </strong>Os Empreendimentos Habitacionais de Interesse Social em ZEIS – EZEIS, Empreendimentos Habitacionais de Interesse Social – EHIS, Empreendimentos Habitacionais do Mercado Popular – EHMP, Habitação de Interesse Social – HIS, Habitação de Mercado Popular – HMP e moradia econômica são regulamentados pelo Decreto nº 57.377, de 11 de outubro de 2016, e posteriores alterações. </p>
+		<p class="corpo_decreto"><strong class="destaque-decreto">Parágrafo único. </strong>A edificação destinada aos empreendimentos de que trata o “caput” deste artigo, quando executada sob a titularidade de pessoa jurídica de direito público do Município, do Estado de São Paulo e da União Federal, ainda que transferida posteriormente a terceiros, fica considerada regular na situação existente em 31 de julho de 2014, data de publicação da Lei n.º 16.050, de 2014, sendo de inteira responsabilidade do ente público executor o atendimento às normas de estabilidade, segurança, salubridade e acessibilidade, até a formalização da transferência de titularidade. </p>
+		<p class="corpo_lei"><strong class="destaque-lei">III - </strong>polo gerador de tráfego;</p>
+		<div class="glossario-box">
+			<p><span class="nota">18</span> Empreendimento gerador de impacto ambiental – EGIA São aqueles que podem causar alteração das propriedades físicas, químicas e biológicas do meio ambiente e que direta ou indiretamente afetem: a saúde, a segurança e o bem estar da população; as atividades sociais e econômicas; a biota; as condições paisagísticas e sanitárias do meio ambiente; a qualidade dos recursos ambientais.<br>
+			<span style="font-size: x-small; margin-left: 2em;">Fonte: Art. 108 da Lei nº 16.402/16</span></p>
+			<p><span class="nota">19</span> Empreendimento gerador de impacto de vizinhança – EGIV São aqueles que podem gerar impacto significativo, alteração no seu entorno ou sobrecarga na capacidade de atendimento da infraestrutura do sistema viário e de transporte.<br>
+			<span style="font-size: x-small; margin-left: 2em;">Fonte: Art. 108 da Lei nº 16.402/16</span></p>
+			<p><span class="nota">20</span> Empreendimento que envolva usos especiais ou incômodos Enquadrados como nR3 pelo inciso IV do Art. 96 da Lei nº 16.402/16.</p>
+		</div>
+		<p class="corpo_lei"><strong class="destaque-lei">IV - </strong><strong>empreendimento gerador de impacto ambiental</strong><sup>18</sup>;</p>
+		<p class="corpo_lei"><strong class="destaque-lei">V - </strong><strong>empreendimento gerador de impacto de vizinhança</strong><sup>19</sup>;</p>
+		<p class="corpo_lei"><strong class="destaque-lei">VI - </strong>empreendimento com alto potencial de risco de incêndios e situações de emergência;</p>
+		<p class="corpo_lei"><strong class="destaque-lei">VII - </strong><strong>empreendimento que envolva usos especiais ou incômodos</strong><sup>20</sup>;</p>
+		<p class="corpo_lei"><strong class="destaque-lei">VIII - </strong>residência unifamiliar, serviços, obras e empreendimentos que, por sua natureza, admitam procedimentos simplificados.</p>
+		<p class="corpo_lei"><strong class="destaque-lei">Parágrafo único. </strong>No licenciamento de residência unifamiliar pode ser emitido um único documento que englobe os alvarás de aprovação e execução.</p>
+		<p class="corpo_decreto"><strong class="artigo-decreto">Art. 63. </strong>A residência unifamiliar, enquadrada na subcategoria de uso R1, será licenciada mediante a emissão de Alvará de Aprovação e Execução para Residência Unifamiliar, de acordo com a legislação específica.</p>
+
 	</div>
 </template>
 
@@ -672,7 +698,7 @@ export default{
 	width:960px;
 }
 #g-04_capitulo-IV_d01-01 p {
-	font-family:arial,helvetica,sans-serif;
+	/*font-family:arial,helvetica,sans-serif;*/
 	font-size:12px;
 	line-height:12px;
 	filter:alpha(opacity=100);
@@ -839,7 +865,7 @@ export default{
 	width:960px;
 }
 #g-04_capitulo-IV_d02-01 p {
-	font-family:arial,helvetica,sans-serif;
+	/*font-family:arial,helvetica,sans-serif;*/
 	font-size:14px;
 	line-height:17px;
 	height:auto;
@@ -985,7 +1011,7 @@ export default{
 	width:960px;
 }
 #g-04_capitulo-IV_d03-01 p {
-	font-family:arial,helvetica,sans-serif;
+	/*font-family:arial,helvetica,sans-serif;*/
 	font-size:14px;
 	line-height:17px;
 	filter:alpha(opacity=100);

@@ -1,8 +1,8 @@
 <template>
 	<div class="Anexo1">
-		<h2 class="secao_lei">ANEXO I - DISPOSIÇÕES TÉCNICAS</h2>
+		<h1>DISPOSIÇÕES TÉCNICAS</h1>
 		<p class="corpo_decreto">Este Anexo estabelece critérios e parâmetros técnicos a serem observados pelos Responsáveis Técnicos pelo projeto e pela obra, quando da elaboração do projeto de construção, execução de obras, instalação de equipamentos e adaptação das edificações de diferentes usos, mesmo não havendo previsão de representação gráfica no projeto simplificado. </p>
-		<h3 class="subsecao_lei">1 - DO CANTEIRO DE OBRAS </h3>
+		<h2>1 - DO CANTEIRO DE OBRAS </h2>
 		<p class="corpo_lei"><strong class="artigo-lei">1.1. </strong>Durante a execução da obra ou serviço é obrigatória a manutenção do passeio desobstruído e em perfeitas condições, conforme legislação municipal aplicável, sendo vedada sua utilização, ainda que temporária, como canteiro de obras ou para carga e descarga de materiais de construção.</p>
 		<p class="corpo_decreto"><strong class="artigo-decreto">1.A. </strong>Durante a execução da obra ou serviço é obrigatória a manutenção do passeio desobstruído e em perfeitas condições, conforme legislação municipal aplicável, sendo vedada sua utilização, ainda que temporária, como canteiro de obras ou para carga e descarga de materiais de construção. </p>
 		<p class="corpo_lei"><strong class="destaque-lei">1.1.1. </strong>Os elementos do canteiro de obras não podem prejudicar a arborização da rua, a iluminação pública, a visibilidade de placas, avisos ou sinais de trânsito e outras instalações de interesse público.</p>
@@ -16,7 +16,8 @@
 		<p class="corpo_lei"><strong class="artigo-lei">1.4. </strong>Concluído o serviço de fachada ou paralisada a obra por período superior a 30 (trinta) dias, o tapume deve ser obrigatoriamente recuado para o alinhamento.</p>
 		<p class="corpo_decreto"><strong class="destaque-decreto">1.A.6. </strong>Concluído o serviço de fachada ou paralisada a obra por período superior a 30 (trinta) dias, o tapume deve ser obrigatoriamente recuado para o alinhamento. </p>
 		<p class="corpo_decreto"><strong class="destaque-decreto">1.A.7. </strong>As instalações de gruas deverão observar o gabarito estabelecido pelo Órgão Regional do DECEA e quando ultrapassarem o seu limite, deverão ser submetidas à nova deliberação deste Órgão. </p>
-		<h3 class="subsecao_lei">2 - DA IMPLANTAÇÃO </h3>
+
+		<h2>2 - DA IMPLANTAÇÃO </h2>
 		<p class="corpo_lei"><strong class="artigo-lei">2.1. </strong>A implantação de qualquer edificação no lote deve atender às disposições previstas no PDE e LPUOS, em especial aos recuos em relação às divisas do lote.</p>
 		<p class="corpo_decreto"><strong class="artigo-decreto">2.A. </strong>A implantação de qualquer edificação no lote deverá atender às disposições previstas no PDE e na LPUOS, em especial aos recuos em relação às divisas do lote. </p>
 		<p class="corpo_lei"><strong class="artigo-lei">2.2. </strong>A edificação deve respeitar as normas referentes ao afastamento em relação às águas correntes ou dormentes, faixas de domínio público de rodovias e ferrovias, linhas de alta tensão, dutos e canalizações.</p>
@@ -39,7 +40,8 @@
 		<p class="corpo_decreto"><strong class="destaque-decreto">2.E.1.1. </strong>O muro junto ao alinhamento não poderá ser totalmente vedado, devendo ser interrompido por elementos vazados, transparentes ou gradis, na proporção de 25% (vinte e cinco por cento) de sua extensão horizontal, observado o limite de 15 m de extensão vedada e as disposições do PDE e LPUOS. </p>
 		<p class="corpo_decreto"><strong class="destaque-decreto">2.E.1.2. </strong>Não se aplica o item 2.E.1.1 aos muros de arrimo e aos muros em testadas com extensão máxima de 20 m (vinte metros). </p>
 		<p class="corpo_decreto"><strong class="destaque-decreto">2.E.1.3. </strong>Não se aplica o disposto no item 2.E.1 quando se tratar de anteparo vertical, gradil, muro, alambrado ou assemelhado que apresentem superfície vazada uniformemente distribuída superior a 80% (oitenta por cento) de sua superfície total. </p>
-		<h3 class="subsecao_lei">3 - DAS CONDIÇÕES AMBIENTAIS </h3>
+
+		<h2>3 - DAS CONDIÇÕES AMBIENTAIS </h2>
 		<p class="corpo_lei"><strong class="artigo-lei">3.1. </strong>A execução de qualquer tipo de obra junto a represa, lago, lagoa, rio, córrego e demais corpos d’água naturais deve atender às disposições de Área de Preservação Permanente – APP estabelecidas na legislação ambiental federal, estadual e municipal pertinente.</p>
 		<p class="corpo_decreto"><strong class="artigo-decreto">3.A. </strong>A descaracterização da Área de Preservação Permanente – APP deverá ser comprovada pelo interessado se constatada a ausência de elementos que a caracterizem, de acordo com a legislação pertinente. </p>
 		<p class="corpo_decreto"><strong class="destaque-decreto">3.A.1. </strong>A execução de qualquer tipo de obra junto a represa, lago, lagoa, rio, córrego e demais corpos d’água naturais, considerados Áreas de Preservação Permanente – APP, deverá atender às disposições da legislação ambiental federal, estadual e municipal pertinentes; </p>
@@ -102,7 +104,7 @@
 		<p class="corpo_decreto"><strong class="destaque-decreto">I -</strong> a execução das contenções e do movimento de terra necessários à implantação do projeto deverão atender às NTOs cabíveis; </p>
 		<p class="corpo_decreto"><strong class="destaque-decreto">II -</strong> o resíduo excedente será destinado às áreas adequadas a seu recebimento ou será provido local adequado ao seu empréstimo. Estas áreas podem ser particulares ou regularmente licenciadas como de Destinação de Resíduos Inertes (Bota-Fora) com a devida classificação e licença de operação válida na data da realização desta fase da obra; </p>
 		<p class="corpo_decreto"><strong class="destaque-decreto">III -</strong> no caso de intervenção em áreas contaminadas, o movimento de terra deverá respeitar a classificação dos resíduos, de acordo com o Plano de Intervenção aprovado pelo órgão público competente; </p>
-		<p class="corpo_decreto"><strong class="destaque-decreto">IV -</strong> eventuais danos a terceiros ou ao patrimônio público são de responsabilidade do proprietário ou possuidor e dos responsáveis técnicos pela obra. </p>
+		<p class="corpo_decreto"><strong class="destaque-decreto">IV -</strong> eventuais danos a terceiros ou ao patrimônio público são de responsabilidade do proprietário ou possuidor e dos responsáveis técnicos pela obra.</p>
 
 		<!-- 09_anexo-I_d01.html -->
 		<div id="g-09_anexo-I_d01-box" class="ai2html">
@@ -238,7 +240,7 @@
 			</div>
 		</div>
 
-		<h3 class="subsecao_lei">4 - DAS CONDIÇÕES DE ACESSIBILIDADE</h3>
+		<h2>4 - DAS CONDIÇÕES DE ACESSIBILIDADE</h2>
 		<p class="corpo_lei"><strong class="artigo-lei">4.1. </strong>Devem atender às condições de acessibilidade às pessoas com deficiência ou mobilidade reduzida estabelecidas no COE e legislação correlata a edificação nova e a edificação existente em caso de sua reforma, requalificação ou regularização, quando destinada a uso:</p>
 		<p class="corpo_lei"><strong class="destaque-lei">I -</strong> público, entendido como aquele administrado por órgão ou entidade da Administração Pública Direta e Indireta ou por empresa prestadora de serviço público e destinado ao público em geral;</p>
 		<p class="corpo_lei"><strong class="destaque-lei">II -</strong> coletivo, entendido como aquele destinado à atividade não residencial.</p>
@@ -372,7 +374,7 @@
 			</div>
 		</div>
 
-		<div class="tabela">
+		<!-- <div class="tabela">
 			<table id="table-1" class="quadro">
 				<tbody>
 					<tr class="Row-Column-3">
@@ -432,7 +434,37 @@
 					</tr>
 				</tbody>
 			</table>
-		</div>
+		</div> -->
+
+		<table>
+			<thead>
+				<td>Vagas para automóveis (conforme o tipo de uso do estacionamento)</td>
+				<td>Vagas especiais</td>
+				<td>Vagas para idosos</td>
+			</thead>
+			<tbody>
+				<tr>
+					<td>Privativo com até 100 vagas</td>
+					<td>1 vaga</td>
+					<td>1 vaga</td>
+				</tr>
+				<tr>
+					<td>Privativo com mais de 100 vagas</td>
+					<td>1%</td>
+					<td>1%</td>
+				</tr>
+				<tr>
+					<td>Coletivo com até 10 vagas</td>
+					<td>2%</td>
+					<td>2%</td>
+				</tr>
+				<tr>
+					<td>Coletivo com mais de 10 vagas</td>
+					<td>3%</td>
+					<td>3%</td>
+				</tr>
+			</tbody>
+		</table>
 
 		<p class="corpo_decreto"><strong class="destaque-decreto">4.B.9. </strong>Deverão ser fixadas vagas especiais de estacionamento de veículo destinadas ao uso por pessoa com deficiência ou mobilidade reduzida, em número proporcional ao número de vagas para automóveis previstos no projeto, observado o mínimo de 1 (uma) vaga, atendendo-se a tabela, constante na Tabela do item 8.I desde decreto. </p>
 		<p class="corpo_decreto"><strong class="destaque-decreto">4.B.9.1. </strong>No estacionamento coletivo com mais de 10 (dez) vagas, as vagas destinadas às pessoas com deficiência ou mobilidade reduzida deverão ser acrescidas às vagas previstas. </p>
@@ -554,13 +586,17 @@
 			</div>
 		</div>
 
-		<h3 class="subsecao_lei">5 - DAS CONDIÇÕES DE AERAÇÃO E INSOLAÇÃO </h3>
+		<h2>5 - DAS CONDIÇÕES DE AERAÇÃO E INSOLAÇÃO </h2>
 		<p class="corpo_decreto"><strong class="artigo-decreto">5.A. </strong>A implantação no lote de qualquer edificação, obra complementar, mobiliário, instalação e equipamento, além do atendimento das disposições do PDE, da LPUOS e do COE, e especialmente do item 5 do Anexo I do COE, deverão observar as regras fixadas por este decreto. </p>
 		<p class="corpo_lei"><strong class="artigo-lei">5.1. </strong>A edificação, instalação ou equipamento, a partir de 10 m (dez metros) de altura em relação ao perfil natural do terreno deve observar afastamento contínuo, lateral e de fundo, que pode ser escalonado, e que deve ser dimensionado de acordo com fórmula a seguir, respeitado o mínimo de 3 m (três metros).</p>
-		<p class="formula"><span class="lei-formula">A</span> = (<span class="lei-formula">H</span> − 6) ÷ 10</p>
-		<p class="corpo_lei">onde:</p>
-		<p class="formula"><span class="lei-formula">A</span> = afastamento lateral e de fundo;</p>
-		<p class="formula"><span class="lei-formula">H</span> = altura da edificação em metros contados a partir do perfil do terreno.</p>
+
+		<div style="width: 30%; border: 1px solid #F7C5C8; padding: 30px; margin: auto; font-size: 15px; line-height: 25px">
+			<div style="text-align:center; margin-bottom: 1em; font-weight: 700;">A = (H − 6) ÷ 10</div>
+			onde:<br>
+			<strong>A</strong> = afastamento lateral e de fundo;<br>
+			<strong>H</strong> = altura da edificação em metros contados a partir do perfil do terreno.
+		</div>
+
 		<p class="corpo_decreto"><strong class="destaque-decreto">5.A.1. </strong>Para a aplicação do item 5.1 do Anexo I do COE, a altura “H” da edificação medida em metros, será contada a partir da cota de nível mais baixa do perfil natural do terreno referente ao plano de fachada considerado, até a cota de nível mais alta da edificação, podendo ser adotado o escalonamento da edificação. </p>
 		<p class="corpo_decreto"><strong class="destaque-decreto">5.A.1.1. </strong>Para efeito de aplicação do cálculo da altura “H” da edificação, serão adotadas as cotas e curvas de nível indicadas no Levantamento Topográfico elaborado pelo responsável técnico. </p>
 		<p class="corpo_decreto"><strong class="destaque-decreto">5.A.1.2. </strong>No cálculo da altura “H” da edificação não serão considerados: </p>
@@ -683,450 +719,451 @@
 		<h5><strong>Nota (a):</strong> As habitações deverão conter, no mínimo, espaços destinados a estar, repouso, instalação sanitária e cozinha.</h5>
 
 		<p class="corpo_lei"><strong class="destaque-lei">5.6. </strong>(VETADO)</p>
-			<h3 class="subsecao_lei">6 - DAS CONDIÇÕES DE SEGURANÇA DE USO E CIRCULAÇÃO </h3>
-			<p class="corpo_lei"><strong class="artigo-lei">6.1. </strong>Toda edificação e equipamento devem atender às disposições construtivas consideradas essenciais para a segurança de uso e circulação dos usuários, estabelecidas nas normas pertinentes ao assunto.</p>
-			<p class="corpo_lei"><strong class="artigo-lei">6.2. </strong>A edificação existente que não apresente condições de segurança de uso deve ser adaptada às condições de segurança de uso, exceto quando se enquadrar em uma das seguintes situações:</p>
-			<p class="corpo_lei"><strong class="destaque-lei">I -</strong> esteja desobrigada de saídas de emergência e rotas de saída protegidas, de acordo com normas pertinentes;</p>
-			<p class="corpo_lei"><strong class="destaque-lei">II -</strong> seja destinada a uso residencial;</p>
-			<p class="corpo_lei"><strong class="destaque-lei">III -</strong> tenha sido objeto de adaptação às normas de segurança e se mantenha sem alteração de ordem física ou de utilização em relação ao regularmente licenciado;</p>
-			<p class="corpo_lei"><strong class="destaque-lei">IV -</strong> tenha sido licenciada nos termos da Lei nº 11.228, de 25 de junho de 1992, e se mantenha sem alteração de ordem física ou de utilização em relação ao regularmente licenciado;</p>
-			<p class="corpo_lei"><strong class="destaque-lei">V -</strong> tenha sido licenciada nos termos da Lei nº 8.266, de 20 de junho de 1975, e se mantenha sem alteração de ordem física ou de utilização em relação ao regularmente licenciado.</p>
-			<p class="corpo_lei"><strong class="artigo-lei">6.3. </strong>Toda edificação existente a ser reformada, requalificada ou reconstruída deve ser adaptada às condições de segurança de uso.</p>
-			<p class="corpo_lei"><strong class="artigo-lei">6.4. </strong>O cálculo da população, o dimensionamento, a quantidade e o tipo de escada, as distâncias máximas a percorrer e a necessidade de previsão de elevadores de emergência são estabelecidos em função do uso e altura da edificação, de acordo com as normas pertinentes relativas a saídas de emergência em edificações.</p>
-			<p class="corpo_lei"><strong class="artigo-lei">6.5. </strong>A edificação que apresentar alto potencial de risco a incêndio ou emergências deve dispor de sistema de segurança especial, constituído do conjunto de instalações e equipamentos que deve entrar em funcionamento e ser utilizado de forma adequada em situação de emergência, de acordo com o regulamento.</p>
-			<p class="corpo_lei"><strong class="destaque-lei">6.5.1. </strong>A edificação destinada a comércio de venda de mercadorias em geral, prestação de serviços automotivos, indústria, oficina e depósito, em função de sua altura, área e material predominantemente depositado, manipulado ou comercializado, deve dispor de sistema especial de segurança.</p>
-			<p class="corpo_decreto"><strong class="artigo-decreto">6.A. </strong>Disposições Gerais<strong class="destaque-decreto"></strong></p>
-			<p class="corpo_decreto"><strong class="destaque-decreto">6.A.1. </strong>Deverá dispor de sistema especial de segurança:<strong class="destaque-decreto"></strong></p>
-			<p class="corpo_decreto"><strong class="destaque-decreto">I -</strong> a edificação com mais de 12 m (doze metros) e com ao menos uma escada protegida ou à prova de fumaça, de acordo com as NTOs e ITs pertinentes. </p>
-			<p class="corpo_decreto"><strong class="destaque-decreto">II -</strong> a edificação com até 12 m (doze metros) altura e que necessitem de instalação de chuveiros automáticos. </p>
-			<p class="corpo_decreto"><strong class="destaque-decreto">6.A.2. </strong>Entende-se como altura da edificação, para efeito do dimensionamento de saídas, rotas de fuga e quantidade de escadas necessárias, a diferença entre a cota de um dos pavimentos de saída e a cota do último pavimento, excluído o ático, e pavimentos duplex, tríplex quando não houver acesso a partir das áreas comuns para estes pavimentos. </p>
-			<p class="corpo_decreto"><strong class="destaque-decreto">6.A.3. </strong>O tipo e a quantidade mínima de escadas de uma edificação são determinados pelas NTOs e ITs, em função da altura e atividade exercida. O cálculo da população e as distâncias máximas a serem percorridas poderão implicar na necessidade de mais escadas, além do mínimo. </p>
-			<p class="corpo_decreto"><strong class="destaque-decreto">6.A.4. </strong>Considera-se sistema especial de segurança o conjunto das instalações e equipamentos, dimensionados e executados de acordo com as NTOs e ITs, os quais deverão entrar em funcionamento e ser utilizados de forma adequada em situação de emergência, sendo constituído por: </p>
-			<p class="corpo_decreto"><strong class="destaque-decreto">I -</strong> Iluminação de emergência; </p>
-			<p class="corpo_decreto"><strong class="destaque-decreto">II -</strong> Sinalização de rotas de fuga e saídas;</p>
-			<p class="corpo_decreto"><strong class="destaque-decreto">III -</strong> Alarme de acionamento automático e/ou detecção de fumaça; </p>
-			<p class="corpo_decreto"><strong class="destaque-decreto">IV -</strong> Equipamento móvel de combate a incêndio; </p>
-			<p class="corpo_decreto"><strong class="destaque-decreto">V -</strong> Equipamento fixo de combate a incêndio com acionamento fixo ou não; </p>
-			<p class="corpo_decreto"><strong class="destaque-decreto">VI -</strong> Outros equipamentos conforme NTO e legislação complementar. </p>
-			<p class="corpo_decreto"><strong class="artigo-decreto">6.B. </strong>Lotação das Edificações </p>
-			<p class="corpo_decreto">Considera-se lotação de uma edificação o número de usuários, calculado em função de sua área e utilização. </p>
-			<p class="corpo_decreto"><strong class="destaque-decreto">6.B.1. </strong>A lotação de uma edificação será obtida pelo somatório das lotações dos seus andares ou compartimentos onde se desenvolverem diferentes atividades, calculada tomando-se a área útil efetivamente utilizada no andar para o desenvolvimento de determinada atividade, dividida pelo índice correspondente determinado nas NTOs, ITs e deste decreto. </p>
-			<p class="corpo_decreto"><strong class="destaque-decreto">6.B.2. </strong>A área a ser considerada para o cálculo da lotação será obtida excluindo-se da área bruta, aquela correspondente às paredes, às unidades sanitárias, aos espaços de circulação horizontais e verticais efetivamente utilizados para escoamento, vazios de elevadores, monta-cargas, passagem de dutos de ventilação e depósitos de até 30,00 m² (trinta metros quadrados). </p>
-			<p class="corpo_decreto"><strong class="destaque-decreto">6.B.3. </strong>Nas edificações destinadas a locais de reuniões e centro de compras, da área a ser considerada para o cálculo da lotação, não poderão ser excluídos os espaços destinados à circulação horizontal que ultrapassarem 1,50 m (um metro e cinquenta) de largura. </p>
-			<p class="corpo_decreto"><strong class="destaque-decreto">6.B.4. </strong>Nas edificações destinadas a locais de reuniões deverão ser estabelecidos as seguintes índices: </p>
-			<div class="anchor-tabela frame-7">
-				<p class="titulo-quadro">Tabela – Lotação para locais de reuniões</p>
-				<table id="table-2" class="quadro">
-					<colgroup>
-						<col class="Row-Column-6" />
-						<col class="Row-Column-2" />
-					</colgroup>
-					<tbody>
-						<tr class="Row-Column-4">
-							<td>
-								<strong>Ocupação para Locais de Reunião</strong>
-							</td>
-							<td>
-								<strong>m</strong><strong>²</strong><strong>/pessoa</strong>
-							</td>
-						</tr>
-						<tr class="Row-Column-4">
-							<td>
-								Setor para usuários em pé
-							</td>
-							<td>
-								0,40
-							</td>
-						</tr>
-						<tr class="Row-Column-4">
-							<td>
-								Setor para usuários sentados
-							</td>
-							<td>
-								1,00
-							</td>
-						</tr>
-						<tr class="Row-Column-4">
-							<td>
-								Atividades não especificas e administrativas
-							</td>
-							<td>
-								7,00
-							</td>
-						</tr>
-					</tbody>
-				</table>
-			</div>
-
-			<p class="corpo_decreto"><strong class="destaque-decreto">6.B.5. </strong>Em casos especiais outros cálculos de lotação poderão ser aceitos desde que justificados tecnicamente. </p>
-			<p class="corpo_decreto"><strong class="destaque-decreto">6.B.6. </strong>Nas salas de cinema, teatro, auditórios e restaurantes e assemelhados dotados de assentos fixos, a lotação será correspondente ao número de lugares oferecidos e não em função da relação m²/pessoa. </p>
-			<p class="corpo_decreto"><strong class="artigo-decreto">6.C. </strong>Dimensionamento dos Espaços de Circulação </p>
-			<p class="corpo_decreto">Consideram-se espaços de circulação as escadas, as rampas e os corredores. </p>
-			<p class="corpo_decreto"><strong class="destaque-decreto">6.C.1. </strong>O dimensionamento de escadas e demais espaços de circulação deverá ser feito com base nas NTOs e ITs. </p>
-			<p class="corpo_decreto"><strong class="destaque-decreto">6.C.2. </strong>A capacidade dos elevadores, escadas rolantes ou outros dispositivos de circulação por meios mecânicos, não será considerada para efeito do cálculo de escoamento do edifício. </p>
-			<p class="corpo_decreto"><strong class="destaque-decreto">6.C.3. </strong>No pavimento de saída da edificação, os espaços de circulação serão dimensionados de acordo com a capacidade de escoamento das escadas a que dão continuidade, acrescidos da população do próprio andar que também venha a utilizar a via de escoamento.</p>
-			<p class="corpo_decreto"><strong class="destaque-decreto">6.C.4. </strong>As portas de acesso que proporcionarem escoamento deverão abrir no sentido da saída e, ao abrir, não poderão reduzir as dimensões mínimas exigidas para a via de escoamento. </p>
-			<p class="corpo_decreto"><strong class="destaque-decreto">6.C.5. </strong>As portas de acesso da edificação situadas no pavimento de saída, necessárias ao escoamento da população, deverão abrir no sentido da saída, e, quando abrirem, não poderão obstruir o passeio público. </p>
-			<p class="corpo_decreto"><strong class="artigo-decreto">6.D. </strong>Disposição de escadas e saídas </p>
-			<p class="corpo_decreto">Os espaços de circulação horizontal e vertical deverão ser dispostos segundo a utilização, área, altura e lotação da edificação. </p>
-			<p class="corpo_decreto"><strong class="destaque-decreto">6.D.1. </strong>A distância máxima a percorrer, medida em metros e tomada pelo percurso real, será aquela estabelecida de acordo com as NTOs e ITs. </p>
-			<p class="corpo_decreto"><strong class="destaque-decreto">6.D.2. </strong>Nos compartimentos ou recintos em que a distância de qualquer ponto até a porta de acesso for inferior a 10,00 m (dez metros), a distância máxima prevista será calculada a partir da porta. </p>
-			<p class="corpo_decreto"><strong class="artigo-decreto">6.E. </strong>Espaços de Circulação Protegidos </p>
-			<p class="corpo_decreto"><strong class="destaque-decreto">6.E.1. </strong>Serão considerados protegidos os espaços de circulação que, por suas características construtivas, permitirem o escoamento em segurança, dos setores a que servirem, atendendo às seguintes disposições: </p>
-			<p class="corpo_decreto"><strong class="destaque-decreto">I -</strong> mantenham isolamento de qualquer outro espaço interno da edificação, por meio de elementos construtivos e portas resistentes, conforme estabelecido nas NTOs; </p>
-			<p class="corpo_decreto"><strong class="destaque-decreto">II -</strong> tenham uso exclusivo como circulação, estando permanentemente desobstruídos; </p>
-			<p class="corpo_decreto"><strong class="destaque-decreto">III -</strong> contenham apenas as instalações elétricas próprias do recinto e do sistema de segurança; </p>
-			<p class="corpo_decreto"><strong class="destaque-decreto">IV -</strong> não contenham aberturas para dutos ou galerias de instalação ou serviço, excetuadas as portas dos elevadores; </p>
-			<p class="corpo_decreto"><strong class="destaque-decreto">V -</strong> tenham os revestimentos das paredes e pisos ensaiados conforme as NTOs. </p>
-			<p class="corpo_decreto"><strong class="destaque-decreto">6.E.2. </strong>Além dos tipos de escadas mencionados nas NTOs, é considerada à prova de fumaça a escada aberta para o exterior, limitada à altura de 27 m (vinte e sete metros), sem obrigatoriedade de comunicação através de vestíbulo/antecâmara protegidos, desde que: </p>
-			<p class="corpo_decreto"><strong class="destaque-decreto">I -</strong> possua ventilação natural através de abertura em, pelo menos, 50% (cinquenta por cento) de seu perímetro, com altura igual ou superior à metade de seu pé direito; </p>
-			<p class="corpo_decreto"><strong class="destaque-decreto">II -</strong> suas aberturas estejam distanciadas, no mínimo, 5,00 m (cinco metros) de outra abertura da mesma edificação; </p>
-			<p class="corpo_decreto"><strong class="destaque-decreto">III -</strong> a face aberta da escada esteja distanciada, no mínimo, 5 m (cinco metros) de outra edificação no mesmo lote e das divisas do imóvel. </p>
-			<p class="corpo_decreto"><strong class="destaque-decreto">6.E.3. </strong>Nos andares enterrados, destinados exclusivamente a estacionamento de veículos, será dispensado o vestíbulo/antecâmara de acesso à escada à prova de fumaça. </p>
-			<p class="corpo_decreto"><strong class="artigo-decreto">6.F. </strong>Condições Construtivas Especiais </p>
-			<p class="corpo_decreto">Além das disposições gerais, de acordo com o uso, população e altura, as edificações deverão atender às condições construtivas especiais estabelecidas nesta seção. </p>
-			<p class="corpo_decreto"><strong class="destaque-decreto">6.F.1. </strong>Deverão constituir-se em setores de incêndio, delimitados por elementos resistentes ao fogo RF-120 (piso/parede) e RF-60 (portas): </p>
-			<p class="corpo_decreto"><strong class="destaque-decreto">I -</strong> os andares destinados exclusivamente a estacionamento de veículos; </p>
-			<p class="corpo_decreto"><strong class="destaque-decreto">II -</strong> as áreas destinadas a abrigar as seguintes atividades, instalações e equipamentos: </p>
-			<p class="corpo_decreto"><strong class="destaque-decreto">a)</strong> casa de máquinas ou de equipamentos que possam agravar o risco de incêndio da edificação; </p>
-			<p class="corpo_decreto"><strong class="destaque-decreto">b)</strong> compartimentos em que a atividade desenvolvida possa agravar o risco de incêndio inerente ao uso da edificação; </p>
-			<p class="corpo_decreto"><strong class="destaque-decreto">c)</strong> armazenagem de combustível; </p>
-			<p class="corpo_decreto"><strong class="destaque-decreto">d)</strong> sala de medidores de energia elétrica e gás; </p>
-			<p class="corpo_decreto"><strong class="destaque-decreto">e)</strong> centrais de instrumentos contra incêndio; </p>
-			<p class="corpo_decreto"><strong class="destaque-decreto">f)</strong> antecâmaras ou áreas de refúgio. </p>
-			<p class="corpo_decreto"><strong class="destaque-decreto">6.F.1.1. </strong>A exigência deste item poderá ser substituída pela instalação de chuveiros automáticos com agente extintor apropriado, no andar, setor ou compartimento em que ocorrer a situação. </p>
-			<p class="corpo_decreto"><strong class="destaque-decreto">6.F.2. </strong>Quando, em função do tipo de proteção dos espaços de circulação, for recomendável manter abertas as portas resistentes ao fogo, estas deverão estar acopladas a sistema de fechamento automático ou acionadas por central de controle. </p>
-			<p class="corpo_decreto"><span class="bolinha">6.F.3.</span><strong class="destaque-decreto"> </strong>As edificações destinadas a locais de reunião, que abriguem salas de cinema, teatros e auditórios dotados de assentos fixos dispostos em filas, deverão atender aos seguintes requisitos: </p>
-			<p class="corpo_decreto"><strong class="destaque-decreto">I -</strong> máximo de 16 (dezesseis) assentos em fila, quando houver corredores em ambos os lados; </p>
-			<p class="corpo_decreto"><strong class="destaque-decreto">II -</strong> máximo de 8 (oito) assentos em fila, quando houver corredor em um único lado; </p>
-			<p class="corpo_decreto"><strong class="destaque-decreto">III -</strong> setorização, através de corredores transversais, que disporão de, no máximo, 14 (catorze) filas; </p>
-			<p class="corpo_decreto"><strong class="destaque-decreto">IV -</strong> vão livre entre o assento e o encosto do assento fronteiro de, no mínimo, 0,50 m (cinquenta centímetros); </p>
-			<p class="corpo_decreto"><strong class="destaque-decreto">V -</strong> vão livre de no mínimo de 1,20 m (um metro e vinte centímetros) entre o assento da ultima fileira e o fundo da sala; </p>
-			<p class="corpo_decreto"><strong class="destaque-decreto">VI -</strong> vão livre de no mínimo 1,70 m (um metro e setenta centímetros) entre o assento da primeira fileira e o palco. </p>
-			<p class="corpo_decreto"><strong class="destaque-decreto">6.F.4. </strong>Para assentos e espaços destinados a pessoas com deficiência ou mobilidade reduzida deverão ser observados os requisitos técnicos constantes nas NTOs de acessibilidade em especial a NBR 9050 ou outra que vier a sucedê-la. </p>
-			<p class="corpo_decreto"><strong class="destaque-decreto">6.F.5. </strong>Em função do tipo de edificação, natureza dos materiais, altura, população e condições de segurança apresentadas, a Prefeitura poderá admitir a dispensa de determinados equipamentos e instalações que se tornem desnecessários em face da existência de outras instalações de segurança equivalentes.</p>
-			<p class="corpo_decreto"><strong class="destaque-decreto">6.F.6. </strong>Os equipamentos cadastrados deverão ser instalados conforme normas técnicas aplicáveis, garantindo a segurança e integridade do entorno, através de proteção adequada contra vazamentos, incêndios, emanação de gases e vapores nocivos, odores ou temperaturas extremas, bem como guardar as distâncias mínimas abaixo indicadas: </p>
-			<p class="corpo_decreto"><strong class="destaque-decreto">I -</strong> Tanques enterrados deverão respeitar os afastamentos mínimos de 1,50 m (um metro e meio) do(s) logradouro(s), divisas do lote e edificações e de 1,00 m (um metro) entre si; </p>
-			<p class="corpo_decreto"><strong class="destaque-decreto">II -</strong> Tanques aéreos deverão respeitar os afastamentos mínimos de 3,00 m (três metros) do(s) logradouro(s), das divisas do lote e entre si; </p>
-			<p class="corpo_decreto"><strong class="destaque-decreto">III -</strong> Bombas de abastecimento de líquidos, dispensers de abastecimento de gás e filtros de diesel deverão respeitar o afastamento mínimo de 4,50 m (quatro metros e meio) do(s) logradouro(s) e de 1,50 m (um metro e meio) das divisas do lote e das edificações; </p>
-			<p class="corpo_decreto"><strong class="destaque-decreto">IV -</strong> Elevadores para troca de óleo e equipamentos de lavagem dos veículos, quando descobertos, deverão respeitar o afastamento mínimo de 3,00 m (três metros) do(s) logradouro(s) e das divisas do lote; </p>
-			<p class="corpo_decreto"><strong class="destaque-decreto">V -</strong> As terminações dos respiros deverão respeitar o afastamento mínimo de 3,00 m (três metros) das divisas do lote. </p>
-			<p class="corpo_decreto"><strong class="destaque-decreto">6.F.6.1. </strong>Os equipamentos já aprovados, cujas distâncias não atendam ao disposto neste Decreto, poderão ser substituídos por outros mais modernos, nos mesmos locais em que foram aprovados. </p>
-			<p class="corpo_decreto"><strong class="artigo-decreto">6.G. </strong>Adaptação de edificações existentes </p>
-			<p class="corpo_decreto"><strong class="destaque-decreto">6.G.1. </strong>Em caso de adaptação de edificações existentes às condições de segurança de uso, e que necessitem de mais de uma escada protegida, de acordo com as NTOs e ITs, a metade delas deverá atender às características exigidas para este tipo de escada, podendo as demais serem substituídas por: </p>
-			<p class="corpo_decreto"><strong class="destaque-decreto">I -</strong> interligação entre blocos no mesmo lote ou entre edificações vizinhas, por passarela ou passadiço protegido; </p>
-			<p class="corpo_decreto"><strong class="destaque-decreto">II -</strong> áreas de refúgio, delimitadas por elementos construtivos e portas resistentes, conforme estabelecido nas NTOs e ITs, situadas, no mínimo, a cada quatro andares, com capacidade para abrigar 50% (cinquenta por cento) da lotação dos andares superiores, na proporção de 0,50 m² (cinquenta decímetros quadrados) por pessoa, interligadas à escada protegida. </p>
-			<p class="corpo_decreto"><strong class="destaque-decreto">6.G.2. </strong>Serão aceitas escadas em leque ou em curva, inclusive como escada protegida ou à prova de fumaça, limitando-se a sua capacidade de escoamento, respectivamente, à metade, se em leque, e a dois terços, se em curva, de uma escada com lances retos. </p>
-			<p class="corpo_decreto"><strong class="destaque-decreto">6.G.3. </strong>As condições de segurança em locais de grande concentração de pessoas serão regradas por Portaria. </p>
-			<p class="corpo_decreto"><strong class="destaque-decreto">6.G.4. </strong>A previsão do elevador de emergência no uso residencial multifamiliar será obrigatória quando a altura da edificação for superior a 80 m (oitenta metros). </p>
-			<h3 class="subsecao_lei">7 - DO EQUIPAMENTO MECÂNICO </h3>
-			<p class="corpo_decreto"><strong class="destaque-decreto">7.A.1. </strong>Na edificação constituída de hall privativo que não disponha de interligação com as escadas, o elevador deverá ser dotado de sistema de segurança (gerador de energia elétrica) que garanta a sua movimentação, mesmo em caso de pane no sistema ou falta de energia elétrica. </p>
-			<p class="corpo_decreto"><strong class="destaque-decreto">7.A.2. </strong>Todos os elevadores instalados para transporte de passageiros, cargas e automóveis, independente do percurso e quantidades de paradas, deverão possuir dispositivo de operação de emergência em incêndio, de fase 1, obrigatório para todos os elevadores, e de fase 2, aos elevadores de emergência, conforme estabelecido por Portaria. </p>
-			<p class="corpo_lei"><strong class="artigo-lei">7.1. </strong>Todo equipamento mecânico, independentemente de sua posição no imóvel, deve ser instalado de forma a não transmitir, ao imóvel vizinho e ao logradouro público, ruído, vibração e temperatura em níveis superiores aos previstos nos regulamentos oficiais próprios.</p>
-			<p class="corpo_lei"><strong class="destaque-lei">7.1.1. </strong>O guindaste, ponte rolante e outros equipamentos assemelhados devem observar o afastamento mínimo das divisas estabelecido na LPUOS em função da sua altura em relação ao perfil do terreno.</p>
-			<p class="corpo_decreto"><strong class="artigo-decreto">7.B. </strong>O guindaste, ponte rolante e outros equipamentos assemelhados deverão atender o afastamento mínimo das divisas estabelecido pela LPUOS em função da sua altura em relação ao perfil do terreno.</p>
-			<p class="corpo_lei"><strong class="artigo-lei">7.2. </strong>O elevador e os demais equipamentos mecânicos de transporte vertical não podem se constituir no único meio de circulação e acesso do pedestre à edificação.</p>
-			<p class="corpo_lei"><strong class="artigo-lei">7.3. </strong>A edificação com mais de 5 (cinco) andares ou que apresente desnível superior a 12,00 m (doze metros) contado do piso do último andar até o piso do andar inferior, incluídos os pavimentos destinados a estacionamento, deve ser servida por elevador de passageiro, observadas as seguintes condições:</p>
-			<p class="corpo_lei"><strong class="destaque-lei">I -</strong> no mínimo, 1 (um) elevador, em edificação com até 10 (dez) andares ou com desnível igual ou inferior a 24,00 m (vinte e quatro metros);</p>
-			<p class="corpo_lei"><strong class="destaque-lei">II -</strong> no mínimo, 2 (dois) elevadores, em edificação com mais de 10 (dez) andares ou com desnível superior a 24,00 m (vinte e quatro metros).</p>
-			<p class="corpo_decreto"><strong class="artigo-decreto">7.C. </strong>Os elevadores de passageiros deverão atender o dimensionamento e a localização definidos pela NTO, além das disposições estabelecidas pelo COE. </p>
-			<p class="corpo_decreto"><strong class="destaque-decreto">7.C.1. </strong>O hall de acesso a no mínimo um elevador, em todos os pavimentos, excluído o térreo, deverá estar interligado à circulação vertical da edificação (escadas e/ou rampas) por espaço de circulação coletiva (largura mínima de 1,20 m), podendo os demais elevadores estar interligados às escadas e/ou rampas por espaço de circulação privativa (largura mínima de 0,80 m) de uso comum ao edifício, atendidas as condições de segurança estabelecidas no COE e neste decreto. </p>
-			<p class="corpo_decreto"><strong class="destaque-decreto">7.C.2. </strong>Os elevadores acessíveis de passageiros deverão atender a quantidade, o dimensionamento e a localização definidos pela NBR 9050 e NBR NM 313, ou aquelas que vierem substituí-las. </p>
-			<p class="corpo_lei"><strong class="destaque-lei">7.3.1. </strong>Todo andar deve ser servido pelo número mínimo de elevadores exigidos, inclusive aquele destinado a estacionamento.</p>
-			<p class="corpo_decreto"><strong class="artigo-decreto">7.D. </strong>Os elevadores podem estar em prumadas diferentes, desde que respeitado o cálculo de tráfego estabelecido nas NTOs, excetuado o elevador de emergência, que deverá atender a todos os andares na mesma caixa de corrida, inclusive subsolos. </p>
-			<p class="corpo_decreto"><strong class="artigo-decreto">7.E. </strong>Os equipamentos mecânicos, independentemente do porte, não serão considerados como área edificada. </p>
-			<p class="corpo_decreto"><strong class="artigo-decreto">7.F. </strong>A quantidade mínima de elevadores estabelecido no COE poderá ser revista por legislação especifica. </p>
-			<p class="corpo_decreto"><strong class="artigo-decreto">7.G. </strong>Em casos de adaptações da edificação poderão ser aceitos para fins de acessibilidade, plataforma de elevação vertical motorizada e elevador de uso exclusivo, atendendo dimensionamento e localização definidos pela NBR 9050 ou outra que a substituir, normas técnicas e legislação específicas para estes equipamentos.</p>
-			<p class="corpo_lei"><strong class="destaque-lei">7.3.2. </strong>No cômputo dos andares, no cálculo do desnível e na obrigatoriedade de parada, não são considerados o ático, o pavimento de cobertura sem utilização, o andar destinado à zeladoria e o andar de uso privado de andar contíguo.</p>
-			<h3 class="subsecao_lei">8 - DO ESTACIONAMENTO </h3>
-			<p class="corpo_lei"><strong class="artigo-lei">8.1. </strong>Os espaços para acesso, circulação e estacionamento de veículos devem ser projetados, dimensionados e executados livres de qualquer interferência estrutural ou física.</p>
-			
-			<p class="corpo_decreto"><span class="bolinha">8.A.</span><strong class="destaque-decreto"> </strong>Deverá ser garantido o acesso a pedestres independente da circulação de veículos, entre o alinhamento do imóvel e o ingresso à edificação, por faixa exclusiva com largura mínima de 1,20 m (um metro e vinte centímetros), excetuados dessa exigência as residências unifamiliares e o conjunto de habitações agrupadas horizontalmente. </p>
-			<p class="corpo_decreto"><strong class="artigo-decreto">8.B. </strong>A acomodação transversal do acesso entre o perfil do logradouro e os espaços de circulação e estacionamento deverá ser feita dentro do imóvel, de forma a não criar degraus ou desníveis abruptos na calçada. </p>
-			<p class="corpo_decreto"><strong class="artigo-decreto">8.C. </strong>O rebaixamento de guia destinado ao acesso de veículos não poderá exceder a 50% (cinquenta por cento) da extensão da testada do imóvel, à exceção da edificação residencial unifamiliar e do conjunto de habitações agrupadas horizontalmente com frente e acesso para logradouro público.</p>
-			<p class="corpo_decreto"><strong class="artigo-decreto">8.D. </strong>As faixas de circulação de veículo devem apresentar dimensão para cada sentido de tráfego de no mínimo:</p>
-			<p class="corpo_decreto"><strong class="destaque-decreto">I -</strong> 2,75 m (dois metros e setenta e cinco centímetros) de largura e 2,30 m (dois metros e trinta centímetros) de altura livre de passagem quando destinada à circulação de automóvel e utilitário;</p>
-			<p class="corpo_decreto"><strong class="destaque-decreto">II -</strong> 3,50 m (três metros e cinquenta centímetros) de largura e 3,50 m (três metros e cinquenta centímetros) de altura livre de passagem quando destinada à circulação de caminhão e ônibus.<strong class="subtitulo_txt"></strong></p>
-			<p class="corpo_decreto"><strong class="destaque-decreto">8.D.1. </strong>É admitida uma única faixa de circulação quando esta se destinar, no máximo, ao trânsito de 60 (sessenta) veículos em edificações de uso residencial e 30 (trinta) veículos nos demais usos.</p>
-			<p class="corpo_decreto"><strong class="destaque-decreto">8.D.2. </strong>No caso da faixa de circulação servir a automóvel, utilitário e caminhão prevalece o parâmetro mais restritivo.</p>
-			<p class="corpo_decreto"><strong class="destaque-decreto">8.D.3. </strong>As faixas de circulação em curva terão largura aumentada em razão do raio interno, expresso em metros, e da declividade, expressa em porcentagem, tomada no desenvolvimento interno da curva, conforme disposto na <strong>tabela abaixo</strong>.</p>
-
-			<table>
-				<caption>Tabela – Largura da faixa de circulação em curva</caption>
+		<h2>6 - DAS CONDIÇÕES DE SEGURANÇA DE USO E CIRCULAÇÃO </h2>
+		<p class="corpo_lei"><strong class="artigo-lei">6.1. </strong>Toda edificação e equipamento devem atender às disposições construtivas consideradas essenciais para a segurança de uso e circulação dos usuários, estabelecidas nas normas pertinentes ao assunto.</p>
+		<p class="corpo_lei"><strong class="artigo-lei">6.2. </strong>A edificação existente que não apresente condições de segurança de uso deve ser adaptada às condições de segurança de uso, exceto quando se enquadrar em uma das seguintes situações:</p>
+		<p class="corpo_lei"><strong class="destaque-lei">I -</strong> esteja desobrigada de saídas de emergência e rotas de saída protegidas, de acordo com normas pertinentes;</p>
+		<p class="corpo_lei"><strong class="destaque-lei">II -</strong> seja destinada a uso residencial;</p>
+		<p class="corpo_lei"><strong class="destaque-lei">III -</strong> tenha sido objeto de adaptação às normas de segurança e se mantenha sem alteração de ordem física ou de utilização em relação ao regularmente licenciado;</p>
+		<p class="corpo_lei"><strong class="destaque-lei">IV -</strong> tenha sido licenciada nos termos da Lei nº 11.228, de 25 de junho de 1992, e se mantenha sem alteração de ordem física ou de utilização em relação ao regularmente licenciado;</p>
+		<p class="corpo_lei"><strong class="destaque-lei">V -</strong> tenha sido licenciada nos termos da Lei nº 8.266, de 20 de junho de 1975, e se mantenha sem alteração de ordem física ou de utilização em relação ao regularmente licenciado.</p>
+		<p class="corpo_lei"><strong class="artigo-lei">6.3. </strong>Toda edificação existente a ser reformada, requalificada ou reconstruída deve ser adaptada às condições de segurança de uso.</p>
+		<p class="corpo_lei"><strong class="artigo-lei">6.4. </strong>O cálculo da população, o dimensionamento, a quantidade e o tipo de escada, as distâncias máximas a percorrer e a necessidade de previsão de elevadores de emergência são estabelecidos em função do uso e altura da edificação, de acordo com as normas pertinentes relativas a saídas de emergência em edificações.</p>
+		<p class="corpo_lei"><strong class="artigo-lei">6.5. </strong>A edificação que apresentar alto potencial de risco a incêndio ou emergências deve dispor de sistema de segurança especial, constituído do conjunto de instalações e equipamentos que deve entrar em funcionamento e ser utilizado de forma adequada em situação de emergência, de acordo com o regulamento.</p>
+		<p class="corpo_lei"><strong class="destaque-lei">6.5.1. </strong>A edificação destinada a comércio de venda de mercadorias em geral, prestação de serviços automotivos, indústria, oficina e depósito, em função de sua altura, área e material predominantemente depositado, manipulado ou comercializado, deve dispor de sistema especial de segurança.</p>
+		<p class="corpo_decreto"><strong class="artigo-decreto">6.A. </strong>Disposições Gerais<strong class="destaque-decreto"></strong></p>
+		<p class="corpo_decreto"><strong class="destaque-decreto">6.A.1. </strong>Deverá dispor de sistema especial de segurança:<strong class="destaque-decreto"></strong></p>
+		<p class="corpo_decreto"><strong class="destaque-decreto">I -</strong> a edificação com mais de 12 m (doze metros) e com ao menos uma escada protegida ou à prova de fumaça, de acordo com as NTOs e ITs pertinentes. </p>
+		<p class="corpo_decreto"><strong class="destaque-decreto">II -</strong> a edificação com até 12 m (doze metros) altura e que necessitem de instalação de chuveiros automáticos. </p>
+		<p class="corpo_decreto"><strong class="destaque-decreto">6.A.2. </strong>Entende-se como altura da edificação, para efeito do dimensionamento de saídas, rotas de fuga e quantidade de escadas necessárias, a diferença entre a cota de um dos pavimentos de saída e a cota do último pavimento, excluído o ático, e pavimentos duplex, tríplex quando não houver acesso a partir das áreas comuns para estes pavimentos. </p>
+		<p class="corpo_decreto"><strong class="destaque-decreto">6.A.3. </strong>O tipo e a quantidade mínima de escadas de uma edificação são determinados pelas NTOs e ITs, em função da altura e atividade exercida. O cálculo da população e as distâncias máximas a serem percorridas poderão implicar na necessidade de mais escadas, além do mínimo. </p>
+		<p class="corpo_decreto"><strong class="destaque-decreto">6.A.4. </strong>Considera-se sistema especial de segurança o conjunto das instalações e equipamentos, dimensionados e executados de acordo com as NTOs e ITs, os quais deverão entrar em funcionamento e ser utilizados de forma adequada em situação de emergência, sendo constituído por: </p>
+		<p class="corpo_decreto"><strong class="destaque-decreto">I -</strong> Iluminação de emergência; </p>
+		<p class="corpo_decreto"><strong class="destaque-decreto">II -</strong> Sinalização de rotas de fuga e saídas;</p>
+		<p class="corpo_decreto"><strong class="destaque-decreto">III -</strong> Alarme de acionamento automático e/ou detecção de fumaça; </p>
+		<p class="corpo_decreto"><strong class="destaque-decreto">IV -</strong> Equipamento móvel de combate a incêndio; </p>
+		<p class="corpo_decreto"><strong class="destaque-decreto">V -</strong> Equipamento fixo de combate a incêndio com acionamento fixo ou não; </p>
+		<p class="corpo_decreto"><strong class="destaque-decreto">VI -</strong> Outros equipamentos conforme NTO e legislação complementar. </p>
+		<p class="corpo_decreto"><strong class="artigo-decreto">6.B. </strong>Lotação das Edificações </p>
+		<p class="corpo_decreto">Considera-se lotação de uma edificação o número de usuários, calculado em função de sua área e utilização. </p>
+		<p class="corpo_decreto"><strong class="destaque-decreto">6.B.1. </strong>A lotação de uma edificação será obtida pelo somatório das lotações dos seus andares ou compartimentos onde se desenvolverem diferentes atividades, calculada tomando-se a área útil efetivamente utilizada no andar para o desenvolvimento de determinada atividade, dividida pelo índice correspondente determinado nas NTOs, ITs e deste decreto. </p>
+		<p class="corpo_decreto"><strong class="destaque-decreto">6.B.2. </strong>A área a ser considerada para o cálculo da lotação será obtida excluindo-se da área bruta, aquela correspondente às paredes, às unidades sanitárias, aos espaços de circulação horizontais e verticais efetivamente utilizados para escoamento, vazios de elevadores, monta-cargas, passagem de dutos de ventilação e depósitos de até 30,00 m² (trinta metros quadrados). </p>
+		<p class="corpo_decreto"><strong class="destaque-decreto">6.B.3. </strong>Nas edificações destinadas a locais de reuniões e centro de compras, da área a ser considerada para o cálculo da lotação, não poderão ser excluídos os espaços destinados à circulação horizontal que ultrapassarem 1,50 m (um metro e cinquenta) de largura. </p>
+		<p class="corpo_decreto"><strong class="destaque-decreto">6.B.4. </strong>Nas edificações destinadas a locais de reuniões deverão ser estabelecidos as seguintes índices: </p>
+		
+		<div class="anchor-tabela frame-7">
+			<table id="table-2" class="quadro">
+				<caption>Tabela – Lotação para locais de reuniões</caption>
+				<colgroup>
+					<col class="Row-Column-6" />
+					<col class="Row-Column-2" />
+				</colgroup>
 				<tbody>
-					<tr>
-						<td rowspan="2"><strong>% raio</strong></td>
-						<td colspan="3"><strong>Automóveis e utilitários</strong></td>
-						<td><strong>Caminhões</strong></td>
+					<tr class="Row-Column-4">
+						<td>
+							<strong>Ocupação para Locais de Reunião</strong>
+						</td>
+						<td>
+							<strong>m</strong><strong>²</strong><strong>/pessoa</strong>
+						</td>
 					</tr>
-					<tr>
-						<td><strong>0 a 4%</strong></td>
-						<td><strong>5 a 12%</strong></td>
-						<td><strong>13 a 20%</strong></td>
-						<td><strong>até 12%</strong></td>
+					<tr class="Row-Column-4">
+						<td>
+							Setor para usuários em pé
+						</td>
+						<td>
+							0,40
+						</td>
 					</tr>
-					<tr>
-						<td>3</td>
-						<td>3,35</td>
-						<td>3,95</td>
-						<td>4,55</td>
-						<td>não permitido</td>
+					<tr class="Row-Column-4">
+						<td>
+							Setor para usuários sentados
+						</td>
+						<td>
+							1,00
+						</td>
 					</tr>
-					<tr>
-						<td>3,5</td>
-						<td>3,25</td>
-						<td>3,85</td>
-						<td>4,45</td>
-						<td>não permitido</td>
-					</tr>
-					<tr>
-						<td>4</td>
-						<td>3,15</td>
-						<td>3,75</td>
-						<td>4,35</td>
-						<td>não permitido</td>
-					</tr>
-					<tr>
-						<td>4,5</td>
-						<td>3,05</td>
-						<td>3,65</td>
-						<td>4,25</td>
-						<td>não permitido</td>
-					</tr>
-					<tr>
-						<td>5</td>
-						<td>2,95</td>
-						<td>3,55</td>
-						<td>4,15</td>
-						<td>não permitido</td>
-					</tr>
-					<tr>
-						<td>5,5</td>
-						<td>2,85</td>
-						<td>3,45</td>
-						<td>4,05</td>
-						<td>não permitido</td>
-					</tr>
-					<tr>
-						<td>6</td>
-						<td>2,75</td>
-						<td>3,35</td>
-						<td>3,95</td>
-						<td>5,3</td>
-					</tr>
-					<tr>
-						<td>6,5</td>
-						<td>2,75</td>
-						<td>3,25</td>
-						<td>3,85</td>
-						<td>5,2</td>
-					</tr>
-					<tr>
-						<td>7</td>
-						<td>2,75</td>
-						<td>3,15</td>
-						<td>3,75</td>
-						<td>5,1</td>
-					</tr>
-					<tr>
-						<td>7,5</td>
-						<td>2,75</td>
-						<td>3,05</td>
-						<td>3,65</td>
-						<td>5</td>
-					</tr>
-					<tr>
-						<td>8</td>
-						<td>2,75</td>
-						<td>2,95</td>
-						<td>3,55</td>
-						<td>4,9</td>
-					</tr>
-					<tr>
-						<td>8,5</td>
-						<td>2,75</td>
-						<td>2,85</td>
-						<td>3,45</td>
-						<td>4,8</td>
-					</tr>
-					<tr>
-						<td>9</td>
-						<td>2,75</td>
-						<td>2,75</td>
-						<td>3,35</td>
-						<td>4,7</td>
-					</tr>
-					<tr>
-						<td>9,5</td>
-						<td>2,75</td>
-						<td>2,75</td>
-						<td>3,25</td>
-						<td>4,6</td>
-					</tr>
-					<tr>
-						<td>10</td>
-						<td>2,75</td>
-						<td>2,75</td>
-						<td>3,15</td>
-						<td>4,5</td>
-					</tr>
-					<tr>
-						<td>10,5</td>
-						<td>2,75</td>
-						<td>2,75</td>
-						<td>3,05</td>
-						<td>4,4</td>
-					</tr>
-					<tr>
-						<td>11</td>
-						<td>2,75</td>
-						<td>2,75</td>
-						<td>2,95</td>
-						<td>4,3</td>
-					</tr>
-					<tr>
-						<td>11,5</td>
-						<td>2,75</td>
-						<td>2,75</td>
-						<td>2,85</td>
-						<td>4,2</td>
-					</tr>
-					<tr>
-						<td>12</td>
-						<td>2,75</td>
-						<td>2,75</td>
-						<td>2,75</td>
-						<td>4,1</td>
-					</tr>
-					<tr>
-						<td>12,5</td>
-						<td>2,75</td>
-						<td>2,75</td>
-						<td>2,75</td>
-						<td>4</td>
-					</tr>
-					<tr>
-						<td>13</td>
-						<td>2,75</td>
-						<td>2,75</td>
-						<td>2,75</td>
-						<td>3,9</td>
-					</tr>
-					<tr>
-						<td>13,5</td>
-						<td>2,75</td>
-						<td>2,75</td>
-						<td>2,75</td>
-						<td>3,8</td>
-					</tr>
-					<tr>
-						<td>14</td>
-						<td>2,75</td>
-						<td>2,75</td>
-						<td>2,75</td>
-						<td>3,7</td>
-					</tr>
-					<tr>
-						<td>14,5</td>
-						<td>2,75</td>
-						<td>2,75</td>
-						<td>2,75</td>
-						<td>3,6</td>
-					</tr>
-					<tr>
-						<td>15</td>
-						<td>2,75</td>
-						<td>2,75</td>
-						<td>2,75</td>
-						<td>3,5</td>
+					<tr class="Row-Column-4">
+						<td>
+							Atividades não especificas e administrativas
+						</td>
+						<td>
+							7,00
+						</td>
 					</tr>
 				</tbody>
 			</table>
+		</div>
 
-			<p class="corpo_lei"><strong class="artigo-lei">8.2. </strong>O acesso de veículos em lote de esquina deve distar, no mínimo, 6,00 m (seis metros) do início do ponto de encontro do prolongamento dos alinhamentos dos logradouros, salvo na edificação residencial unifamiliar e no conjunto de habitações agrupadas horizontalmente.</p>
-			<p class="corpo_lei"><strong class="destaque-lei">8.2.1. </strong>Em virtude das características do logradouro, a distância estabelecida no subitem 8.2 pode ser alterada a critério da Prefeitura.</p>
-			<p class="corpo_lei"><strong class="artigo-lei">8.3. </strong>A rampa de veículo deve observar recuo de 4,00 m (quatro metros) do alinhamento do logradouro para seu início e apresentar declividade máxima de:</p>
-			<p class="corpo_lei"><strong class="destaque-lei">I -</strong> 20% (vinte por cento), quando destinada à circulação de automóvel e utilitário;</p>
-			<p class="corpo_lei"><strong class="destaque-lei">II -</strong> 12% (doze por cento), quando destinada à circulação de caminhão e ônibus.</p>
-			<p class="corpo_decreto"><strong class="artigo-decreto">8.E. </strong>A rampa de veículo deverá atender ao disposto no item 8.3 do Anexo I do COE, exceto nas residências unifamiliares, casas geminadas e superpostas, as quais poderão iniciar a rampa a partir do alinhamento, desde que atendidos os demais parâmetros urbanísticos. </p>
-			<p class="corpo_decreto"><strong class="destaque-decreto">8.E.1. </strong>As rampas para automóveis e utilitários em residências unifamiliares, casas geminadas ou superpostas e o acesso às garagens privativas através de vias internas de conjunto residencial horizontal poderão ter declividade máxima de 25% (vinte e cinco por cento). </p>
-			<p class="corpo_decreto"><strong class="destaque-decreto">8.E.2. </strong>A seção transversal da rampa deverá apresentar declividade de no máximo 2% (dois por cento). </p>
-			<p class="corpo_lei"><strong class="destaque-lei">8.3.1. </strong>O piso entre o alinhamento e o início da rampa pode ter inclinação de até 5% (cinco por cento).</p>
-			<p class="corpo_lei"><strong class="artigo-lei">8.4. </strong>O piso do estacionamento pode ter inclinação de, no máximo, 5% (cinco por cento).</p>
-			<p class="corpo_lei"><strong class="artigo-lei">8.5. </strong>Deve ser previsto espaço de manobra e estacionamento de veículo de forma que essas operações não sejam executadas no espaço do logradouro público.</p>
-			<p class="corpo_decreto"><strong class="artigo-decreto">8.F. </strong>O estacionamento coletivo deverá ter área de acumulação, acomodação e manobra de veículo dimensionada de forma a comportar no mínimo 3% (três por cento) de sua capacidade. </p>
-			<p class="corpo_decreto"><strong class="artigo-decreto">8.G. </strong>No caso de estacionamento com acesso controlado, o espaço de acumulação deverá estar situado entre o alinhamento e o local do controle. </p>
-			<p class="corpo_decreto"><strong class="artigo-decreto">8.H. </strong>Será admitida, exceto no caso das vagas de estacionamento de veículos de pessoas com deficiência, a manobra de até dois veículos para liberar a movimentação de um terceiro. </p>
-			<p class="corpo_decreto"><strong class="artigo-decreto">8.I. </strong>A dimensão da vaga de estacionamento é estabelecida em função do tipo de veículo, enquanto a do espaço de manobra e acesso é dada em função do ângulo formado pelo comprimento da vaga e a faixa de acesso, de acordo com a <strong>tabela a seguir</strong>.</p>
-			<p class="corpo_decreto"><strong class="artigo-decreto">8.J. </strong>As vagas para pessoas com deficiência deverão ser dimensionadas com 2,50 m (dois metros e cinquenta centímetros) de largura para o veículo acrescidas de 1,20 m (um metro e vinte centímetros) para a faixa de transferência, sendo admitido que duas vagas compartilhem o mesmo espaço de transferência. </p>
-			<p class="corpo_decreto"><strong class="destaque-decreto">8.J.1. </strong>O piso da vaga de estacionamento de veículo de pessoa com deficiência poderá ter inclinação máxima de 3% (três por cento). </p>
-			<p class="corpo_lei"><strong class="artigo-lei">8.6. </strong>Devem ser previstas vagas para motocicletas, em função do tipo de estacionamento, em acréscimo às vagas destinadas para automóveis, observada a proporcionalidade mínima de 5% (cinco por cento) em relação àquelas.</p>
+		<p class="corpo_decreto"><strong class="destaque-decreto">6.B.5. </strong>Em casos especiais outros cálculos de lotação poderão ser aceitos desde que justificados tecnicamente. </p>
+		<p class="corpo_decreto"><strong class="destaque-decreto">6.B.6. </strong>Nas salas de cinema, teatro, auditórios e restaurantes e assemelhados dotados de assentos fixos, a lotação será correspondente ao número de lugares oferecidos e não em função da relação m²/pessoa. </p>
+		<p class="corpo_decreto"><strong class="artigo-decreto">6.C. </strong>Dimensionamento dos Espaços de Circulação </p>
+		<p class="corpo_decreto">Consideram-se espaços de circulação as escadas, as rampas e os corredores. </p>
+		<p class="corpo_decreto"><strong class="destaque-decreto">6.C.1. </strong>O dimensionamento de escadas e demais espaços de circulação deverá ser feito com base nas NTOs e ITs. </p>
+		<p class="corpo_decreto"><strong class="destaque-decreto">6.C.2. </strong>A capacidade dos elevadores, escadas rolantes ou outros dispositivos de circulação por meios mecânicos, não será considerada para efeito do cálculo de escoamento do edifício. </p>
+		<p class="corpo_decreto"><strong class="destaque-decreto">6.C.3. </strong>No pavimento de saída da edificação, os espaços de circulação serão dimensionados de acordo com a capacidade de escoamento das escadas a que dão continuidade, acrescidos da população do próprio andar que também venha a utilizar a via de escoamento.</p>
+		<p class="corpo_decreto"><strong class="destaque-decreto">6.C.4. </strong>As portas de acesso que proporcionarem escoamento deverão abrir no sentido da saída e, ao abrir, não poderão reduzir as dimensões mínimas exigidas para a via de escoamento. </p>
+		<p class="corpo_decreto"><strong class="destaque-decreto">6.C.5. </strong>As portas de acesso da edificação situadas no pavimento de saída, necessárias ao escoamento da população, deverão abrir no sentido da saída, e, quando abrirem, não poderão obstruir o passeio público. </p>
+		<p class="corpo_decreto"><strong class="artigo-decreto">6.D. </strong>Disposição de escadas e saídas </p>
+		<p class="corpo_decreto">Os espaços de circulação horizontal e vertical deverão ser dispostos segundo a utilização, área, altura e lotação da edificação. </p>
+		<p class="corpo_decreto"><strong class="destaque-decreto">6.D.1. </strong>A distância máxima a percorrer, medida em metros e tomada pelo percurso real, será aquela estabelecida de acordo com as NTOs e ITs. </p>
+		<p class="corpo_decreto"><strong class="destaque-decreto">6.D.2. </strong>Nos compartimentos ou recintos em que a distância de qualquer ponto até a porta de acesso for inferior a 10,00 m (dez metros), a distância máxima prevista será calculada a partir da porta. </p>
+		<p class="corpo_decreto"><strong class="artigo-decreto">6.E. </strong>Espaços de Circulação Protegidos </p>
+		<p class="corpo_decreto"><strong class="destaque-decreto">6.E.1. </strong>Serão considerados protegidos os espaços de circulação que, por suas características construtivas, permitirem o escoamento em segurança, dos setores a que servirem, atendendo às seguintes disposições: </p>
+		<p class="corpo_decreto"><strong class="destaque-decreto">I -</strong> mantenham isolamento de qualquer outro espaço interno da edificação, por meio de elementos construtivos e portas resistentes, conforme estabelecido nas NTOs; </p>
+		<p class="corpo_decreto"><strong class="destaque-decreto">II -</strong> tenham uso exclusivo como circulação, estando permanentemente desobstruídos; </p>
+		<p class="corpo_decreto"><strong class="destaque-decreto">III -</strong> contenham apenas as instalações elétricas próprias do recinto e do sistema de segurança; </p>
+		<p class="corpo_decreto"><strong class="destaque-decreto">IV -</strong> não contenham aberturas para dutos ou galerias de instalação ou serviço, excetuadas as portas dos elevadores; </p>
+		<p class="corpo_decreto"><strong class="destaque-decreto">V -</strong> tenham os revestimentos das paredes e pisos ensaiados conforme as NTOs. </p>
+		<p class="corpo_decreto"><strong class="destaque-decreto">6.E.2. </strong>Além dos tipos de escadas mencionados nas NTOs, é considerada à prova de fumaça a escada aberta para o exterior, limitada à altura de 27 m (vinte e sete metros), sem obrigatoriedade de comunicação através de vestíbulo/antecâmara protegidos, desde que: </p>
+		<p class="corpo_decreto"><strong class="destaque-decreto">I -</strong> possua ventilação natural através de abertura em, pelo menos, 50% (cinquenta por cento) de seu perímetro, com altura igual ou superior à metade de seu pé direito; </p>
+		<p class="corpo_decreto"><strong class="destaque-decreto">II -</strong> suas aberturas estejam distanciadas, no mínimo, 5,00 m (cinco metros) de outra abertura da mesma edificação; </p>
+		<p class="corpo_decreto"><strong class="destaque-decreto">III -</strong> a face aberta da escada esteja distanciada, no mínimo, 5 m (cinco metros) de outra edificação no mesmo lote e das divisas do imóvel. </p>
+		<p class="corpo_decreto"><strong class="destaque-decreto">6.E.3. </strong>Nos andares enterrados, destinados exclusivamente a estacionamento de veículos, será dispensado o vestíbulo/antecâmara de acesso à escada à prova de fumaça. </p>
+		<p class="corpo_decreto"><strong class="artigo-decreto">6.F. </strong>Condições Construtivas Especiais </p>
+		<p class="corpo_decreto">Além das disposições gerais, de acordo com o uso, população e altura, as edificações deverão atender às condições construtivas especiais estabelecidas nesta seção. </p>
+		<p class="corpo_decreto"><strong class="destaque-decreto">6.F.1. </strong>Deverão constituir-se em setores de incêndio, delimitados por elementos resistentes ao fogo RF-120 (piso/parede) e RF-60 (portas): </p>
+		<p class="corpo_decreto"><strong class="destaque-decreto">I -</strong> os andares destinados exclusivamente a estacionamento de veículos; </p>
+		<p class="corpo_decreto"><strong class="destaque-decreto">II -</strong> as áreas destinadas a abrigar as seguintes atividades, instalações e equipamentos: </p>
+		<p class="corpo_decreto"><strong class="destaque-decreto">a)</strong> casa de máquinas ou de equipamentos que possam agravar o risco de incêndio da edificação; </p>
+		<p class="corpo_decreto"><strong class="destaque-decreto">b)</strong> compartimentos em que a atividade desenvolvida possa agravar o risco de incêndio inerente ao uso da edificação; </p>
+		<p class="corpo_decreto"><strong class="destaque-decreto">c)</strong> armazenagem de combustível; </p>
+		<p class="corpo_decreto"><strong class="destaque-decreto">d)</strong> sala de medidores de energia elétrica e gás; </p>
+		<p class="corpo_decreto"><strong class="destaque-decreto">e)</strong> centrais de instrumentos contra incêndio; </p>
+		<p class="corpo_decreto"><strong class="destaque-decreto">f)</strong> antecâmaras ou áreas de refúgio. </p>
+		<p class="corpo_decreto"><strong class="destaque-decreto">6.F.1.1. </strong>A exigência deste item poderá ser substituída pela instalação de chuveiros automáticos com agente extintor apropriado, no andar, setor ou compartimento em que ocorrer a situação. </p>
+		<p class="corpo_decreto"><strong class="destaque-decreto">6.F.2. </strong>Quando, em função do tipo de proteção dos espaços de circulação, for recomendável manter abertas as portas resistentes ao fogo, estas deverão estar acopladas a sistema de fechamento automático ou acionadas por central de controle. </p>
+		<p class="corpo_decreto"><strong class="bolinha">6.F.3.</strong> As edificações destinadas a locais de reunião, que abriguem salas de cinema, teatros e auditórios dotados de assentos fixos dispostos em filas, deverão atender aos seguintes requisitos: </p>
+		<p class="corpo_decreto"><strong class="destaque-decreto">I -</strong> máximo de 16 (dezesseis) assentos em fila, quando houver corredores em ambos os lados; </p>
+		<p class="corpo_decreto"><strong class="destaque-decreto">II -</strong> máximo de 8 (oito) assentos em fila, quando houver corredor em um único lado; </p>
+		<p class="corpo_decreto"><strong class="destaque-decreto">III -</strong> setorização, através de corredores transversais, que disporão de, no máximo, 14 (catorze) filas; </p>
+		<p class="corpo_decreto"><strong class="destaque-decreto">IV -</strong> vão livre entre o assento e o encosto do assento fronteiro de, no mínimo, 0,50 m (cinquenta centímetros); </p>
+		<p class="corpo_decreto"><strong class="destaque-decreto">V -</strong> vão livre de no mínimo de 1,20 m (um metro e vinte centímetros) entre o assento da ultima fileira e o fundo da sala; </p>
+		<p class="corpo_decreto"><strong class="destaque-decreto">VI -</strong> vão livre de no mínimo 1,70 m (um metro e setenta centímetros) entre o assento da primeira fileira e o palco. </p>
+		<p class="corpo_decreto"><strong class="destaque-decreto">6.F.4. </strong>Para assentos e espaços destinados a pessoas com deficiência ou mobilidade reduzida deverão ser observados os requisitos técnicos constantes nas NTOs de acessibilidade em especial a NBR 9050 ou outra que vier a sucedê-la. </p>
+		<p class="corpo_decreto"><strong class="destaque-decreto">6.F.5. </strong>Em função do tipo de edificação, natureza dos materiais, altura, população e condições de segurança apresentadas, a Prefeitura poderá admitir a dispensa de determinados equipamentos e instalações que se tornem desnecessários em face da existência de outras instalações de segurança equivalentes.</p>
+		<p class="corpo_decreto"><strong class="destaque-decreto">6.F.6. </strong>Os equipamentos cadastrados deverão ser instalados conforme normas técnicas aplicáveis, garantindo a segurança e integridade do entorno, através de proteção adequada contra vazamentos, incêndios, emanação de gases e vapores nocivos, odores ou temperaturas extremas, bem como guardar as distâncias mínimas abaixo indicadas: </p>
+		<p class="corpo_decreto"><strong class="destaque-decreto">I -</strong> Tanques enterrados deverão respeitar os afastamentos mínimos de 1,50 m (um metro e meio) do(s) logradouro(s), divisas do lote e edificações e de 1,00 m (um metro) entre si; </p>
+		<p class="corpo_decreto"><strong class="destaque-decreto">II -</strong> Tanques aéreos deverão respeitar os afastamentos mínimos de 3,00 m (três metros) do(s) logradouro(s), das divisas do lote e entre si; </p>
+		<p class="corpo_decreto"><strong class="destaque-decreto">III -</strong> Bombas de abastecimento de líquidos, dispensers de abastecimento de gás e filtros de diesel deverão respeitar o afastamento mínimo de 4,50 m (quatro metros e meio) do(s) logradouro(s) e de 1,50 m (um metro e meio) das divisas do lote e das edificações; </p>
+		<p class="corpo_decreto"><strong class="destaque-decreto">IV -</strong> Elevadores para troca de óleo e equipamentos de lavagem dos veículos, quando descobertos, deverão respeitar o afastamento mínimo de 3,00 m (três metros) do(s) logradouro(s) e das divisas do lote; </p>
+		<p class="corpo_decreto"><strong class="destaque-decreto">V -</strong> As terminações dos respiros deverão respeitar o afastamento mínimo de 3,00 m (três metros) das divisas do lote. </p>
+		<p class="corpo_decreto"><strong class="destaque-decreto">6.F.6.1. </strong>Os equipamentos já aprovados, cujas distâncias não atendam ao disposto neste Decreto, poderão ser substituídos por outros mais modernos, nos mesmos locais em que foram aprovados. </p>
+		<p class="corpo_decreto"><strong class="artigo-decreto">6.G. </strong>Adaptação de edificações existentes </p>
+		<p class="corpo_decreto"><strong class="destaque-decreto">6.G.1. </strong>Em caso de adaptação de edificações existentes às condições de segurança de uso, e que necessitem de mais de uma escada protegida, de acordo com as NTOs e ITs, a metade delas deverá atender às características exigidas para este tipo de escada, podendo as demais serem substituídas por: </p>
+		<p class="corpo_decreto"><strong class="destaque-decreto">I -</strong> interligação entre blocos no mesmo lote ou entre edificações vizinhas, por passarela ou passadiço protegido; </p>
+		<p class="corpo_decreto"><strong class="destaque-decreto">II -</strong> áreas de refúgio, delimitadas por elementos construtivos e portas resistentes, conforme estabelecido nas NTOs e ITs, situadas, no mínimo, a cada quatro andares, com capacidade para abrigar 50% (cinquenta por cento) da lotação dos andares superiores, na proporção de 0,50 m² (cinquenta decímetros quadrados) por pessoa, interligadas à escada protegida. </p>
+		<p class="corpo_decreto"><strong class="destaque-decreto">6.G.2. </strong>Serão aceitas escadas em leque ou em curva, inclusive como escada protegida ou à prova de fumaça, limitando-se a sua capacidade de escoamento, respectivamente, à metade, se em leque, e a dois terços, se em curva, de uma escada com lances retos. </p>
+		<p class="corpo_decreto"><strong class="destaque-decreto">6.G.3. </strong>As condições de segurança em locais de grande concentração de pessoas serão regradas por Portaria. </p>
+		<p class="corpo_decreto"><strong class="destaque-decreto">6.G.4. </strong>A previsão do elevador de emergência no uso residencial multifamiliar será obrigatória quando a altura da edificação for superior a 80 m (oitenta metros). </p>
+		<h2>7 - DO EQUIPAMENTO MECÂNICO </h2>
+		<p class="corpo_decreto"><strong class="destaque-decreto">7.A.1. </strong>Na edificação constituída de hall privativo que não disponha de interligação com as escadas, o elevador deverá ser dotado de sistema de segurança (gerador de energia elétrica) que garanta a sua movimentação, mesmo em caso de pane no sistema ou falta de energia elétrica. </p>
+		<p class="corpo_decreto"><strong class="destaque-decreto">7.A.2. </strong>Todos os elevadores instalados para transporte de passageiros, cargas e automóveis, independente do percurso e quantidades de paradas, deverão possuir dispositivo de operação de emergência em incêndio, de fase 1, obrigatório para todos os elevadores, e de fase 2, aos elevadores de emergência, conforme estabelecido por Portaria. </p>
+		<p class="corpo_lei"><strong class="artigo-lei">7.1. </strong>Todo equipamento mecânico, independentemente de sua posição no imóvel, deve ser instalado de forma a não transmitir, ao imóvel vizinho e ao logradouro público, ruído, vibração e temperatura em níveis superiores aos previstos nos regulamentos oficiais próprios.</p>
+		<p class="corpo_lei"><strong class="destaque-lei">7.1.1. </strong>O guindaste, ponte rolante e outros equipamentos assemelhados devem observar o afastamento mínimo das divisas estabelecido na LPUOS em função da sua altura em relação ao perfil do terreno.</p>
+		<p class="corpo_decreto"><strong class="artigo-decreto">7.B. </strong>O guindaste, ponte rolante e outros equipamentos assemelhados deverão atender o afastamento mínimo das divisas estabelecido pela LPUOS em função da sua altura em relação ao perfil do terreno.</p>
+		<p class="corpo_lei"><strong class="artigo-lei">7.2. </strong>O elevador e os demais equipamentos mecânicos de transporte vertical não podem se constituir no único meio de circulação e acesso do pedestre à edificação.</p>
+		<p class="corpo_lei"><strong class="artigo-lei">7.3. </strong>A edificação com mais de 5 (cinco) andares ou que apresente desnível superior a 12,00 m (doze metros) contado do piso do último andar até o piso do andar inferior, incluídos os pavimentos destinados a estacionamento, deve ser servida por elevador de passageiro, observadas as seguintes condições:</p>
+		<p class="corpo_lei"><strong class="destaque-lei">I -</strong> no mínimo, 1 (um) elevador, em edificação com até 10 (dez) andares ou com desnível igual ou inferior a 24,00 m (vinte e quatro metros);</p>
+		<p class="corpo_lei"><strong class="destaque-lei">II -</strong> no mínimo, 2 (dois) elevadores, em edificação com mais de 10 (dez) andares ou com desnível superior a 24,00 m (vinte e quatro metros).</p>
+		<p class="corpo_decreto"><strong class="artigo-decreto">7.C. </strong>Os elevadores de passageiros deverão atender o dimensionamento e a localização definidos pela NTO, além das disposições estabelecidas pelo COE. </p>
+		<p class="corpo_decreto"><strong class="destaque-decreto">7.C.1. </strong>O hall de acesso a no mínimo um elevador, em todos os pavimentos, excluído o térreo, deverá estar interligado à circulação vertical da edificação (escadas e/ou rampas) por espaço de circulação coletiva (largura mínima de 1,20 m), podendo os demais elevadores estar interligados às escadas e/ou rampas por espaço de circulação privativa (largura mínima de 0,80 m) de uso comum ao edifício, atendidas as condições de segurança estabelecidas no COE e neste decreto. </p>
+		<p class="corpo_decreto"><strong class="destaque-decreto">7.C.2. </strong>Os elevadores acessíveis de passageiros deverão atender a quantidade, o dimensionamento e a localização definidos pela NBR 9050 e NBR NM 313, ou aquelas que vierem substituí-las. </p>
+		<p class="corpo_lei"><strong class="destaque-lei">7.3.1. </strong>Todo andar deve ser servido pelo número mínimo de elevadores exigidos, inclusive aquele destinado a estacionamento.</p>
+		<p class="corpo_decreto"><strong class="artigo-decreto">7.D. </strong>Os elevadores podem estar em prumadas diferentes, desde que respeitado o cálculo de tráfego estabelecido nas NTOs, excetuado o elevador de emergência, que deverá atender a todos os andares na mesma caixa de corrida, inclusive subsolos. </p>
+		<p class="corpo_decreto"><strong class="artigo-decreto">7.E. </strong>Os equipamentos mecânicos, independentemente do porte, não serão considerados como área edificada. </p>
+		<p class="corpo_decreto"><strong class="artigo-decreto">7.F. </strong>A quantidade mínima de elevadores estabelecido no COE poderá ser revista por legislação especifica. </p>
+		<p class="corpo_decreto"><strong class="artigo-decreto">7.G. </strong>Em casos de adaptações da edificação poderão ser aceitos para fins de acessibilidade, plataforma de elevação vertical motorizada e elevador de uso exclusivo, atendendo dimensionamento e localização definidos pela NBR 9050 ou outra que a substituir, normas técnicas e legislação específicas para estes equipamentos.</p>
+		<p class="corpo_lei"><strong class="destaque-lei">7.3.2. </strong>No cômputo dos andares, no cálculo do desnível e na obrigatoriedade de parada, não são considerados o ático, o pavimento de cobertura sem utilização, o andar destinado à zeladoria e o andar de uso privado de andar contíguo.</p>
+		<h2>8 - DO ESTACIONAMENTO </h2>
+		<p class="corpo_lei"><strong class="artigo-lei">8.1. </strong>Os espaços para acesso, circulação e estacionamento de veículos devem ser projetados, dimensionados e executados livres de qualquer interferência estrutural ou física.</p>
+		
+		<p class="corpo_decreto"><strong class="bolinha">8.A.</strong> Deverá ser garantido o acesso a pedestres independente da circulação de veículos, entre o alinhamento do imóvel e o ingresso à edificação, por faixa exclusiva com largura mínima de 1,20 m (um metro e vinte centímetros), excetuados dessa exigência as residências unifamiliares e o conjunto de habitações agrupadas horizontalmente. </p>
+		<p class="corpo_decreto"><strong class="artigo-decreto">8.B. </strong>A acomodação transversal do acesso entre o perfil do logradouro e os espaços de circulação e estacionamento deverá ser feita dentro do imóvel, de forma a não criar degraus ou desníveis abruptos na calçada. </p>
+		<p class="corpo_decreto"><strong class="artigo-decreto">8.C. </strong>O rebaixamento de guia destinado ao acesso de veículos não poderá exceder a 50% (cinquenta por cento) da extensão da testada do imóvel, à exceção da edificação residencial unifamiliar e do conjunto de habitações agrupadas horizontalmente com frente e acesso para logradouro público.</p>
+		<p class="corpo_decreto"><strong class="artigo-decreto">8.D. </strong>As faixas de circulação de veículo devem apresentar dimensão para cada sentido de tráfego de no mínimo:</p>
+		<p class="corpo_decreto"><strong class="destaque-decreto">I -</strong> 2,75 m (dois metros e setenta e cinco centímetros) de largura e 2,30 m (dois metros e trinta centímetros) de altura livre de passagem quando destinada à circulação de automóvel e utilitário;</p>
+		<p class="corpo_decreto"><strong class="destaque-decreto">II -</strong> 3,50 m (três metros e cinquenta centímetros) de largura e 3,50 m (três metros e cinquenta centímetros) de altura livre de passagem quando destinada à circulação de caminhão e ônibus.<strong class="subtitulo_txt"></strong></p>
+		<p class="corpo_decreto"><strong class="destaque-decreto">8.D.1. </strong>É admitida uma única faixa de circulação quando esta se destinar, no máximo, ao trânsito de 60 (sessenta) veículos em edificações de uso residencial e 30 (trinta) veículos nos demais usos.</p>
+		<p class="corpo_decreto"><strong class="destaque-decreto">8.D.2. </strong>No caso da faixa de circulação servir a automóvel, utilitário e caminhão prevalece o parâmetro mais restritivo.</p>
+		<p class="corpo_decreto"><strong class="destaque-decreto">8.D.3. </strong>As faixas de circulação em curva terão largura aumentada em razão do raio interno, expresso em metros, e da declividade, expressa em porcentagem, tomada no desenvolvimento interno da curva, conforme disposto na <strong>tabela abaixo</strong>.</p>
 
-			<table>
-				<caption>Tabela – Dimensão das vagas de estacionamento e faixas de acesso à vaga em função do tipo de veículo (medidas em metros)</caption>
-				<tbody>
-					<tr>
-						<td rowspan="2"><strong>Tipo de veículo</strong></td>
-						<td colspan="2"><strong>Vaga para estacionamento</strong></td>
-						<td colspan="2"><strong>Faixa de acesso à vaga</strong></td>
-					</tr>
-					<tr>
-						<td><strong>Largura</strong></td>
-						<td><strong>Comprimento</strong></td>
-						<td><strong>0 a 45º</strong></td>
-						<td><strong>46 a 90º</strong></td>
-					</tr>
-					<tr>
-						<td>Automóvel</td>
-						<td>2,2</td>
-						<td>4,5</td>
-						<td>2,75</td>
-						<td>5</td>
-					</tr>
-					<tr>
-						<td>Pessoa com deficiência</td>
-						<td>3,7</td>
-						<td>5</td>
-						<td>3,8</td>
-						<td>5,5</td>
-					</tr>
-					<tr>
-						<td>Moto</td>
-						<td>1</td>
-						<td>2</td>
-						<td>2,75</td>
-						<td>2,75</td>
-					</tr>
-					<tr>
-						<td>Utilitário</td>
-						<td>2,5</td>
-						<td>5,5</td>
-						<td>3,8</td>
-						<td>5,5</td>
-					</tr>
-					<tr>
-						<td>Caminhão leve</td>
-						<td>3,1</td>
-						<td>8</td>
-						<td>4,5</td>
-						<td>7</td>
-					</tr>
-				</tbody>
-			</table>
+		<table>
+			<caption>Tabela – Largura da faixa de circulação em curva</caption>
+			<tbody>
+				<tr>
+					<td rowspan="2"><strong>% raio</strong></td>
+					<td colspan="3"><strong>Automóveis e utilitários</strong></td>
+					<td><strong>Caminhões</strong></td>
+				</tr>
+				<tr>
+					<td><strong>0 a 4%</strong></td>
+					<td><strong>5 a 12%</strong></td>
+					<td><strong>13 a 20%</strong></td>
+					<td><strong>até 12%</strong></td>
+				</tr>
+				<tr>
+					<td>3</td>
+					<td>3,35</td>
+					<td>3,95</td>
+					<td>4,55</td>
+					<td>não permitido</td>
+				</tr>
+				<tr>
+					<td>3,5</td>
+					<td>3,25</td>
+					<td>3,85</td>
+					<td>4,45</td>
+					<td>não permitido</td>
+				</tr>
+				<tr>
+					<td>4</td>
+					<td>3,15</td>
+					<td>3,75</td>
+					<td>4,35</td>
+					<td>não permitido</td>
+				</tr>
+				<tr>
+					<td>4,5</td>
+					<td>3,05</td>
+					<td>3,65</td>
+					<td>4,25</td>
+					<td>não permitido</td>
+				</tr>
+				<tr>
+					<td>5</td>
+					<td>2,95</td>
+					<td>3,55</td>
+					<td>4,15</td>
+					<td>não permitido</td>
+				</tr>
+				<tr>
+					<td>5,5</td>
+					<td>2,85</td>
+					<td>3,45</td>
+					<td>4,05</td>
+					<td>não permitido</td>
+				</tr>
+				<tr>
+					<td>6</td>
+					<td>2,75</td>
+					<td>3,35</td>
+					<td>3,95</td>
+					<td>5,3</td>
+				</tr>
+				<tr>
+					<td>6,5</td>
+					<td>2,75</td>
+					<td>3,25</td>
+					<td>3,85</td>
+					<td>5,2</td>
+				</tr>
+				<tr>
+					<td>7</td>
+					<td>2,75</td>
+					<td>3,15</td>
+					<td>3,75</td>
+					<td>5,1</td>
+				</tr>
+				<tr>
+					<td>7,5</td>
+					<td>2,75</td>
+					<td>3,05</td>
+					<td>3,65</td>
+					<td>5</td>
+				</tr>
+				<tr>
+					<td>8</td>
+					<td>2,75</td>
+					<td>2,95</td>
+					<td>3,55</td>
+					<td>4,9</td>
+				</tr>
+				<tr>
+					<td>8,5</td>
+					<td>2,75</td>
+					<td>2,85</td>
+					<td>3,45</td>
+					<td>4,8</td>
+				</tr>
+				<tr>
+					<td>9</td>
+					<td>2,75</td>
+					<td>2,75</td>
+					<td>3,35</td>
+					<td>4,7</td>
+				</tr>
+				<tr>
+					<td>9,5</td>
+					<td>2,75</td>
+					<td>2,75</td>
+					<td>3,25</td>
+					<td>4,6</td>
+				</tr>
+				<tr>
+					<td>10</td>
+					<td>2,75</td>
+					<td>2,75</td>
+					<td>3,15</td>
+					<td>4,5</td>
+				</tr>
+				<tr>
+					<td>10,5</td>
+					<td>2,75</td>
+					<td>2,75</td>
+					<td>3,05</td>
+					<td>4,4</td>
+				</tr>
+				<tr>
+					<td>11</td>
+					<td>2,75</td>
+					<td>2,75</td>
+					<td>2,95</td>
+					<td>4,3</td>
+				</tr>
+				<tr>
+					<td>11,5</td>
+					<td>2,75</td>
+					<td>2,75</td>
+					<td>2,85</td>
+					<td>4,2</td>
+				</tr>
+				<tr>
+					<td>12</td>
+					<td>2,75</td>
+					<td>2,75</td>
+					<td>2,75</td>
+					<td>4,1</td>
+				</tr>
+				<tr>
+					<td>12,5</td>
+					<td>2,75</td>
+					<td>2,75</td>
+					<td>2,75</td>
+					<td>4</td>
+				</tr>
+				<tr>
+					<td>13</td>
+					<td>2,75</td>
+					<td>2,75</td>
+					<td>2,75</td>
+					<td>3,9</td>
+				</tr>
+				<tr>
+					<td>13,5</td>
+					<td>2,75</td>
+					<td>2,75</td>
+					<td>2,75</td>
+					<td>3,8</td>
+				</tr>
+				<tr>
+					<td>14</td>
+					<td>2,75</td>
+					<td>2,75</td>
+					<td>2,75</td>
+					<td>3,7</td>
+				</tr>
+				<tr>
+					<td>14,5</td>
+					<td>2,75</td>
+					<td>2,75</td>
+					<td>2,75</td>
+					<td>3,6</td>
+				</tr>
+				<tr>
+					<td>15</td>
+					<td>2,75</td>
+					<td>2,75</td>
+					<td>2,75</td>
+					<td>3,5</td>
+				</tr>
+			</tbody>
+		</table>
 
-			<p class="corpo_lei"><strong class="artigo-lei">8.7. </strong>Admite-se a utilização de equipamento mecânico para estacionamento de veículos, observadas as normas técnicas aplicáveis e as disposições da LOE e LPUOS sobre acesso e circulação de veículos entre o logradouro público e o imóvel.</p>
-			<p class="corpo_decreto"><strong class="artigo-decreto">8.K.</strong><strong class="destaque-decreto"> </strong>É admitida a utilização de equipamento mecânico para estacionamento e circulação de veículos, como atividade principal ou complementar a outra atividade, desde que permitidas na LPUOS. </p>
-			<p class="corpo_decreto"><strong class="destaque-decreto">8.K.1. </strong>As exigências para acesso e circulação de veículos entre o logradouro público e a edificação deverão observar as disposições da LPUOS e da LOE. </p>
-			<p class="corpo_decreto"><strong class="destaque-decreto">8.K.2. </strong>Não se aplicam os itens 8.D, 8.H e 8.I deste Anexo no interior dos estacionamentos que utilizem equipamentos mecânicos automatizados para a guarda de veículos.<strong class="subtitulo_txt"></strong></p>
-			<p class="corpo_lei"><strong class="artigo-lei">8.8. </strong>O espaço destinado a bicicletas previsto na LPUOS será dimensionado e configurado de acordo com regulamentação.</p>
-			<p class="corpo_decreto"><strong class="artigo-decreto">8.L. </strong>Nos espaços de estacionamento, as vagas destinadas a bicicletas poderão estar instaladas horizontalmente ou verticalmente presas em suporte, devendo estar localizadas preferencialmente no piso mais próximo do logradouro público. </p>
-			<p class="corpo_decreto"><strong class="artigo-decreto">8.M. </strong>Nos estacionamentos privativos e coletivos serão permitidas coberturas de polietileno de alta densidade sobre estrutura tubular, para sombreamento e proteção dos veículos. </p>
-			<p class="corpo_decreto"><strong class="destaque-decreto">8.M.1. </strong>A cobertura de polietileno deverá apresentar estabilidade, segurança, resistência, conforto térmico e acústico e resistência ao fogo de acordo com as NTOs, bem como permeabilidade possibilitando a passagem do ar e da água. </p>
-			<p class="corpo_decreto"><strong class="destaque-decreto">8.M.2. </strong>As coberturas não poderão ser executadas sobre os acessos e circulação de veículos, nem sobre os recuos de frente exigidos pela LPUOS. </p>
-			<p class="corpo_decreto"><strong class="destaque-decreto">8.M.3. </strong>As coberturas poderão ocupar os recuos laterais previstos pela LPUOS, desde que não ultrapassem a altura de 2,30 m junto a essas divisas. </p>
-			<p class="corpo_decreto"><strong class="destaque-decreto">8.M.4. </strong>Dentro dos limites a seguir estabelecidos, as coberturas não serão computadas para fins de cálculo de taxa de ocupação, cota de garagem e coeficiente de aproveitamento previstos pela LPUOS: I. 70% da área do terreno, quando destinadas a atividade “estacionamento”; II. 25% da área do terreno, quando o estacionamento constituir-se complemento da atividade principal. </p>
-			<p class="corpo_decreto"><strong class="destaque-decreto">8.M.4.1. </strong>Quando houver divergência entre a área constante do documento de propriedade apresentada e as apuradas no levantamento topográfico será considera a menor área apurada, observando o remanescente do imóvel quando o terreno for objeto de doação de área para Municipalidade. </p>
-			<p class="corpo_decreto"><strong class="destaque-decreto">8.M.5. </strong>Poderá ser aceito outro material semelhante ao disposto do item 8.M desde que assegurado tecnicamente por profissional habilitado que atenda as NTOs. </p>
+		<p class="corpo_lei"><strong class="artigo-lei">8.2. </strong>O acesso de veículos em lote de esquina deve distar, no mínimo, 6,00 m (seis metros) do início do ponto de encontro do prolongamento dos alinhamentos dos logradouros, salvo na edificação residencial unifamiliar e no conjunto de habitações agrupadas horizontalmente.</p>
+		<p class="corpo_lei"><strong class="destaque-lei">8.2.1. </strong>Em virtude das características do logradouro, a distância estabelecida no subitem 8.2 pode ser alterada a critério da Prefeitura.</p>
+		<p class="corpo_lei"><strong class="artigo-lei">8.3. </strong>A rampa de veículo deve observar recuo de 4,00 m (quatro metros) do alinhamento do logradouro para seu início e apresentar declividade máxima de:</p>
+		<p class="corpo_lei"><strong class="destaque-lei">I -</strong> 20% (vinte por cento), quando destinada à circulação de automóvel e utilitário;</p>
+		<p class="corpo_lei"><strong class="destaque-lei">II -</strong> 12% (doze por cento), quando destinada à circulação de caminhão e ônibus.</p>
+		<p class="corpo_decreto"><strong class="artigo-decreto">8.E. </strong>A rampa de veículo deverá atender ao disposto no item 8.3 do Anexo I do COE, exceto nas residências unifamiliares, casas geminadas e superpostas, as quais poderão iniciar a rampa a partir do alinhamento, desde que atendidos os demais parâmetros urbanísticos. </p>
+		<p class="corpo_decreto"><strong class="destaque-decreto">8.E.1. </strong>As rampas para automóveis e utilitários em residências unifamiliares, casas geminadas ou superpostas e o acesso às garagens privativas através de vias internas de conjunto residencial horizontal poderão ter declividade máxima de 25% (vinte e cinco por cento). </p>
+		<p class="corpo_decreto"><strong class="destaque-decreto">8.E.2. </strong>A seção transversal da rampa deverá apresentar declividade de no máximo 2% (dois por cento). </p>
+		<p class="corpo_lei"><strong class="destaque-lei">8.3.1. </strong>O piso entre o alinhamento e o início da rampa pode ter inclinação de até 5% (cinco por cento).</p>
+		<p class="corpo_lei"><strong class="artigo-lei">8.4. </strong>O piso do estacionamento pode ter inclinação de, no máximo, 5% (cinco por cento).</p>
+		<p class="corpo_lei"><strong class="artigo-lei">8.5. </strong>Deve ser previsto espaço de manobra e estacionamento de veículo de forma que essas operações não sejam executadas no espaço do logradouro público.</p>
+		<p class="corpo_decreto"><strong class="artigo-decreto">8.F. </strong>O estacionamento coletivo deverá ter área de acumulação, acomodação e manobra de veículo dimensionada de forma a comportar no mínimo 3% (três por cento) de sua capacidade. </p>
+		<p class="corpo_decreto"><strong class="artigo-decreto">8.G. </strong>No caso de estacionamento com acesso controlado, o espaço de acumulação deverá estar situado entre o alinhamento e o local do controle. </p>
+		<p class="corpo_decreto"><strong class="artigo-decreto">8.H. </strong>Será admitida, exceto no caso das vagas de estacionamento de veículos de pessoas com deficiência, a manobra de até dois veículos para liberar a movimentação de um terceiro. </p>
+		<p class="corpo_decreto"><strong class="artigo-decreto">8.I. </strong>A dimensão da vaga de estacionamento é estabelecida em função do tipo de veículo, enquanto a do espaço de manobra e acesso é dada em função do ângulo formado pelo comprimento da vaga e a faixa de acesso, de acordo com a <strong>tabela a seguir</strong>.</p>
+		<p class="corpo_decreto"><strong class="artigo-decreto">8.J. </strong>As vagas para pessoas com deficiência deverão ser dimensionadas com 2,50 m (dois metros e cinquenta centímetros) de largura para o veículo acrescidas de 1,20 m (um metro e vinte centímetros) para a faixa de transferência, sendo admitido que duas vagas compartilhem o mesmo espaço de transferência. </p>
+		<p class="corpo_decreto"><strong class="destaque-decreto">8.J.1. </strong>O piso da vaga de estacionamento de veículo de pessoa com deficiência poderá ter inclinação máxima de 3% (três por cento). </p>
+		<p class="corpo_lei"><strong class="artigo-lei">8.6. </strong>Devem ser previstas vagas para motocicletas, em função do tipo de estacionamento, em acréscimo às vagas destinadas para automóveis, observada a proporcionalidade mínima de 5% (cinco por cento) em relação àquelas.</p>
+
+		<table>
+			<caption>Tabela – Dimensão das vagas de estacionamento e faixas de acesso à vaga em função do tipo de veículo (medidas em metros)</caption>
+			<tbody>
+				<tr>
+					<td rowspan="2"><strong>Tipo de veículo</strong></td>
+					<td colspan="2"><strong>Vaga para estacionamento</strong></td>
+					<td colspan="2"><strong>Faixa de acesso à vaga</strong></td>
+				</tr>
+				<tr>
+					<td><strong>Largura</strong></td>
+					<td><strong>Comprimento</strong></td>
+					<td><strong>0 a 45º</strong></td>
+					<td><strong>46 a 90º</strong></td>
+				</tr>
+				<tr>
+					<td>Automóvel</td>
+					<td>2,2</td>
+					<td>4,5</td>
+					<td>2,75</td>
+					<td>5</td>
+				</tr>
+				<tr>
+					<td>Pessoa com deficiência</td>
+					<td>3,7</td>
+					<td>5</td>
+					<td>3,8</td>
+					<td>5,5</td>
+				</tr>
+				<tr>
+					<td>Moto</td>
+					<td>1</td>
+					<td>2</td>
+					<td>2,75</td>
+					<td>2,75</td>
+				</tr>
+				<tr>
+					<td>Utilitário</td>
+					<td>2,5</td>
+					<td>5,5</td>
+					<td>3,8</td>
+					<td>5,5</td>
+				</tr>
+				<tr>
+					<td>Caminhão leve</td>
+					<td>3,1</td>
+					<td>8</td>
+					<td>4,5</td>
+					<td>7</td>
+				</tr>
+			</tbody>
+		</table>
+
+		<p class="corpo_lei"><strong class="artigo-lei">8.7. </strong>Admite-se a utilização de equipamento mecânico para estacionamento de veículos, observadas as normas técnicas aplicáveis e as disposições da LOE e LPUOS sobre acesso e circulação de veículos entre o logradouro público e o imóvel.</p>
+		<p class="corpo_decreto"><strong class="artigo-decreto">8.K.</strong><strong class="destaque-decreto"> </strong>É admitida a utilização de equipamento mecânico para estacionamento e circulação de veículos, como atividade principal ou complementar a outra atividade, desde que permitidas na LPUOS. </p>
+		<p class="corpo_decreto"><strong class="destaque-decreto">8.K.1. </strong>As exigências para acesso e circulação de veículos entre o logradouro público e a edificação deverão observar as disposições da LPUOS e da LOE. </p>
+		<p class="corpo_decreto"><strong class="destaque-decreto">8.K.2. </strong>Não se aplicam os itens 8.D, 8.H e 8.I deste Anexo no interior dos estacionamentos que utilizem equipamentos mecânicos automatizados para a guarda de veículos.<strong class="subtitulo_txt"></strong></p>
+		<p class="corpo_lei"><strong class="artigo-lei">8.8. </strong>O espaço destinado a bicicletas previsto na LPUOS será dimensionado e configurado de acordo com regulamentação.</p>
+		<p class="corpo_decreto"><strong class="artigo-decreto">8.L. </strong>Nos espaços de estacionamento, as vagas destinadas a bicicletas poderão estar instaladas horizontalmente ou verticalmente presas em suporte, devendo estar localizadas preferencialmente no piso mais próximo do logradouro público. </p>
+		<p class="corpo_decreto"><strong class="artigo-decreto">8.M. </strong>Nos estacionamentos privativos e coletivos serão permitidas coberturas de polietileno de alta densidade sobre estrutura tubular, para sombreamento e proteção dos veículos. </p>
+		<p class="corpo_decreto"><strong class="destaque-decreto">8.M.1. </strong>A cobertura de polietileno deverá apresentar estabilidade, segurança, resistência, conforto térmico e acústico e resistência ao fogo de acordo com as NTOs, bem como permeabilidade possibilitando a passagem do ar e da água. </p>
+		<p class="corpo_decreto"><strong class="destaque-decreto">8.M.2. </strong>As coberturas não poderão ser executadas sobre os acessos e circulação de veículos, nem sobre os recuos de frente exigidos pela LPUOS. </p>
+		<p class="corpo_decreto"><strong class="destaque-decreto">8.M.3. </strong>As coberturas poderão ocupar os recuos laterais previstos pela LPUOS, desde que não ultrapassem a altura de 2,30 m junto a essas divisas. </p>
+		<p class="corpo_decreto"><strong class="destaque-decreto">8.M.4. </strong>Dentro dos limites a seguir estabelecidos, as coberturas não serão computadas para fins de cálculo de taxa de ocupação, cota de garagem e coeficiente de aproveitamento previstos pela LPUOS: I. 70% da área do terreno, quando destinadas a atividade “estacionamento”; II. 25% da área do terreno, quando o estacionamento constituir-se complemento da atividade principal. </p>
+		<p class="corpo_decreto"><strong class="destaque-decreto">8.M.4.1. </strong>Quando houver divergência entre a área constante do documento de propriedade apresentada e as apuradas no levantamento topográfico será considera a menor área apurada, observando o remanescente do imóvel quando o terreno for objeto de doação de área para Municipalidade. </p>
+		<p class="corpo_decreto"><strong class="destaque-decreto">8.M.5. </strong>Poderá ser aceito outro material semelhante ao disposto do item 8.M desde que assegurado tecnicamente por profissional habilitado que atenda as NTOs.</p>
 
 			<!-- 09_anexo-I_d04.html -->
 			<div id="g-09_anexo-I_d04-box" class="ai2html">
@@ -1228,7 +1265,7 @@ export default{
 	width:960px;
 }
 #g-09_anexo-I_d01-01 p {
-	font-family:arial,helvetica,sans-serif;
+	/*font-family:arial,helvetica,sans-serif;*/
 	font-size:14px;
 	line-height:17px;
 	filter:alpha(opacity=100);
@@ -1379,7 +1416,7 @@ export default{
 	width:960px;
 }
 #g-09_anexo-I_d02-01 p {
-	font-family:arial,helvetica,sans-serif;
+	/*font-family:arial,helvetica,sans-serif;*/
 	font-size:12px;
 	line-height:16px;
 	filter:alpha(opacity=100);
@@ -1541,7 +1578,7 @@ export default{
 	width:960px;
 }
 #g-09_anexo-I_d03-01 p {
-	font-family:arial,helvetica,sans-serif;
+	/*font-family:arial,helvetica,sans-serif;*/
 	font-size:14px;
 	line-height:21px;
 	filter:alpha(opacity=100);
@@ -1684,7 +1721,7 @@ export default{
 	width:960px;
 }
 #g-09_anexo-I_d04-01 p {
-	font-family:arial,helvetica,sans-serif;
+	/*font-family:arial,helvetica,sans-serif;*/
 	font-size:14px;
 	line-height:21px;
 	filter:alpha(opacity=100);

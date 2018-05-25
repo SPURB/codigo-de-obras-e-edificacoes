@@ -1,8 +1,10 @@
 <template>
 	<div class="Header" :class="{ scrollOn: scrolling }">
-		<h3>{{ sectionName }}</h3>
-		<HeaderPDF :navItems="navitems"></HeaderPDF>
-		<HeaderMenu :navItems="navitems"></HeaderMenu>
+		<div class="tituloSecao">{{ sectionName }}</div>
+		<div class="navDiv">
+			<HeaderPDF :navItems="navitems"></HeaderPDF>
+			<HeaderMenu :navItems="navitems"></HeaderMenu>
+		</div>
 	</div>
 </template>
 
@@ -53,13 +55,23 @@ export default {
 <style lang="scss">
 @import '../../assets/main.scss';
 
+div.tituloSecao {
+	font-size: 30px;
+	font-weight: 700;
+	align-self: center;
+}
+
+div.navDiv {
+	display: flex;
+}
+
 @media (min-width: 960px){
 		#app > .Header {
-			margin-top: -3.14em
+			margin-top: -43px;
 		}
 		#app > .Header.scrollOn{
 		position: fixed;
-		margin-top: -5.6em;
+		margin-top: -89px;
 		background-color: white;
 		z-index: 100
 	}

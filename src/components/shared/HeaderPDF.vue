@@ -18,27 +18,18 @@ export default {
 
 <style lang="scss" scoped>
 .HeaderPDF {
-	display: inline-block;
-	float: right;
-	margin-right: 18%;//174px;
-	height: 24px;
+	max-height: 24px;
 	padding: 12px;
 	line-height: 24px;
-	text-align: right;
-	font-size: 16px;
+	font-size: 15px;
 	font-weight: 500;
 	color: #333;
 	border-right: 1px solid #BDBDBD;
 	text-transform: uppercase;
-	i {
-		float: right;
-		margin-left: 1rem;
-	}
+	i { float: right; margin-left: 12px; }
 }
 .HeaderPDF:hover {
-	i {
-		color: #EB5757;
-	}
+	i {	color: #EB5757; };
 	cursor: pointer;
 }
 </style>
