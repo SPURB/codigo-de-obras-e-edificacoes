@@ -54,7 +54,7 @@
 			<p class="g-pstyle0">2</p>
 		</div>
 		<div id="g-ai0-4" class="g-img01 g-aiAbs g-aiPointText" style="top:8.6742%;margin-top:-10.5px;left:3.0725%;width:134px;">
-			<p class="g-pstyle1">SI<span class="g-cstyle0">M</span>PL<span class="g-cstyle0">I</span>FIC<span class="g-cstyle1">A</span><span class="g-cstyle0">Ç</span><span class="g-cstyle1">Ã</span><span class="g-cstyle2">O</span></p>
+			<p class="g-pstyle1">SIMPLIFICAÇÃO</span></p>
 		</div>
 		<div id="g-ai0-5" class="g-img01 g-aiAbs g-aiPointText" style="top:8.7533%;margin-top:-10.1px;left:37.9167%;width:90px;">
 			<p class="g-pstyle1">CLAREZA</p>
@@ -69,7 +69,7 @@
 			<p>O Código de Obras e Ediﬁcações vem sendo utilizado por proﬁssionais da área há mais de 20 anos. Avaliou-se como desejável manter a estrutura atual do texto, já conhecida e considerada adequada.</p>
 		</div>
 		<div id="g-ai0-9" class="g-img01 g-aiAbs" style="top:26.0921%;left:3.0725%;width:24.0625%;">
-			<p>Conside<span class="g-cstyle3">r</span>ando os limi<span class="g-cstyle4">t</span>es da ca<span class="g-cstyle5">p</span>acidade de cont<span class="g-cstyle6">r</span><span class="g-cstyle4">o</span>le do <span class="g-cstyle7">P</span>oder Pú<span class="g-cstyle8">b</span>lico s<span class="g-cstyle8">o</span>b<span class="g-cstyle7">r</span>e o p<span class="g-cstyle7">r</span>ocesso de dese<span class="g-cstyle9">n</span><span class="g-cstyle4">v</span><span class="g-cstyle8">o</span>lvimen<span class="g-cstyle4">t</span>o u<span class="g-cstyle10">r</span><span class="g-cstyle11">b</span>an<span class="g-cstyle12">o</span>, op<span class="g-cstyle4">t</span>ou-se por uma p<span class="g-cstyle7">r</span>opos<span class="g-cstyle13">t</span>a <span class="g-cstyle6">r</span>estri<span class="g-cstyle13">t</span>a a <span class="g-cstyle7">r</span>eg<span class="g-cstyle14">r</span>as edilícias e u<span class="g-cstyle10">r</span><span class="g-cstyle11">b</span>anísticas e<span class="g-cstyle15">f</span>et<span class="g-cstyle5">iv</span>amen<span class="g-cstyle4">t</span>e <span class="g-cstyle7">r</span>ele<span class="g-cstyle5">v</span>an<span class="g-cstyle4">t</span>es.</p>
+			<p>Considerando os limites da capacidade de controle do Poder Público sobre o processo de desenvolvimento urbano, optou-se por uma proposta restrita a regras edilícias e urbanísticas efetivamente relevantes.</p>
 		</div>
 		<div id="g-ai0-10" class="g-img01 g-aiAbs g-aiPointText" style="top:49.9576%;margin-top:-10.1px;left:70.8097%;width:30px;">
 			<p class="g-pstyle0">6</p>
@@ -130,13 +130,13 @@
 	<div id="g-00_apresentacao_d02-01" class="g-artboard g-artboard-v4" data-max-width='960'>
 		<img id="g-00_apresentacao_d02-01-img" class="g-aiImg" :src="caminho + '00_apresentacao_d02-01.jpg'"/>
 		<div id="g-ai0-1" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:6.7326%;margin-top:-11.4px;left:7.4923%;width:80px;">
-			<p class="g-pstyle0">A<span class="g-cstyle0">t</span>o 6<span class="g-cstyle1">6</span>3</p>
+			<p class="g-pstyle0">Ato 663</p>
 		</div>
 		<div id="g-ai0-2" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:7.8488%;margin-top:-11.4px;left:1.1474%;width:58px;">
 			<p class="g-pstyle0">1934</p>
 		</div>
 		<div id="g-ai0-3" class="g-Camada_1 g-aiAbs" style="top:7.6279%;left:7.4923%;width:46.6667%;">
-			<p class="g-pstyle1">Cons<span class="g-cstyle2">o</span>lidação do Código de Ob<span class="g-cstyle3">r</span>as Ar<span class="g-cstyle4">t</span>hur Sab<span class="g-cstyle2">o</span><span class="g-cstyle4">y</span>a</p>
+			<p class="g-pstyle1">Consolidação do Código de Obras Arthur Saboya</p>
 		</div>
 		<div id="g-ai0-4" class="g-Camada_1 g-aiAbs" style="top:16%;left:15.8333%;width:36.4583%;">
 			<p class="g-pstyle2">Lei 1.688/71 | Plano Diretor</p>
@@ -145,52 +145,52 @@
 			<p class="g-pstyle2">Lei 7.805/72 | Zoneamento</p>
 		</div>
 		<div id="g-ai0-6" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:24.9268%;margin-top:-11px;left:8.0222%;width:230px;">
-			<p class="g-pstyle3"><span class="g-cstyle5">I</span>n<span class="g-cstyle5">c</span>êndi<span class="g-cstyle5">o</span> <span class="g-cstyle5">E</span>d<span class="g-cstyle5">.</span> An<span class="g-cstyle5">dr</span>a<span class="g-cstyle5">u</span>s (<span class="g-cstyle5">1972</span><span class="g-cstyle6">)</span></p>
+			<p class="g-pstyle3">Incêndio Ed. Andraus (1972)</p>
 		</div>
 		<div id="g-ai0-7" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:26.9733%;margin-top:-11px;left:42.3519%;width:208px;">
 			<p class="g-pstyle3">Poucas Normas Técnicas</p>
 		</div>
 		<div id="g-ai0-8" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:29.6709%;margin-top:-11px;left:8.0222%;width:226px;">
-			<p class="g-pstyle4">Incêndio Ed. Joelma (1974) </p>
+			<p class="g-pstyle4">Incêndio Ed. Joelma (1974)</p>
 		</div>
 		<div id="g-ai0-9" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:35.4767%;margin-top:-11.4px;left:15.8333%;width:366px;">
-			<p class="g-pstyle5"><span class="g-cstyle5">L</span>ei<span class="g-cstyle5"> 8.0</span>50/<span class="g-cstyle5">7</span>4 e <span class="g-cstyle5">D</span>e<span class="g-cstyle5">c</span>reto<span class="g-cstyle5"> </span>1<span class="g-cstyle5">0</span>.<span class="g-cstyle5">87</span>8/7<span class="g-cstyle6">4 | </span>Seg<span class="g-cstyle5">u</span>ranç<span class="g-cstyle6">a</span></p>
+			<p class="g-pstyle5">Lei 8.050/74 e Decreto 10.878/74 | Segurança</p>
 		</div>
 		<div id="g-ai0-10" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:43.1978%;margin-top:-11.4px;left:8.2305%;width:905px;">
-			<p class="g-pstyle6"><span class="g-cstyle7">L</span><span class="g-cstyle8">ei 8.266</span><span class="g-cstyle9">/</span><span class="g-cstyle10">7</span><span class="g-cstyle8">5</span><span class="g-cstyle11"> </span><span class="g-cstyle8">Código de Ob</span><span class="g-cstyle12">r</span><span class="g-cstyle8">as e Ediﬁcações</span> | <span class="g-cstyle13">D</span>isposições cri<span class="g-cstyle2">t</span>eriosas, di<span class="g-cstyle14">f</span>e<span class="g-cstyle15">r</span>enciadas por ca<span class="g-cstyle2">t</span>egoria de uso das ediﬁcações </p>
+			<p class="g-pstyle6"><span class="g-cstyle7">Lei 8.266/75 Código de Obras e Ediﬁcações</span> | Disposições criteriosas, diferenciadas por categoria de uso das ediﬁcações</p>
 		</div>
 		<div id="g-ai0-11" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:43.6409%;margin-top:-10.1px;right:95.1479%;width:54px;">
 			<p class="g-pstyle7">1975</p>
 		</div>
 		<div id="g-ai0-12" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:49.2988%;margin-top:-11px;left:8.2279%;width:407px;">
-			<p class="g-pstyle3"><span class="g-cstyle5">A</span>u<span class="g-cstyle5">m</span>ent<span class="g-cstyle5">o</span> <span class="g-cstyle5">d</span>a <span class="g-cstyle5">No</span>r<span class="g-cstyle5">m</span>atizaçã<span class="g-cstyle5">o</span> <span class="g-cstyle5">T</span>é<span class="g-cstyle5">c</span>ni<span class="g-cstyle5">c</span>a Brasilei<span class="g-cstyle5">r</span>a - AB<span class="g-cstyle5">N</span><span class="g-cstyle6">T</span></p>
+			<p class="g-pstyle3">Aumento da Normatização Técnica Brasileira - ABNT</p>
 		</div>
 		<div id="g-ai0-13" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:54.6397%;margin-top:-11.4px;left:15.8333%;width:316px;">
-			<p class="g-pstyle4"><span class="g-cstyle8">L</span><span class="g-cstyle16">ei</span><span class="g-cstyle8"> </span><span class="g-cstyle16">1</span><span class="g-cstyle8">0.3</span><span class="g-cstyle16">34/</span><span class="g-cstyle8">8</span><span class="g-cstyle17">7 </span><span class="g-cstyle6">|</span><span class="g-cstyle17"> </span>Po<span class="g-cstyle18">l</span>o<span class="g-cstyle18"> </span>G<span class="g-cstyle18">era</span>dor<span class="g-cstyle18"> de </span>Tr<span class="g-cstyle18">á</span>f<span class="g-cstyle18">e</span>g<span class="g-cstyle6">o</span></p>
+			<p class="g-pstyle4"><span class="g-cstyle8">Lei 10.334/87</span> | Polo Gerador de Tráfego</p>
 		</div>
 		<div id="g-ai0-14" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:60.6862%;margin-top:-11.4px;left:8.2305%;width:696px;">
-			<p class="g-pstyle6"><span class="g-cstyle7">L</span><span class="g-cstyle8">ei 11.228/</span><span class="g-cstyle19">9</span><span class="g-cstyle8">2</span><span class="g-cstyle20"> </span><span class="g-cstyle8">Código de Ob</span><span class="g-cstyle12">r</span><span class="g-cstyle8">as e Ediﬁcações</span> |<span class="g-cstyle8"> </span><span class="g-cstyle13">D</span>isposições ge<span class="g-cstyle21">r</span>ais <span class="g-cstyle1">p</span>a<span class="g-cstyle21">r</span>a <span class="g-cstyle2">t</span>odas as ediﬁcações</p>
+			<p class="g-pstyle6"><span class="g-cstyle7">Lei 11.228/92 Código de Obras e Ediﬁcações</span> | Disposições gerais para todas as ediﬁcações</p>
 		</div>
 		<div id="g-ai0-15" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:61.2223%;margin-top:-10.1px;left:3.2697%;margin-left:-27px;width:54px;">
 			<p class="g-pstyle8">1992</p>
 		</div>
 		<div id="g-ai0-16" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:66.6942%;margin-top:-11px;left:8.0772%;width:241px;">
-			<p class="g-pstyle3"><span class="g-cstyle5">Pr</span>i<span class="g-cstyle5">m</span>ei<span class="g-cstyle5">r</span>as Ope<span class="g-cstyle5">r</span>a<span class="g-cstyle5">çõ</span>es <span class="g-cstyle5">Urb</span>ana<span class="g-cstyle6">s</span></p>
+			<p class="g-pstyle3">Primeiras Operações Urbanas</p>
 		</div>
 		<div id="g-ai0-17" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:71.9418%;margin-top:-11.4px;left:16.3312%;width:238px;">
-			<p class="g-pstyle5"><span class="g-cstyle5">L</span>ei<span class="g-cstyle5"> </span>1<span class="g-cstyle5">3.</span>4<span class="g-cstyle5">30</span>/<span class="g-cstyle5">0</span><span class="g-cstyle6">2 | </span><span class="g-cstyle5">Pl</span>an<span class="g-cstyle5">o</span> <span class="g-cstyle5">D</span>ireto<span class="g-cstyle6">r</span></p>
+			<p class="g-pstyle5"><span class="g-cstyle5">Lei 13.430/02 | Plano Diretor</span></p>
 		</div>
 		<div id="g-ai0-18" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:76.779%;margin-top:-11.4px;left:16.3312%;width:232px;">
-			<p class="g-pstyle5"><span class="g-cstyle5">L</span>ei<span class="g-cstyle5"> </span>1<span class="g-cstyle5">3.88</span>5/<span class="g-cstyle5">0</span><span class="g-cstyle6">4 | </span><span class="g-cstyle5">Zo</span>nea<span class="g-cstyle5">m</span>ent<span class="g-cstyle6">o</span></p>
+			<p class="g-pstyle5"><span class="g-cstyle5">Lei 13.885/04 | Zoneamento</span></p>
 		</div>
 		<div id="g-ai0-19" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:82.4534%;margin-top:-11.4px;left:16.3313%;width:238px;">
-			<p class="g-pstyle5"><span class="g-cstyle5">L</span>ei<span class="g-cstyle5"> </span>1<span class="g-cstyle5">6.</span>050/1<span class="g-cstyle6">4 | </span><span class="g-cstyle5">Pl</span>an<span class="g-cstyle5">o</span> <span class="g-cstyle5">D</span>ireto<span class="g-cstyle6">r</span></p>
+			<p class="g-pstyle5"><span class="g-cstyle5">Lei 16.050/14 | Plano Diretor</span></p>
 		</div>
 		<div id="g-ai0-20" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:87.2906%;margin-top:-11.4px;left:16.331%;width:232px;">
-			<p class="g-pstyle5"><span class="g-cstyle5">L</span>ei<span class="g-cstyle5"> </span>1<span class="g-cstyle5">6.</span>4<span class="g-cstyle5">02</span>/1<span class="g-cstyle6">6 | </span><span class="g-cstyle5">Zo</span>nea<span class="g-cstyle5">m</span>ent<span class="g-cstyle6">o</span></p>
+			<p class="g-pstyle5"><span class="g-cstyle5">Lei 16.402/16 | Zoneamento</span></p>
 		</div>
 		<div id="g-ai0-21" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:94.7325%;margin-top:-11.4px;left:8.2305%;width:472px;">
-			<p class="g-pstyle0"><span class="g-cstyle22">L</span>ei <span class="g-cstyle23">1</span>6<span class="g-cstyle24">.</span>6<span class="g-cstyle25">4</span>2/<span class="g-cstyle24">1</span>7<span class="g-cstyle26"> </span>Código de Ob<span class="g-cstyle27">r</span>as e Ediﬁcações | Sim<span class="g-cstyle0">p</span>liﬁcado</p>
+			<p class="g-pstyle0"><span class="g-cstyle22">Lei 16.642/17 Código de Obras e Ediﬁcações | Simpliﬁcado</span></p>
 		</div>
 		<div id="g-ai0-22" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:95.1976%;margin-top:-11.4px;left:3.2274%;margin-left:-29px;width:58px;">
 			<p class="g-pstyle9">2017</p>

@@ -4,12 +4,12 @@
 		<!-- 11_anexo-II_d01-d02.html -->
 		<div id="g-11_anexo-II_d01-d02-box" class="ai2html">
 			<div id="g-11_anexo-II_d01-d02-Artboard_22" class="g-artboard g-artboard-v4" data-min-width='960'>
-				<img id="g-11_anexo-II_d01-d02-Artboard_22-img" class="g-aiImg" src="static/img/11_anexo-II_d01-d02-Artboard_22.png"/>
+				<img id="g-11_anexo-II_d01-d02-Artboard_22-img" class="g-aiImg" :src="caminho + '11_anexo-II_d01-d02-Artboard_22.png'"/>
 				<div id="g-ai0-1" class="g-ai2html-settings g-aiAbs g-aiPointText" style="top:1.5834%;margin-top:-11.9px;left:0%;width:472px;">
-					<p class="g-pstyle0">Desenho 1 &ndash; Área livre interna descoberta quando H &le; 10&thinsp;m</p>
+					<p class="g-pstyle0" style="letter-spacing: -.5px">Desenho 1 &ndash; Área livre interna descoberta quando H &le; 10&thinsp;m</p>
 				</div>
 				<div id="g-ai0-2" class="g-ai2html-settings g-aiAbs g-aiPointText" style="top:1.5834%;margin-top:-11.9px;left:52.2982%;width:473px;">
-					<p class="g-pstyle0">Desenho 2 &ndash; Área livre interna descoberta quando H > 10&thinsp;m</p>
+					<p class="g-pstyle0" style="letter-spacing: -.5px">Desenho 2 &ndash; Área livre interna descoberta quando H > 10&thinsp;m</p>
 				</div>
 				<div id="g-ai0-3" class="g-texto g-aiAbs g-aiPointText" style="top:39.4272%;margin-top:-5.1px;left:76.1584%;margin-left:-18.5px;width:37px;">
 					<p class="g-pstyle1">3A</p>
@@ -38,7 +38,7 @@
 		<!-- 11_anexo-II_d03.html -->
 		<div id="g-11_anexo-II_d03-box" class="ai2html">
 			<div id="g-11_anexo-II_d03-Artboard_22_copy" class="g-artboard g-artboard-v4" data-min-width='529'>
-				<img id="g-11_anexo-II_d03-Artboard_22_copy-img" class="g-aiImg" src="static/img/11_anexo-II_d03-Artboard_22_copy.png"/>
+				<img id="g-11_anexo-II_d03-Artboard_22_copy-img" class="g-aiImg" :src="caminho + '11_anexo-II_d03-Artboard_22_copy.png'"/>
 				<div id="g-ai0-1" class="g-texto g-aiAbs g-aiPointText" style="top:1.1207%;margin-top:-8.1px;left:46.6952%;margin-left:-21px;width:42px;">
 					<p class="g-pstyle0">760</p>
 				</div>
@@ -99,7 +99,7 @@
 		<!-- 11_anexo-II_d04.html -->
 		<div id="g-11_anexo-II_d04-box" class="ai2html">
 			<div id="g-11_anexo-II_d04-Artboard_22" class="g-artboard g-artboard-v4" data-min-width='530'>
-				<img id="g-11_anexo-II_d04-Artboard_22-img" class="g-aiImg" src="static/img/11_anexo-II_d04-Artboard_22.png"/>
+				<img id="g-11_anexo-II_d04-Artboard_22-img" class="g-aiImg" :src="caminho + '11_anexo-II_d04-Artboard_22.png'"/>
 				<div id="g-ai0-1" class="g-texto g-aiAbs g-aiPointText" style="top:1.1163%;margin-top:-8.1px;left:69.3429%;margin-left:-21px;width:42px;">
 					<p class="g-pstyle0">758</p>
 				</div>
@@ -145,7 +145,7 @@
 		<!-- 11_anexo-II_d05.html -->
 		<div id="g-11_anexo-II_d05-box" class="ai2html">
 			<div id="g-11_anexo-II_d05-Artboard_22" class="g-artboard g-artboard-v4" data-min-width='455'>
-				<img id="g-11_anexo-II_d05-Artboard_22-img" class="g-aiImg" src="static/img/11_anexo-II_d05-Artboard_22.png"/>
+				<img id="g-11_anexo-II_d05-Artboard_22-img" class="g-aiImg" :src="caminho + '11_anexo-II_d05-Artboard_22.png'"/>
 				<div id="g-ai0-1" class="g-texto g-aiAbs g-aiPointText" style="top:1.3869%;margin-top:-8.1px;left:20.5284%;margin-left:-22.5px;width:45px;">
 					<p class="g-pstyle0">&ldquo;A3&rdquo;</p>
 				</div>
@@ -191,7 +191,7 @@
 		<!-- 11_anexo-II_d06.html -->
 		<div id="g-11_anexo-II_d06-box" class="ai2html">
 			<div id="g-11_anexo-II_d06-Artboard_22" class="g-artboard g-artboard-v4" data-min-width='709'>
-				<img id="g-11_anexo-II_d06-Artboard_22-img" class="g-aiImg" src="static/img/11_anexo-II_d06-Artboard_22.png"/>
+				<img id="g-11_anexo-II_d06-Artboard_22-img" class="g-aiImg" :src="caminho + '11_anexo-II_d06-Artboard_22.png'"/>
 				<div id="g-ai0-1" class="g-desenho3 g-aiAbs g-aiPointText" style="top:1.1163%;margin-top:-8.1px;left:51.836%;margin-left:-21px;width:42px;">
 					<p class="g-pstyle0">758</p>
 				</div>
@@ -243,7 +243,7 @@
 		<!-- 11_anexo-II_d07.html -->
 		<div id="g-11_anexo-II_d07-box" class="ai2html">
 			<div id="g-11_anexo-II_d07-Artboard_22" class="g-artboard g-artboard-v4" data-min-width='662'>
-				<img id="g-11_anexo-II_d07-Artboard_22-img" class="g-aiImg" src="static/img/11_anexo-II_d07-Artboard_22.png"/>
+				<img id="g-11_anexo-II_d07-Artboard_22-img" class="g-aiImg" :src="caminho + '11_anexo-II_d07-Artboard_22.png'"/>
 				<div id="g-ai0-1" class="g-texto g-aiAbs g-aiPointText" style="top:1.219%;margin-top:-8.3px;right:28.0219%;width:56px;">
 					<p class="g-pstyle0">NÍVEL</p>
 				</div>
@@ -286,18 +286,18 @@
 		<!-- 11_anexo-II_d08.html -->
 		<div id="g-11_anexo-II_d08-box" class="ai2html">
 			<div id="g-11_anexo-II_d08-Artboard_22" class="g-artboard g-artboard-v4" data-min-width='485'>
-				<img id="g-11_anexo-II_d08-Artboard_22-img" class="g-aiImg" src="static/img/11_anexo-II_d08-Artboard_22.png"/>
+				<img id="g-11_anexo-II_d08-Artboard_22-img" class="g-aiImg" :src="caminho + '11_anexo-II_d08-Artboard_22.png'"/>
 				<div id="g-ai0-1" class="g-texto g-aiAbs g-aiPointText" style="top:45.9408%;margin-top:-8.1px;left:22.7734%;width:143px;">
 					<p class="g-pstyle0">CANTO CHANFRADO</p>
 				</div>
 				<div id="g-ai0-2" class="g-texto g-aiAbs g-aiPointText" style="transform: matrix(0.6171,0.7869,-0.7869,0.6171,0,0);transform-origin: 50% 56.1753708840912%;-webkit-transform: matrix(0.6171,0.7869,-0.7869,0.6171,0,0);-webkit-transform-origin: 50% 56.1753708840912%;-ms-transform: matrix(0.6171,0.7869,-0.7869,0.6171,0,0);-ms-transform-origin: 50% 56.1753708840912%;top:59.6347%;margin-top:-8.1px;left:13.0425%;margin-left:-24.5px;width:49px;">
 					<p class="g-pstyle1">3,5m</p>
 				</div>
-				<div id="g-ai0-3" class="g-texto g-aiAbs g-aiPointText" style="top:62.0515%;margin-top:-8.1px;left:72.0616%;width:146px;">
-					<p class="g-pstyle0">NOVO ALINHAMENTO</p>
+				<div id="g-ai0-3" class="g-texto g-aiAbs g-aiPointText" style="top:62.0515%;margin-top:-8.1px;left:72.0616%;width:250px; letter-spacing: -1px;">
+					NOVO ALINHAMENTO
 				</div>
-				<div id="g-ai0-4" class="g-texto g-aiAbs g-aiPointText" style="top:66.616%;margin-top:-8.1px;left:72.0577%;width:157px;">
-					<p class="g-pstyle0">ANTIGO ALINHAMENTO</p>
+				<div id="g-ai0-4" class="g-texto g-aiAbs g-aiPointText" style="top:66.616%;margin-top:-8.1px;left:72.0577%;width:250px;letter-spacing: -1px;">
+					ANTIGO ALINHAMENTO
 				</div>
 				<div id="g-ai0-5" class="g-texto g-aiAbs g-aiPointText" style="top:87.2911%;margin-top:-8.1px;left:6.5114%;width:318px;">
 					<p class="g-pstyle0">Formato base do lote após doação (conforme escritura)</p>
@@ -314,18 +314,18 @@
 		<!-- 11_anexo-II_d09.html -->
 		<div id="g-11_anexo-II_d09-box" class="ai2html">
 			<div id="g-11_anexo-II_d09-Artboard_22" class="g-artboard g-artboard-v4" data-min-width='483'>
-				<img id="g-11_anexo-II_d09-Artboard_22-img" class="g-aiImg" src="static/img/11_anexo-II_d09-Artboard_22.png"/>
+				<img id="g-11_anexo-II_d09-Artboard_22-img" class="g-aiImg" :src="caminho + '11_anexo-II_d09-Artboard_22.png'"/>
 				<div id="g-ai0-1" class="g-texto g-aiAbs g-aiPointText" style="top:52.1165%;margin-top:-8.1px;left:15.2479%;margin-left:-15.5px;width:31px;">
 					<p class="g-pstyle0">R</p>
 				</div>
 				<div id="g-ai0-2" class="g-texto g-aiAbs g-aiPointText" style="top:61.5144%;margin-top:-8.1px;left:9.4574%;margin-left:-15.5px;width:31px;">
 					<p class="g-pstyle0">R</p>
 				</div>
-				<div id="g-ai0-3" class="g-texto g-aiAbs g-aiPointText" style="top:62.0513%;margin-top:-8.1px;left:72.0235%;width:146px;">
-					<p class="g-pstyle1">NOVO ALINHAMENTO</p>
+				<div id="g-ai0-3" class="g-texto g-aiAbs g-aiPointText" style="top:62.0513%;margin-top:-8.1px;left:72.0235%;width:250px;letter-spacing: -1px;">
+					NOVO ALINHAMENTO
 				</div>
-				<div id="g-ai0-4" class="g-texto g-aiAbs g-aiPointText" style="top:66.616%;margin-top:-8.1px;left:72.0197%;width:157px;">
-					<p class="g-pstyle1">ANTIGO ALINHAMENTO</p>
+				<div id="g-ai0-4" class="g-texto g-aiAbs g-aiPointText" style="top:66.616%;margin-top:-8.1px;left:72.0197%;width:250px;letter-spacing: -1px;">
+					ANTIGO ALINHAMENTO
 				</div>
 				<div id="g-ai0-5" class="g-texto g-aiAbs g-aiPointText" style="top:87.2911%;margin-top:-8.1px;left:6.5383%;width:318px;">
 					<p class="g-pstyle1">Formato base do lote após doação (conforme escritura)</p>
@@ -342,10 +342,10 @@
 <script>
 export default{
   name: "Anexo2_desenhos", 
+		props:['caminho'],
   data(){
 	return{
 		title: "Anexo 2 - Desenhos",
-		props:['caminho']
 
 	}
   }
@@ -376,7 +376,7 @@ export default{
 	width:960px;
 }
 #g-11_anexo-II_d01-d02-Artboard_22 p {
-	font-family:'Museo',arial,helvetica,sans-serif;
+	/*font-family:'Museo',arial,helvetica,sans-serif;*/
 	font-weight:bold;
 	font-size:16px;
 	line-height:19px;
@@ -432,7 +432,7 @@ export default{
 	width:529px;
 }
 #g-11_anexo-II_d03-Artboard_22_copy p {
-	font-family:'Museo',arial,helvetica,sans-serif;
+	/*font-family:'Museo',arial,helvetica,sans-serif;*/
 	font-size:12px;
 	line-height:14px;
 	filter:alpha(opacity=100);
@@ -477,7 +477,7 @@ export default{
 	width:530px;
 }
 #g-11_anexo-II_d04-Artboard_22 p {
-	font-family:'Museo',arial,helvetica,sans-serif;
+	/*font-family:'Museo',arial,helvetica,sans-serif;*/
 	font-size:12px;
 	line-height:14px;
 	height:auto;
@@ -526,7 +526,7 @@ export default{
 	width:455px;
 }
 #g-11_anexo-II_d05-Artboard_22 p {
-	font-family:'Museo',arial,helvetica,sans-serif;
+	/*font-family:'Museo',arial,helvetica,sans-serif;*/
 	font-size:12px;
 	line-height:14px;
 	height:auto;
@@ -575,7 +575,7 @@ export default{
 	width:709px;
 }
 #g-11_anexo-II_d06-Artboard_22 p {
-	font-family:'Museo',arial,helvetica,sans-serif;
+	/*font-family:'Museo',arial,helvetica,sans-serif;*/
 	font-size:12px;
 	line-height:14px;
 	height:auto;
@@ -620,7 +620,7 @@ export default{
 	width:662px;
 }
 #g-11_anexo-II_d07-Artboard_22 p {
-	font-family:'Museo',arial,helvetica,sans-serif;
+	/*font-family:'Museo',arial,helvetica,sans-serif;*/
 	font-size:12px;
 	line-height:14px;
 	height:auto;
@@ -669,7 +669,7 @@ export default{
 	width:485px;
 }
 #g-11_anexo-II_d08-Artboard_22 p {
-	font-family:'Museo',arial,helvetica,sans-serif;
+	/*font-family:'Museo',arial,helvetica,sans-serif;*/
 	font-size:12px;
 	line-height:14px;
 	height:auto;
@@ -714,7 +714,7 @@ export default{
 	width:483px;
 }
 #g-11_anexo-II_d09-Artboard_22 p {
-	font-family:'Museo',arial,helvetica,sans-serif;
+	/*font-family:'Museo',arial,helvetica,sans-serif;*/
 	font-size:12px;
 	line-height:14px;
 	height:auto;

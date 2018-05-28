@@ -42,20 +42,21 @@ export default {
 		font-weight: 500;
 		color: #EB5757;
 		cursor: pointer;
-		min-width: 150px;
+		min-width: 250px;
+		min-height: 100%;
 		box-sizing: border-box;
 		i { float: right; margin-left: 12px; }
 	}
 
 	div.menu-exp {
 		position: absolute;
-		border: 1px solid #BDBDBD;
+		border: 1px solid #EEEEEE;
 		border-radius: 0 0 2px 2px;
 		box-shadow: 0 2px 2px rgba(0,0,0,0.12);
 		background-color: #FFF;
 		right: 0px;
 		top: 48px;
-		width: 151px;
+		width: 251px;
 		box-sizing: border-box;
 		ul li {
 				div {

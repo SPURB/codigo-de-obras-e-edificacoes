@@ -323,7 +323,7 @@
 					<p class="g-pstyle7">Piso superior de edificação nR com </p>
 					<p class="g-pstyle7">até 150m&sup2;</p>
 				</div>
-				<div id="g-ai0-12" class="g-Camada_2 g-aiAbs" style="top:32.2326%;left:41.901%;width:17.2917%;">
+				<div id="g-ai0-12" class="g-Camada_2 g-aiAbs" style="top:32.2326%;left:41.901%;width:20%;">
 					<p class="g-pstyle7">Espaços de utilização restrita e exclusiva, sem permanência humana</p>
 				</div>
 				<div id="g-ai0-13" class="g-Camada_2 g-aiAbs" style="top:32.2326%;left:75.625%;width:14.7917%;">
@@ -483,10 +483,10 @@
 				<div id="g-ai0-1" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:1.6487%;margin-top:-11.8px;left:0%;width:218px;">
 					<p class="g-pstyle0">AERAÇÃO E INSOLAÇÃO</p>
 				</div>
-				<div id="g-ai0-2" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:1.651%;margin-top:-9.8px;left:90.2396%;width:115px;">
+				<div id="g-ai0-2" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:1.651%;margin-top:-9.8px;left:89.9%;width:115px;">
 					<p class="g-pstyle1">Anexo I, item 5</p>
 				</div>
-				<div id="g-ai0-3" class="g-Camada_1 g-aiAbs" style="top:6.0933%;left:0%;width:41.9792%;">
+				<div id="g-ai0-3" class="g-Camada_1 g-aiAbs" style="top:6.0933%;left:0%;width:45%;">
 					<p class="g-pstyle2">CÁLCULO DE AFASTAMENTO (A)</p>
 					<p>&nbsp;</p>
 					<p>A edificação, instalação ou equipamento, a partir de 10m de altura em relação ao perfil natural do terreno deve observar afastamento contínuo, lateral e de fundo, que pode ser escalonado, e que deve ser dimensionado de acordo com fórmula a seguir, respeitado o limite mínimo de 3m.</p>
@@ -497,20 +497,21 @@
 				<div id="g-ai0-5" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:11.4434%;margin-top:-8.1px;left:85.4501%;width:31px;">
 					<p class="g-pstyle3">H</p>
 				</div>
-				<div id="g-ai0-6" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:15.7838%;margin-top:-8.1px;left:69.7902%;width:88px;">
+				<div id="g-ai0-6" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:15.7838%;margin-top:-8.1px;left:69.5%;width:88px;">
 					<p class="g-pstyle3">perfil n<span class="g-cstyle0">a</span>tu<span class="g-cstyle1">r</span>al</p>
 				</div>
-				<div id="g-ai0-7" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:17.0358%;margin-top:-8.1px;left:69.7902%;width:112px;">
+				<div id="g-ai0-7" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:17.0358%;margin-top:-8.1px;left:69.5%;width:112px;">
 					<p class="g-pstyle3">do <span class="g-cstyle0">t</span>er<span class="g-cstyle2">r</span>eno (PNT)</p>
 				</div>
 				<div id="g-ai0-8" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:17.4532%;margin-top:-8.1px;left:53.8845%;width:30px;">
 					<p class="g-pstyle3">A</p>
 				</div>
-				<div id="g-ai0-9" class="g-Camada_1 g-aiAbs" style="top:21.5351%;left:1.9271%;width:23.6458%;">
-					<p class="g-pstyle4">A = (H - 6) &divide; <span class="g-cstyle0">1</span>0</p>
-					<p class="g-pstyle4">onde:</p>
-					<p class="g-pstyle4">A = afastamento lateral e de fundo</p>
-					<p class="g-pstyle4">H = altura da edificação em metros</p>
+				<div id="g-ai0-9" class="g-Camada_1 g-aiAbs" style="top: 20.7%; left: 1.9271%; width: 25.5%;">
+					<p style="text-align: center;">A = (H - 6) ÷ 10<br>
+						onde:<br>
+						A = afastamento lateral de fundo<br>
+						H = altura da edificação em metros
+					</p>
 				</div>
 				<div id="g-ai0-10" class="g-Camada_1 g-aiAbs" style="top:23.121%;left:49.5833%;width:50.2083%;">
 					<p>A altura da edificação (H) é contada a partir da cota de nível mais baixa do PNT referente ao plano de fachada, até a cota de nível mais alta da edificação</p>
@@ -542,22 +543,22 @@
 				<div id="g-ai0-18" class="g-Camada_1 g-aiAbs g-aiPointText" style="transform: matrix(0.8655,-0.5009,0.5009,0.8655,0,0);transform-origin: 50% 57.2311277452157%;-webkit-transform: matrix(0.8655,-0.5009,0.5009,0.8655,0,0);-webkit-transform-origin: 50% 57.2311277452157%;-ms-transform: matrix(0.8655,-0.5009,0.5009,0.8655,0,0);-ms-transform-origin: 50% 57.2311277452157%;top:47.2365%;margin-top:-6.9px;left:88.6488%;width:34px;">
 					<p class="g-pstyle11">3A</p>
 				</div>
-				<div id="g-ai0-19" class="g-Camada_1 g-aiAbs" style="top:46.8263%;left:26.0531%;width:23.5417%;">
+				<div id="g-ai0-19" class="g-Camada_1 g-aiAbs" style="top: 46%; left: 26.0531%; width: 22%">
 					<p class="g-pstyle7">A distância mínima entre blocos de uma mesma edificação é igual à soma dos afastamentos de cada bloco (A1+A2)</p>
 				</div>
 				<div id="g-ai0-20" class="g-Camada_1 g-aiAbs g-aiPointText" style="transform: matrix(0,-1,1,0,0,0);transform-origin: 50% 54.3112158976086%;-webkit-transform: matrix(0,-1,1,0,0,0);-webkit-transform-origin: 50% 54.3112158976086%;-ms-transform: matrix(0,-1,1,0,0,0);-ms-transform-origin: 50% 54.3112158976086%;top:49.2967%;margin-top:-11.6px;left:75.7103%;width:68px;">
-					<p class="g-pstyle12">H > 10m</p>
+					<p class="g-pstyle12" style="text-align: center;">H > 10m</p>
 				</div>
 				<div id="g-ai0-21" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:48.9211%;margin-top:-18.1px;left:1.4931%;width:38px;">
 					<p class="g-pstyle9">H1</p>
 				</div>
 				<div id="g-ai0-22" class="g-Camada_1 g-aiAbs g-aiPointText" style="transform: matrix(0,-1,1,0,0,0);transform-origin: 50% 54.3112158976086%;-webkit-transform: matrix(0,-1,1,0,0,0);-webkit-transform-origin: 50% 54.3112158976086%;-ms-transform: matrix(0,-1,1,0,0,0);-ms-transform-origin: 50% 54.3112158976086%;top:50.9661%;margin-top:-11.6px;left:53.2466%;width:67px;">
-					<p class="g-pstyle12">H &le; 10m</p>
+					<p class="g-pstyle12" style="text-align: center;">H &le; 10m</p>
 				</div>
 				<div id="g-ai0-23" class="g-Camada_1 g-aiAbs g-aiPointText" style="transform: matrix(0.8379,-0.5458,0.5458,0.8379,0,0);transform-origin: 50% 72.9065692342107%;-webkit-transform: matrix(0.8379,-0.5458,0.5458,0.8379,0,0);-webkit-transform-origin: 50% 72.9065692342107%;-ms-transform: matrix(0.8379,-0.5458,0.5458,0.8379,0,0);-ms-transform-origin: 50% 72.9065692342107%;top:50.5904%;margin-top:-18.1px;left:12.6076%;width:59px;">
 					<p class="g-pstyle9">A1+A2</p>
 				</div>
-				<div id="g-ai0-24" class="g-Camada_1 g-aiAbs" style="top:55.0062%;left:15.9375%;width:29.8958%;">
+				<div id="g-ai0-24" class="g-Camada_1 g-aiAbs" style="top:55.0062%;left:15.9375%;width:31%;">
 					<p class="g-pstyle7">Quando os blocos forem compostos pelo mesmo embasamento, a altura (H) será contada a partir da cota de nível do piso de laje de cada bloco</p>
 				</div>
 				<div id="g-ai0-25" class="g-Camada_1 g-aiAbs" style="top:68.8621%;left:0%;width:45.8333%;">

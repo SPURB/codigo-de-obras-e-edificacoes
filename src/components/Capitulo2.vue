@@ -171,10 +171,10 @@
 				<div id="g-ai0-22" class="g-Camada_1 g-aiAbs" style="top:68.1207%;left:75.6657%;width:16.0417%;">
 					<p class="g-pstyle6">Material de revestimento exterior de parede e piso ou cobertura ou telhado</p>
 				</div>
-				<div id="g-ai0-23" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:83.952%;margin-top:-11.9px;left:50.4687%;width:443px;">
-					<p class="g-pstyle0">N<span class="g-cstyle0">Ã</span>O <span class="g-cstyle2">S</span>E <span class="g-cstyle1">C</span>ON<span class="g-cstyle2">S</span>I<span class="g-cstyle2">D</span>E<span class="g-cstyle13">R</span>A<span class="g-cstyle2"> BAI</span><span class="g-cstyle4">X</span>O <span class="g-cstyle2">IM</span><span class="g-cstyle14">P</span><span class="g-cstyle15">A</span><span class="g-cstyle2">C</span><span class="g-cstyle8">T</span>O<span class="g-cstyle2"> </span>UR<span class="g-cstyle2">BA</span>N<span class="g-cstyle2">ÍS</span>T<span class="g-cstyle2">I</span><span class="g-cstyle1">C</span>O<span class="g-cstyle4">:</span></p>
+				<div id="g-ai0-23" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:83.952%;margin-top:-11.9px;left:51.4687%;width:443px;">
+					<p class="g-pstyle0">NÃO SE CONSIDERA BAIXO IMPACTO URBANÍSTICO: </span></p>
 				</div>
-				<div id="g-ai0-24" class="g-Camada_1 g-aiAbs" style="top:86.7482%;left:67.1875%;width:31.0417%;">
+				<div id="g-ai0-24" class="g-Camada_1 g-aiAbs" style="top:86%;left:67.1875%;width:31.0417%;">
 					<p class="g-pstyle7">Obra que venha a causar modificação na estrutura da edificação e executada em imóvel/área envoltória de imóvel de preservação cultural, histórica, artística, paisagística ou ambiental ou em vias de preservação, de interesse municipal, estadual ou federal.</p>
 				</div>
 				<div id="g-ai0-25" class="g-Camada_1 g-aiAbs" style="top:88.8179%;left:0%;width:15.9375%;">
@@ -446,7 +446,7 @@
 				<div id="g-ai0-23" class="g-Camada_2 g-aiAbs g-aiPointText" style="top:81.1081%;margin-top:-7px;left:74.1954%;width:44px;">
 					<p class="g-pstyle5">anos</p>
 				</div>
-				<div id="g-ai0-24" class="g-Camada_2 g-aiAbs" style="top:82.129%;left:41.5984%;margin-left:-84.5px;width:17.6042%;">
+				<div id="g-ai0-24" class="g-Camada_2 g-aiAbs" style="top:81.129%;left:41.5984%;margin-left:-84.5px;width:17.6042%;">
 					<p class="g-pstyle6">tempo de análise não considerado nos prazos totais</p>
 				</div>
 				<div id="g-ai0-25" class="g-Camada_2 g-aiAbs" style="top:84.2611%;left:7.9687%;margin-left:-76.5px;width:15.9375%;">

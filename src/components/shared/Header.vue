@@ -1,10 +1,13 @@
 <template>
 	<div class="Header" :class="{ scrollOn: scrolling }">
-		<div class="tituloSecao">{{ sectionName }}</div>
-		<div class="navDiv">
-			<HeaderPDF :navItems="navitems"></HeaderPDF>
-			<HeaderMenu :navItems="navitems"></HeaderMenu>
+		<div class="nav">
+			<div class="tituloSecao">{{ sectionName }}</div>
+			<div class="navDiv">
+				<HeaderPDF :navItems="navitems"></HeaderPDF>
+				<HeaderMenu :navItems="navitems"></HeaderMenu>
+			</div>
 		</div>
+		<div class="degradeBranco"></div>
 	</div>
 </template>
 
@@ -65,15 +68,20 @@ div.navDiv {
 	display: flex;
 }
 
+.degradeBranco {
+	background: linear-gradient(#FFFFFF, rgba(255,255,255,0));
+	height: 60px;
+	margin-bottom: -40px;
+}
+
 @media (min-width: 960px){
 		#app > .Header {
 			margin-top: -43px;
 		}
 		#app > .Header.scrollOn{
-		position: fixed;
-		margin-top: -89px;
-		background-color: white;
-		z-index: 100
+			position: fixed;
+			top: 147px;
+			z-index: 100
 	}
 }
 </style>

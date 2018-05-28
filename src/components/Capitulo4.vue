@@ -87,13 +87,13 @@
 					<p>&nbsp;</p>
 					<p>&nbsp;</p>
 				</div>
-				<div id="g-ai0-19" class="g-Camada_2 g-aiAbs g-aiPointText" style="top:76.2513%;margin-top:-6.9px;left:6.2848%;width:34px;">
+				<div id="g-ai0-19" class="g-Camada_2 g-aiAbs g-aiPointText" style="top:76.3%;margin-top:-6.9px;left:6.2848%;width:34px;">
 					<p class="g-pstyle10">(1)</p>
 				</div>
-				<div id="g-ai0-20" class="g-Camada_2 g-aiAbs g-aiPointText" style="top:76.2513%;margin-top:-6.9px;left:39.9307%;width:34px;">
+				<div id="g-ai0-20" class="g-Camada_2 g-aiAbs g-aiPointText" style="top:76.3%;margin-top:-6.9px;left:39.9307%;width:34px;">
 					<p class="g-pstyle10">(3)</p>
 				</div>
-				<div id="g-ai0-21" class="g-Camada_2 g-aiAbs g-aiPointText" style="top:83.536%;margin-top:-6.9px;left:6.2848%;width:34px;">
+				<div id="g-ai0-21" class="g-Camada_2 g-aiAbs g-aiPointText" style="top:84.7%;margin-top:-6.9px;left:6.2848%;width:34px;">
 					<p class="g-pstyle10">(2)</p>
 				</div>
 			</div>
@@ -207,7 +207,7 @@
 				<div id="g-ai0-1" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:1.5866%;margin-top:-11.9px;left:0.1042%;width:254px;">
 					<p class="g-pstyle0">INSTÂNCIAS DE APROVAÇÃO</p>
 				</div>
-				<div id="g-ai0-2" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:1.5761%;margin-top:-9.8px;left:93.2452%;width:85px;">
+				<div id="g-ai0-2" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:1.5761%;margin-top:-9.8px;left:92%;width:85px;">
 					<p class="g-pstyle1">Lei Art. 69</p>
 				</div>
 				<div id="g-ai0-3" class="g-Camada_1 g-aiAbs" style="top:3.4263%;left:0.1042%;width:83.2292%;">
@@ -608,31 +608,12 @@
 				<div id="g-ai0-22" class="g-Camada_1 g-aiAbs" style="top:68.8095%;left:72.6043%;width:26.7708%;">
 					<p class="g-pstyle13">* A obra poderá ter início, sendo de inteira responsabilidade do proprietário ou possuidor e profissionais envolvidos a adequação da obra às posturas municipais</p>
 				</div>
-				<div id="g-ai0-23" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:82.0511%;margin-top:-11.9px;left:3.1658%;width:408px;">
-					<p class="g-pstyle3"><span class="g-cstyle16">A</span><span class="g-cstyle23">C</span>O<span class="g-cstyle15">M</span><span class="g-cstyle25">P</span><span class="g-cstyle15">A</span>NHA<span class="g-cstyle15">M</span>EN<span class="g-cstyle1">T</span>O DOS <span class="g-cstyle15">P</span>ED<span class="g-cstyle15">I</span>DO<span class="g-cstyle15">S</span> EM<span class="g-cstyle15"> </span>AN<span class="g-cstyle15">Á</span>L<span class="g-cstyle15">I</span>S<span class="g-cstyle18">E</span></p>
-				</div>
-				<div id="g-ai0-24" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:86.0752%;margin-top:-20.1px;left:17.4372%;width:782px;">
-					<p class="g-pstyle14">Com o núme<span class="g-cstyle13">r</span>o do p<span class="g-cstyle4">r</span>ocesso é poss<span class="g-cstyle14">í</span><span class="g-cstyle1">v</span>el consul<span class="g-cstyle12">t</span>ar o seu andamen<span class="g-cstyle1">t</span><span class="g-cstyle6">o</span>, onde ele se encont<span class="g-cstyle0">r</span>a e <span class="g-cstyle1">t</span>odo o his<span class="g-cstyle1">t</span>óric<span class="g-cstyle6">o</span>. <span class="g-cstyle11">D</span>ispon<span class="g-cstyle14">í</span><span class="g-cstyle1">v</span>el em:</p>
-					<p class="g-pstyle14">http://simp<span class="g-cstyle13">r</span>ocse<span class="g-cstyle26">r</span>vicos.p<span class="g-cstyle4">r</span>e<span class="g-cstyle21">f</span>eitu<span class="g-cstyle0">r</span>a.s<span class="g-cstyle8">p.</span>g<span class="g-cstyle7">o</span><span class="g-cstyle27">v</span>.br/<span class="g-cstyle14">F</span>o<span class="g-cstyle9">r</span>ms/<span class="g-cstyle20">D</span>adosCadast<span class="g-cstyle0">r</span>ais.aspx </p>
-				</div>
-				<div id="g-ai0-25" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:85.398%;margin-top:-10.1px;left:3.1658%;width:92px;">
-					<p class="g-pstyle15">SIMP<span class="g-cstyle17">R</span>OC:</p>
-				</div>
-				<div id="g-ai0-26" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:85.4485%;margin-top:-5.8px;left:63.7357%;width:24px;">
-					<p class="g-pstyle10"> </p>
-				</div>
-				<div id="g-ai0-27" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:90.6171%;margin-top:-20.1px;left:17.435%;width:800px;">
-					<p class="g-pstyle14">At<span class="g-cstyle0">r</span><span class="g-cstyle28">a</span><span class="g-cstyle1">v</span>és do ende<span class="g-cstyle4">r</span>eço ou do SQL é poss<span class="g-cstyle14">í</span><span class="g-cstyle1">v</span>el consul<span class="g-cstyle12">t</span>ar <span class="g-cstyle1">t</span>odos os documen<span class="g-cstyle1">t</span>os concedido a um emp<span class="g-cstyle13">r</span>eendimen<span class="g-cstyle1">t</span><span class="g-cstyle6">o</span>. <span class="g-cstyle9">D</span>ispon<span class="g-cstyle2">í</span><span class="g-cstyle1">v</span>el em: </p>
-					<p class="g-pstyle14">https://www3.p<span class="g-cstyle13">r</span>e<span class="g-cstyle3">f</span>eitu<span class="g-cstyle0">r</span>a.s<span class="g-cstyle8">p</span><span class="g-cstyle6">.</span>g<span class="g-cstyle7">o</span><span class="g-cstyle27">v</span>.br/de<span class="g-cstyle5">o</span>lhona<span class="g-cstyle5">o</span>b<span class="g-cstyle0">r</span>a/<span class="g-cstyle3">f</span>o<span class="g-cstyle9">r</span>ms/f<span class="g-cstyle11">r</span>mConsul<span class="g-cstyle12">t</span>aSlc.aspx</p>
-				</div>
-				<div id="g-ai0-28" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:89.9399%;margin-top:-10.1px;left:3.1658%;width:132px;">
-					<p class="g-pstyle15"><span class="g-cstyle23">D</span>e <span class="g-cstyle29">o</span>lho na <span class="g-cstyle29">o</span>b<span class="g-cstyle30">r</span>a:</p>
-				</div>
-				<div id="g-ai0-29" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:89.9904%;margin-top:-5.8px;left:10.4687%;width:24px;">
-					<p class="g-pstyle10"> </p>
-				</div>
-				<div id="g-ai0-30" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:89.9904%;margin-top:-5.8px;left:10.7194%;width:24px;">
-					<p class="g-pstyle10"> </p>
+				<div id="g-ai0-23" class="g-Camada_1 g-aiAbs g-aiPointText" style="top: 82.0511%; margin-top: -11.9px; left:0; width:100%;">
+					<p class="g-pstyle3" style="margin: 15px 0;">ACOMPANHAMENTO DOS PEDIDOS EM ANÁLISE</p>
+					<p style="margin: 15px 0;"><strong>SIMPROC:</strong> Com o número do processo é possível consultar o seu andamento, onde ele se encontra e todo o histórico.<br>
+						Disponível em: <a href="http://simprocservicos.prefeitura.sp.gov.br/Forms/DadosCadastrais.aspx" target="_blank">http://simprocservicos.prefeitura.sp.gov.br/Forms/DadosCadastrais.aspx</a>.</p>
+					<p style="margin: 15px 0;"><strong>De olho na obra:</strong> Através do endereço ou do SQL é possível consultar todos os documentos concedido a um empreendimento.<br>
+						Disponível em: <a href="https://www3.prefeitura.sp.gov.br/deolhonaobra/forms/frmConsultaSlc.aspx" target="_blank">https://www3.prefeitura.sp.gov.br/deolhonaobra/forms/frmConsultaSlc.aspx</a>.</p>
 				</div>
 			</div>
 		</div>

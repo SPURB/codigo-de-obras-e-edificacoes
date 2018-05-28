@@ -10,7 +10,6 @@
 		<p class="veto">Razão do veto: De acordo com esses dispositivos, o Alvará de Execução incluirá, quando for o caso, as licenças para a instalação de canteiro de obras, a instalação de tapume, o transporte de terra ou entulho e o avanço de grua sobre o espaço público.</p>
 		<p class="veto">Entretanto, enquanto o Alvará de Execução deve ser expedido antes do início da obra, as licenças relativas às demais atividades edilícias supracitadas são emitidas, por via eletrônica, em situações distintas, podendo ser no início da obra, quando ela interferir no alinhamento viário, em suas várias etapas ou, ainda, no momento da execução de superestrutura. </p>
 		<p class="veto">Ademais, considerando que essas licenças têm prazo de validade de 6 meses ao passo que o prazo do Alvará de Execução é de 2 anos, o licenciamento simultâneo implicaria a necessidade de sua revalidação no decorrer da execução de toda a obra.</p>
-		<p class="corpo_lei"><strong class="subtitulo_txt">&#160;</strong></p>
 		<p class="corpo_lei"><strong class="subtitulo_txt">Art. 29, § 3º</strong> O prazo de validade do alvará de execução pode ser renovado após a aprovação do projeto modificativo.</p>
 		<p class="veto">Razão do veto: Esse parágrafo, por permitir a renovação do prazo de validade do Alvará de Execução a cada aprovação de um novo projeto modificativo, poderia gerar a protelação desse prazo de forma indefinida, incentivando a apresentação desses projetos contrariamente ao escopo do artigo 27 do texto, que reduziu as hipóteses de sua admissão a pequenos ajustes no projeto original.</p>
 		<p class="veto">O § 2º do artigo 29, aliás, já impõe, durante a análise do projeto modificativo, a suspensão da contagem do prazo de validade do alvará, afigurando-se, assim, a sua renovação não somente desnecessária como também excessiva.</p>
@@ -27,7 +26,7 @@
 		<p class="veto">O dispositivo em foco, ao contrário, mostra-se inadequado na medida em que obriga, de forma indiscriminada, ao afastamento contínuo mínimo de 3,00m de todas as divisas com lotes, não podendo prevalecer.</p>
 		<p class="corpo_lei"><strong class="subtitulo_txt">Anexo II, Tabela de taxas para exame e verificação dos pedidos de documentos de controle da atividade edilícia (R$)</strong></p>
 
-		<table class="quadro">
+		<table class="quadro" style="margin-top:15px;">
 			<thead>
 				<tr>
 					<td rowspan="2">DOCUMENTO</td>

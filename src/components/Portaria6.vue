@@ -4,6 +4,7 @@
 		<!-- Desenhos gerados a partir do plugin ai2html v0.66.4 -->
 		<h1>DESENHOS ESQUEMÁTICOS DO PROJETO SIMPLIFICADO</h1>
 		<p>Os modelos de desenhos são ilustrativos podendo ser adaptados em função das especificidades de cada projeto.</p>
+		<h5 class="nota_quadro"><span class="notas">Nota:</span> <strong class="destaque-decreto">Desenhos em escala reduzida para orientação do projeto simplificado. As peças gráficas devem ser apresentadas na escala 1:100 ou 1:200 nos casos em que o lote for muito grande. Os textos indicativos e números devem ser legíveis, de perfeita compreensão.</strong></h5>
 
 		<h2>Seção 6.A - Implantação</h2>
 		<!-- 6A.html -->
@@ -107,7 +108,6 @@
 				</div>
 			</div>
 		</div>
-		<h5 class="nota_quadro"><span class="notas">Nota:</span> <strong class="destaque-decreto">Desenhos em escala reduzida para orientação do projeto simplificado. As peças gráficas devem ser apresentadas na escala 1:100 ou 1:200 nos casos em que o lote for muito grande. Os textos indicativos e números devem ser legíveis, de perfeita compreensão.</strong></h5>
 
 		<h2>Seção 6.B - Planta nível acesso (uso misto)</h2>
 		<!-- 6B.html -->
@@ -290,7 +290,6 @@
 				</div>
 			</div>
 		</div>
-		<h5 class="nota_quadro"><span class="notas">Nota:</span> <strong class="destaque-decreto">Desenhos em escala reduzida para orientação do projeto simplificado. As peças gráficas devem ser apresentadas na escala 1:100 ou 1:200 nos casos em que o lote for muito grande. Os textos indicativos e números devem ser legíveis, de perfeita compreensão.</strong></h5>
 
 		<h2>Seção 6.C - Planta nível térreo não residencial</h2>
 		<!-- 6C.html -->
@@ -439,7 +438,6 @@
 				</div>
 			</div>
 		</div>
-		<h5 class="nota_quadro"><span class="notas">Nota:</span> <strong class="destaque-decreto">Desenhos em escala reduzida para orientação do projeto simplificado. As peças gráficas devem ser apresentadas na escala 1:100 ou 1:200 nos casos em que o lote for muito grande. Os textos indicativos e números devem ser legíveis, de perfeita compreensão.</strong></h5>
 
 		<h2>Seção 6.D - Planta pavimento tipo residencial</h2>
 		<!-- 6D.html -->
@@ -568,7 +566,6 @@
 				</div>
 			</div>
 		</div>
-		<h5 class="nota_quadro"><span class="notas">Nota:</span> <strong class="destaque-decreto">Desenhos em escala reduzida para orientação do projeto simplificado. As peças gráficas devem ser apresentadas na escala 1:100 ou 1:200 nos casos em que o lote for muito grande. Os textos indicativos e números devem ser legíveis, de perfeita compreensão.</strong></h5>
 
 		<h2>Seção 6.E - Planta pavimento tipo não residencial</h2>
 		<!-- 6E.html -->
@@ -662,7 +659,6 @@
 				</div>
 			</div>
 		</div>
-		<h5 class="nota_quadro"><span class="notas">Nota:</span> <strong class="destaque-decreto">Desenhos em escala reduzida para orientação do projeto simplificado. As peças gráficas devem ser apresentadas na escala 1:100 ou 1:200 nos casos em que o lote for muito grande. Os textos indicativos e números devem ser legíveis, de perfeita compreensão.</strong></h5>
 
 		<h2>Seção 6.F - Planta ático</h2>
 		<!-- 6F.html -->
@@ -714,7 +710,6 @@
 				</div>
 			</div>
 		</div>
-		<h5 class="nota_quadro"><span class="notas">Nota:</span> <strong class="destaque-decreto">Desenhos em escala reduzida para orientação do projeto simplificado. As peças gráficas devem ser apresentadas na escala 1:100 ou 1:200 nos casos em que o lote for muito grande. Os textos indicativos e números devem ser legíveis, de perfeita compreensão.</strong></h5>
 
 		<h2>Seção 6.G - Planta subsolo com estacionamento</h2>
 		<!-- 6G.html -->
@@ -793,7 +788,6 @@
 				</div>
 			</div>
 		</div>
-		<h5 class="nota_quadro"><span class="notas">Nota:</span> <strong class="destaque-decreto">Desenhos em escala reduzida para orientação do projeto simplificado. As peças gráficas devem ser apresentadas na escala 1:100 ou 1:200 nos casos em que o lote for muito grande. Os textos indicativos e números devem ser legíveis, de perfeita compreensão.</strong></h5>
 
 		<h2>Seção 6.H - Cortes</h2>
 		<!-- 6H.html -->
@@ -879,7 +873,6 @@
 				</div>
 			</div>
 		</div>
-		<h5 class="nota_quadro"><span class="notas">Nota:</span> <strong class="destaque-decreto">Desenhos em escala reduzida para orientação do projeto simplificado. As peças gráficas devem ser apresentadas na escala 1:100 ou 1:200 nos casos em que o lote for muito grande. Os textos indicativos e números devem ser legíveis, de perfeita compreensão.</strong></h5>
 
 		<h2>Seção 6.I - Demonstração de segurança</h2>
 		<h4 class="subsecao_portaria">Projeto simplificado para grandes empreendimentos – Pavimento térreo</h4>
@@ -1157,7 +1150,6 @@
 				</div>
 			</div>
 		</div>
-		<h5 class="nota_quadro"><span class="notas">Nota:</span> <strong class="destaque-decreto">Desenhos em escala reduzida para orientação do projeto simplificado. As peças gráficas devem ser apresentadas na escala 1:100 ou 1:200 nos casos em que o lote for muito grande. Os textos indicativos e números devem ser legíveis, de perfeita compreensão.</strong></h5>
 
 		<h2>Seção 6.L - Atendimento quota ambiental</h2>
 		<h4 class="subsecao_portaria">Pavimento com coberturas impermeabilizadas e/ou verdes</h4>
@@ -1222,7 +1214,6 @@
 				</div>
 			</div>
 		</div>
-		<h5 class="nota_quadro"><span class="notas">Nota:</span> <strong class="destaque-decreto">Desenhos em escala reduzida para orientação do projeto simplificado. As peças gráficas devem ser apresentadas na escala 1:100 ou 1:200 nos casos em que o lote for muito grande. Os textos indicativos e números devem ser legíveis, de perfeita compreensão.</strong></h5>
 
 		<h2>Seção 6.M - Atendimento quota ambiental</h2>
 		<h4 class="subsecao_portaria">Reservatórios de controle de escoamento superficial e aproveitamento e de aproveitamento de águas pluviais.</h4>
@@ -1304,7 +1295,6 @@
 				</div>
 			</div>
 		</div>
-		<h5 class="nota_quadro"><span class="notas">Nota:</span> <strong class="destaque-decreto">Desenhos em escala reduzida para orientação do projeto simplificado. As peças gráficas devem ser apresentadas na escala 1:100 ou 1:200 nos casos em que o lote for muito grande. Os textos indicativos e números devem ser legíveis, de perfeita compreensão.</strong></h5>
 
 		<h2>Seção 6.N e 6.O - Edificações até 1.500 Mts</h2>
 		<!-- 6N.html -->

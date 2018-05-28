@@ -24,7 +24,7 @@ export default {
 	font-size: 15px;
 	font-weight: 500;
 	color: #333;
-	border-right: 1px solid #BDBDBD;
+	border-right: 1px solid #EEEEEE;
 	text-transform: uppercase;
 	i { float: right; margin-left: 12px; }
 }

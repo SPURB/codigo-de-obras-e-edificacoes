@@ -165,7 +165,7 @@
 			<div id="g-01_capitulo-I_d01-01" class="g-artboard g-artboard-v4" data-min-width='960'>
 				<img id="g-01_capitulo-I_d01-01-img" class="g-aiImg" :src="caminho + '01_capitulo-I_d01-01.png'"/>
 				<div id="g-ai0-1" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:3.8079%;margin-top:-9.8px;left:67.7083%;width:330px;">
-					<p class="g-pstyle0">Lei Art. 3&ordm; Inciso VI, VII, XV, XVIII, XXXIV e XXXV</p>
+					<p class="g-pstyle0">Lei Art. 3&ordm; Inciso VI, VII, XV, XVIII,<br>XXXIV e XXXV</p>
 				</div>
 				<div id="g-ai0-2" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:24.6689%;margin-top:-11.9px;left:0.9375%;width:71px;">
 					<p class="g-pstyle1"><span class="g-cstyle0">Á</span>TI<span class="g-cstyle1">C</span><span class="g-cstyle2">O</span></p>
