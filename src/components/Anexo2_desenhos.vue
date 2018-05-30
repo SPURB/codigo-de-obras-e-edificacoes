@@ -15,16 +15,13 @@
 					<p class="g-pstyle1">3A</p>
 				</div>
 				<div id="g-ai0-4" class="g-texto g-aiAbs g-aiPointText" style="top:51.1979%;margin-top:-44.3px;left:6.064%;margin-left:-64px;width:128px;">
-					<p class="g-pstyle2">LARGURA MÍNIMA</p>
-					<p class="g-pstyle2">1,50&thinsp;m</p>
-					<p>&nbsp;</p>
-					<p>&nbsp;</p>
-					<p class="g-pstyle2">ÁREA MÍNIMA</p>
-					<p class="g-pstyle2">5&thinsp;m&sup2;</p>
+					<p class="g-pstyle2" style="letter-spacing:-0.03em;">LARGURA MÍNIMA<br>
+					1,50m<br>
+					<br>
+					ÁREA MÍNIMA<br>
 				</div>
-				<div id="g-ai0-5" class="g-texto g-aiAbs g-aiPointText" style="top:51.9514%;margin-top:-15.5px;left:76.1502%;margin-left:-80.5px;width:161px;">
-					<p class="g-pstyle2">ÁREA LIVRE </p>
-					<p class="g-pstyle2">INTERNA DESCOBERTA</p>
+				<div id="g-ai0-5" class="g-texto g-aiAbs g-aiPointText" style="top:51.9514%;margin-top:-15.5px;left:76.1502%;margin-left:-80.5px;width:auto;">
+					<p class="g-pstyle2" style="background-color:#FFFFFF;">ÁREA LIVRE<br>INTERNA DESCOBERTA</p>
 				</div>
 				<div id="g-ai0-6" class="g-texto g-aiAbs g-aiPointText" style="transform: matrix(0,-1,1,0,0,0);transform-origin: 50% 59.8093687134783%;-webkit-transform: matrix(0,-1,1,0,0,0);-webkit-transform-origin: 50% 59.8093687134783%;-ms-transform: matrix(0,-1,1,0,0,0);-ms-transform-origin: 50% 59.8093687134783%;top:52.0336%;margin-top:-5.1px;left:63.7174%;margin-left:-18.5px;width:37px;">
 					<p class="g-pstyle1">2A</p>
@@ -293,10 +290,10 @@
 				<div id="g-ai0-2" class="g-texto g-aiAbs g-aiPointText" style="transform: matrix(0.6171,0.7869,-0.7869,0.6171,0,0);transform-origin: 50% 56.1753708840912%;-webkit-transform: matrix(0.6171,0.7869,-0.7869,0.6171,0,0);-webkit-transform-origin: 50% 56.1753708840912%;-ms-transform: matrix(0.6171,0.7869,-0.7869,0.6171,0,0);-ms-transform-origin: 50% 56.1753708840912%;top:59.6347%;margin-top:-8.1px;left:13.0425%;margin-left:-24.5px;width:49px;">
 					<p class="g-pstyle1">3,5m</p>
 				</div>
-				<div id="g-ai0-3" class="g-texto g-aiAbs g-aiPointText" style="top:62.0515%;margin-top:-8.1px;left:72.0616%;width:250px; letter-spacing: -1px;">
+				<div id="g-ai0-3" class="g-texto g-aiAbs g-aiPointText" style="top:62.0515%;margin-top:-8.1px;left:72.0616%;width:250px; font-size:11px;">
 					NOVO ALINHAMENTO
 				</div>
-				<div id="g-ai0-4" class="g-texto g-aiAbs g-aiPointText" style="top:66.616%;margin-top:-8.1px;left:72.0577%;width:250px;letter-spacing: -1px;">
+				<div id="g-ai0-4" class="g-texto g-aiAbs g-aiPointText" style="top:66.616%;margin-top:-8.1px;left:72.0577%;width:250px; font-size:11px;">
 					ANTIGO ALINHAMENTO
 				</div>
 				<div id="g-ai0-5" class="g-texto g-aiAbs g-aiPointText" style="top:87.2911%;margin-top:-8.1px;left:6.5114%;width:318px;">
@@ -321,10 +318,10 @@
 				<div id="g-ai0-2" class="g-texto g-aiAbs g-aiPointText" style="top:61.5144%;margin-top:-8.1px;left:9.4574%;margin-left:-15.5px;width:31px;">
 					<p class="g-pstyle0">R</p>
 				</div>
-				<div id="g-ai0-3" class="g-texto g-aiAbs g-aiPointText" style="top:62.0513%;margin-top:-8.1px;left:72.0235%;width:250px;letter-spacing: -1px;">
+				<div id="g-ai0-3" class="g-texto g-aiAbs g-aiPointText" style="top:62.0513%;margin-top:-8.1px;left:72.0235%;width:250px; font-size:11px;">
 					NOVO ALINHAMENTO
 				</div>
-				<div id="g-ai0-4" class="g-texto g-aiAbs g-aiPointText" style="top:66.616%;margin-top:-8.1px;left:72.0197%;width:250px;letter-spacing: -1px;">
+				<div id="g-ai0-4" class="g-texto g-aiAbs g-aiPointText" style="top:66.616%;margin-top:-8.1px;left:72.0197%;width:250px; font-size:11px;">
 					ANTIGO ALINHAMENTO
 				</div>
 				<div id="g-ai0-5" class="g-texto g-aiAbs g-aiPointText" style="top:87.2911%;margin-top:-8.1px;left:6.5383%;width:318px;">

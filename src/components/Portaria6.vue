@@ -27,8 +27,7 @@
 					<p class="g-pstyle0">NÍVEL</p>
 				</div>
 				<div id="g-ai0-6" class="g-norte g-aiAbs g-aiPointText" style="top:17.2053%;margin-top:-15.3px;left:40.0024%;margin-left:-33.5px;width:67px;">
-					<p class="g-pstyle0">PORT.</p>
-					<p class="g-pstyle1">OC=Xm&sup2;</p>
+					<p class="g-pstyle0">PORT.<br>OC=Xm&sup2;</p>
 				</div>
 				<div id="g-ai0-7" class="g-norte g-aiAbs g-aiPointText" style="transform: matrix(0,-1,1,0,0,0);transform-origin: 50% 56.1746261456826%;-webkit-transform: matrix(0,-1,1,0,0,0);-webkit-transform-origin: 50% 56.1746261456826%;-ms-transform: matrix(0,-1,1,0,0,0);-ms-transform-origin: 50% 56.1746261456826%;top:32.7416%;margin-top:-8.1px;left:28.0191%;margin-left:-142px;width:284px;">
 					<p class="g-pstyle0">E=0,00m&emsp;R=0,00m&emsp;REMANESCENTE=0,00m</p>
@@ -46,19 +45,16 @@
 					<p class="g-pstyle0">TE2=Xm&sup2;</p>
 				</div>
 				<div id="g-ai0-12" class="g-norte g-aiAbs g-aiPointText" style="top:33.6598%;margin-top:-15.4px;left:57.5478%;margin-left:-45px;width:90px;">
-					<p class="g-pstyle0">OCUPAÇÃO</p>
-					<p class="g-pstyle0">O=Xm&sup2;</p>
+					<p class="g-pstyle0">OCUPAÇÃO<br>O=Xm&sup2;</p>
 				</div>
-				<div id="g-ai0-13" class="g-norte g-aiAbs" style="top:50.3218%;left:87.8362%;width:12.075%;">
+				<div id="g-ai0-13" class="g-norte g-aiAbs" style="top:48.5%;left:87.8362%;width:12.075%;">
 					<p>novo alinhamento quando houver doação para alargamento de passeio ou melhoramento viário.</p>
 				</div>
 				<div id="g-ai0-14" class="g-norte g-aiAbs g-aiPointText" style="top:52.7074%;margin-top:-15.3px;left:79.2384%;margin-left:-29.5px;width:59px;">
-					<p class="g-pstyle0">JS</p>
-					<p class="g-pstyle0">A=Xm&sup2;</p>
+					<p class="g-pstyle0">JS<br>A=Xm&sup2;</p>
 				</div>
 				<div id="g-ai0-15" class="g-norte g-aiAbs g-aiPointText" style="top:52.7074%;margin-top:-15.3px;left:66.2781%;margin-left:-29.5px;width:59px;">
-					<p class="g-pstyle0">UN</p>
-					<p class="g-pstyle0">A=Xm&sup2;</p>
+					<p class="g-pstyle0">UN<br>A=Xm&sup2;</p>
 				</div>
 				<div id="g-ai0-16" class="g-norte g-aiAbs g-aiPointText" style="transform: matrix(0.7071,0.7071,-0.7071,0.7071,0,0);transform-origin: 50% 56.174998492432%;-webkit-transform: matrix(0.7071,0.7071,-0.7071,0.7071,0,0);-webkit-transform-origin: 50% 56.174998492432%;-ms-transform: matrix(0.7071,0.7071,-0.7071,0.7071,0,0);-ms-transform-origin: 50% 56.174998492432%;top:56.3553%;margin-top:-8.1px;left:37.849%;margin-left:-24.5px;width:49px;">
 					<p class="g-pstyle0">3.5m</p>
@@ -209,7 +205,7 @@
 					<p class="g-pstyle0">(DESCOBERTA)</p>
 					<p class="g-pstyle0">FP2=Xm&sup2;</p>
 				</div>
-				<div id="g-ai0-29" class="g-norte g-aiAbs" style="top:46.6602%;left:88.4113%;width:11.4793%;">
+				<div id="g-ai0-29" class="g-norte g-aiAbs" style="top:44.5%;left:88.4113%;width:11.4793%;">
 					<p>novo alinhamento quando houver doação para alargamento de passeio ou melhoramento viário.</p>
 				</div>
 				<div id="g-ai0-30" class="g-norte g-aiAbs g-aiPointText" style="top:48.1125%;margin-top:-15.3px;left:51.9298%;margin-left:-74px;width:148px;">
@@ -372,7 +368,7 @@
 				<div id="g-ai0-24" class="g-norte g-aiAbs g-aiPointText" style="top:42.7139%;margin-top:-8.1px;left:67.6127%;margin-left:-50.5px;width:101px;">
 					<p class="g-pstyle0">Proj. cobertura</p>
 				</div>
-				<div id="g-ai0-25" class="g-norte g-aiAbs" style="top:44.3492%;left:89.619%;width:10.4192%;">
+				<div id="g-ai0-25" class="g-norte g-aiAbs" style="top:43.5%;left:89.619%;width:10.4192%;">
 					<p>novo alinhamento quando houver doação para alargamento de passeio ou melhoramento viário.</p>
 				</div>
 				<div id="g-ai0-26" class="g-norte g-aiAbs g-aiPointText" style="top:45.1031%;margin-top:-8.1px;right:19.8004%;width:49px;">
@@ -521,7 +517,7 @@
 				<div id="g-ai0-22" class="g-norte g-aiAbs g-aiPointText" style="top:43.5481%;margin-top:-8.1px;left:51.6895%;margin-left:-14.5px;width:29px;">
 					<p class="g-pstyle0">1</p>
 				</div>
-				<div id="g-ai0-23" class="g-norte g-aiAbs" style="top:47.435%;left:89.431%;width:10.5327%;">
+				<div id="g-ai0-23" class="g-norte g-aiAbs" style="top:45.5%;left:89.431%;width:10.5327%;">
 					<p>novo alinhamento quando houver doação para alargamento de passeio ou melhoramento viário.</p>
 				</div>
 				<div id="g-ai0-24" class="g-norte g-aiAbs g-aiPointText" style="top:59.2222%;margin-top:-8.3px;left:27.6222%;margin-left:-28px;width:56px;">
@@ -620,7 +616,7 @@
 					<p class="g-pstyle0">E CIRCULAÇÃO</p>
 					<p class="g-pstyle0">CNR=Xm&sup2;</p>
 				</div>
-				<div id="g-ai0-16" class="g-texto g-aiAbs" style="top:47.4672%;left:89.6565%;width:10.3943%;">
+				<div id="g-ai0-16" class="g-texto g-aiAbs" style="top:45.6%;left:88.2%;width:10.3943%;">
 					<p>novo alinhamento quando houver doação para alargamento de passeio ou melhoramento viário.</p>
 				</div>
 				<div id="g-ai0-17" class="g-cotas g-aiAbs g-aiPointText" style="top:50.6131%;margin-top:-8.1px;left:57.1636%;width:30px;">
@@ -675,7 +671,7 @@
 				<div id="g-ai0-3" class="g-texto g-aiAbs g-aiPointText" style="transform: matrix(0,-1,1,0,0,0);transform-origin: 50% 56.174998492432%;-webkit-transform: matrix(0,-1,1,0,0,0);-webkit-transform-origin: 50% 56.174998492432%;-ms-transform: matrix(0,-1,1,0,0,0);-ms-transform-origin: 50% 56.174998492432%;top:35.1221%;margin-top:-8.1px;left:28.4103%;margin-left:-142px;width:284px;">
 					<p class="g-pstyle0">E=0,00m&emsp;R=0,00m&emsp;REMANESCENTE=0,00m</p>
 				</div>
-				<div id="g-ai0-4" class="g-texto g-aiAbs g-aiPointText" style="transform: matrix(0,-1,1,0,0,0);transform-origin: 50% 56.174998492432%;-webkit-transform: matrix(0,-1,1,0,0,0);-webkit-transform-origin: 50% 56.174998492432%;-ms-transform: matrix(0,-1,1,0,0,0);-ms-transform-origin: 50% 56.174998492432%;top:35.1221%;margin-top:-8.1px;left:90.4404%;margin-left:-142px;width:284px;">
+				<div id="g-ai0-4" class="g-texto g-aiAbs g-aiPointText" style="transform: matrix(0,-1,1,0,0,0);transform-origin: 50% 56.174998492432%;-webkit-transform: matrix(0,-1,1,0,0,0);-webkit-transform-origin: 50% 56.174998492432%;-ms-transform: matrix(0,-1,1,0,0,0);-ms-transform-origin: 50% 56.174998492432%;top:35.1221%;margin-top:-8.1px;left:89.5%;margin-left:-142px;width:284px;">
 					<p class="g-pstyle0">E=0,00m&emsp;R=0,00m&emsp;REMANESCENTE=0,00m</p>
 				</div>
 				<div id="g-ai0-5" class="g-texto g-aiAbs g-aiPointText" style="transform: matrix(0,-1,1,0,0,0);transform-origin: 50% 56.174998492432%;-webkit-transform: matrix(0,-1,1,0,0,0);-webkit-transform-origin: 50% 56.174998492432%;-ms-transform: matrix(0,-1,1,0,0,0);-ms-transform-origin: 50% 56.174998492432%;top:35.1221%;margin-top:-8.1px;left:13.6304%;margin-left:-74px;width:148px;">
@@ -690,7 +686,7 @@
 				<div id="g-ai0-8" class="g-texto g-aiAbs g-aiPointText" style="transform: matrix(0,-1,1,0,0,0);transform-origin: 50% 56.174998492432%;-webkit-transform: matrix(0,-1,1,0,0,0);-webkit-transform-origin: 50% 56.174998492432%;-ms-transform: matrix(0,-1,1,0,0,0);-ms-transform-origin: 50% 56.174998492432%;top:36.7776%;margin-top:-8.1px;left:74.8966%;margin-left:-32px;width:64px;">
 					<p class="g-pstyle0">BEIRAL</p>
 				</div>
-				<div id="g-ai0-9" class="g-texto g-aiAbs" style="top:52.3655%;left:89.5793%;width:10.3819%;">
+				<div id="g-ai0-9" class="g-texto g-aiAbs" style="top:50.5%;left:88.5%;width:10.3819%;">
 					<p>novo alinhamento quando houver doação para alargamento de passeio ou melhoramento viário.</p>
 				</div>
 				<div id="g-ai0-10" class="g-texto g-aiAbs g-aiPointText" style="top:68.0575%;margin-top:-8.1px;left:59.1927%;margin-left:-142px;width:284px;">
@@ -737,7 +733,7 @@
 				<div id="g-ai0-6" class="g-guias g-aiAbs g-aiPointText" style="transform: matrix(0,-1,1,0,0,0);transform-origin: 50% 56.174998492432%;-webkit-transform: matrix(0,-1,1,0,0,0);-webkit-transform-origin: 50% 56.174998492432%;-ms-transform: matrix(0,-1,1,0,0,0);-ms-transform-origin: 50% 56.174998492432%;top:30.0351%;margin-top:-8.1px;left:28.0629%;margin-left:-142px;width:284px;">
 					<p class="g-pstyle0">E=0,00m&emsp;R=0,00m&emsp;REMANESCENTE=0,00m</p>
 				</div>
-				<div id="g-ai0-7" class="g-guias g-aiAbs g-aiPointText" style="transform: matrix(0,-1,1,0,0,0);transform-origin: 50% 56.174998492432%;-webkit-transform: matrix(0,-1,1,0,0,0);-webkit-transform-origin: 50% 56.174998492432%;-ms-transform: matrix(0,-1,1,0,0,0);-ms-transform-origin: 50% 56.174998492432%;top:30.0351%;margin-top:-8.1px;left:90.4737%;margin-left:-142px;width:284px;">
+				<div id="g-ai0-7" class="g-guias g-aiAbs g-aiPointText" style="transform: matrix(0,-1,1,0,0,0);transform-origin: 50% 56.174998492432%;-webkit-transform: matrix(0,-1,1,0,0,0);-webkit-transform-origin: 50% 56.174998492432%;-ms-transform: matrix(0,-1,1,0,0,0);-ms-transform-origin: 50% 56.174998492432%;top:30.0351%;margin-top:-8.1px;left:89.5%;margin-left:-142px;width:284px;">
 					<p class="g-pstyle0">E=0,00m&emsp;R=0,00m&emsp;REMANESCENTE=0,00m</p>
 				</div>
 				<div id="g-ai0-8" class="g-guias g-aiAbs g-aiPointText" style="transform: matrix(0,-1,1,0,0,0);transform-origin: 50% 56.174998492432%;-webkit-transform: matrix(0,-1,1,0,0,0);-webkit-transform-origin: 50% 56.174998492432%;-ms-transform: matrix(0,-1,1,0,0,0);-ms-transform-origin: 50% 56.174998492432%;top:30.0351%;margin-top:-8.1px;left:13.6354%;margin-left:-74px;width:148px;">
@@ -748,7 +744,7 @@
 					<p class="g-pstyle0">ESTACIONAMENTO VEÍCULOS</p>
 					<p class="g-pstyle0">A=Xm&sup2;</p>
 				</div>
-				<div id="g-ai0-10" class="g-guias g-aiAbs" style="top:44.4829%;left:89.6124%;width:10.3819%;">
+				<div id="g-ai0-10" class="g-guias g-aiAbs" style="top:43.5%;left:88.5%;width:10.3819%;">
 					<p>novo alinhamento quando houver doação para alargamento de passeio ou melhoramento viário.</p>
 				</div>
 				<div id="g-ai0-11" class="g-guias g-aiAbs g-aiPointText" style="top:47.2024%;margin-top:-22.5px;left:75.9545%;margin-left:-43.5px;width:87px;">
@@ -883,35 +879,35 @@
 				<div id="g-ai0-1" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:2.6001%;margin-top:-9.6px;left:1.2041%;width:588px;">
 					<p class="g-pstyle0">PROJETO SIMPLIFICADO PARA GRANDES EMPREENDIMENTOS PGT / EGIV / EGIA</p>
 				</div>
-				<div id="g-ai0-2" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:10.9061%;margin-top:-8.3px;left:36.4743%;margin-left:-59px;width:118px;">
-					<p class="g-pstyle1">DISTÂNCIA=25m</p>
+				<div id="g-ai0-2" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:10.9061%;margin-top:-8.3px;left:36.4743%;margin-left:-59px;width:auto;">
+					<p class="g-pstyle1" style="background-color: #FFF; padding: 2px;">DISTÂNCIA=25m</p>
 				</div>
-				<div id="g-ai0-3" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:10.9061%;margin-top:-8.3px;left:47.7041%;margin-left:-59px;width:118px;">
-					<p class="g-pstyle1">DISTÂNCIA=25m</p>
+				<div id="g-ai0-3" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:10.9061%;margin-top:-8.3px;left:47.7041%;margin-left:-59px;width:auto;">
+					<p class="g-pstyle1" style="background-color: #FFF; padding: 2px;">DISTÂNCIA=25m</p>
 				</div>
-				<div id="g-ai0-4" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:10.9061%;margin-top:-8.3px;left:58.9036%;margin-left:-59px;width:118px;">
-					<p class="g-pstyle1">DISTÂNCIA=23m</p>
+				<div id="g-ai0-4" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:10.9061%;margin-top:-8.3px;left:58.9036%;margin-left:-59px;width:auto;">
+					<p class="g-pstyle1" style="background-color: #FFF; padding: 2px;">DISTÂNCIA=23m</p>
 				</div>
-				<div id="g-ai0-5" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:17.7278%;margin-top:-8.1px;right:78.7703%;width:122px;">
-					<p class="g-pstyle2">ESCADA TIPO PF</p>
+				<div id="g-ai0-5" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:17.7278%;margin-top:-8.1px;right:77.5%;width:auto;">
+					<p class="g-pstyle2" style="background-color: #FFF; padding: 2px;">ESCADA TIPO PF</p>
 				</div>
-				<div id="g-ai0-6" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:17.7278%;margin-top:-8.1px;left:74.0434%;width:123px;">
-					<p class="g-pstyle3">ESCADA TIPO EP</p>
+				<div id="g-ai0-6" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:17.7278%;margin-top:-8.1px;left:74.0434%;width:auto;">
+					<p class="g-pstyle3" style="background-color: #FFF; padding: 2px;">ESCADA TIPO EP</p>
 				</div>
-				<div id="g-ai0-7" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:28.5377%;margin-top:-8.3px;left:74.0433%;width:118px;">
-					<p class="g-pstyle3">DISTÂNCIA=30m</p>
+				<div id="g-ai0-7" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:28.5377%;margin-top:-8.3px;left:74.0433%;width:auto;">
+					<p class="g-pstyle3" style="background-color: #FFF; padding: 2px;">DISTÂNCIA=30m</p>
 				</div>
-				<div id="g-ai0-8" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:28.9763%;margin-top:-8.3px;right:79.0585%;width:118px;">
-					<p class="g-pstyle2">DISTÂNCIA=30m</p>
+				<div id="g-ai0-8" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:28.9763%;margin-top:-8.3px;right:77.5%;width:auto;">
+					<p class="g-pstyle2" style="background-color: #FFF; padding: 2px;">DISTÂNCIA=30m</p>
 				</div>
-				<div id="g-ai0-9" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:36.7833%;margin-top:-8.3px;right:79.0585%;width:118px;">
-					<p class="g-pstyle2">DISTÂNCIA=26m</p>
+				<div id="g-ai0-9" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:36.7833%;margin-top:-8.3px;right:77.5%;width:auto;">
+					<p class="g-pstyle2" style="background-color: #FFF; padding: 2px;">DISTÂNCIA=26m</p>
 				</div>
-				<div id="g-ai0-10" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:37.2219%;margin-top:-8.3px;left:74.0433%;width:118px;">
-					<p class="g-pstyle3">DISTÂNCIA=30m</p>
+				<div id="g-ai0-10" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:37.2219%;margin-top:-8.3px;left:74.0433%;width:auto;">
+					<p class="g-pstyle3" style="background-color: #FFF; padding: 2px;">DISTÂNCIA=30m</p>
 				</div>
-				<div id="g-ai0-11" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:42.0261%;margin-top:-8.1px;right:78.7703%;width:122px;">
-					<p class="g-pstyle2">ESCADA TIPO PF</p>
+				<div id="g-ai0-11" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:42.0261%;margin-top:-8.1px;right:77.5%;width:auto;">
+					<p class="g-pstyle2" style="background-color: #FFF; padding: 2px;">ESCADA TIPO PF</p>
 				</div>
 				<div id="g-ai0-12" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:62.5728%;margin-top:-8.3px;right:13.9699%;width:132px;">
 					<p class="g-pstyle2">PASSEIO PÚBLICO</p>
@@ -954,34 +950,34 @@
 				<div id="g-ai0-1" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:2.5368%;margin-top:-9.6px;left:0.6976%;width:579px;">
 					<p class="g-pstyle0">PROJETO SIMPLIFICADO PARA GRANDES EMPREENDIMENTOS PGT / EGIV / EGIA</p>
 				</div>
-				<div id="g-ai0-2" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:11.4553%;margin-top:-7.3px;left:40.1045%;margin-left:-58px;width:116px;">
-					<p class="g-pstyle1">DISTÂNCIA=20m</p>
+				<div id="g-ai0-2" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:11.4553%;margin-top:-7.3px;left:40.1045%;margin-left:-58px;width:auto;">
+					<p class="g-pstyle1" style="background-color: #FFF; padding: 2px;">DISTÂNCIA=20m</p>
 				</div>
-				<div id="g-ai0-3" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:11.4553%;margin-top:-7.3px;left:52.6323%;margin-left:-58px;width:116px;">
-					<p class="g-pstyle1">DISTÂNCIA=20m</p>
+				<div id="g-ai0-3" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:11.4553%;margin-top:-7.3px;left:52.6323%;margin-left:-58px;width:auto;">
+					<p class="g-pstyle1" style="background-color: #FFF; padding: 2px;">DISTÂNCIA=20m</p>
 				</div>
-				<div id="g-ai0-4" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:17.812%;margin-top:-7.1px;right:79.4109%;width:120px;">
-					<p class="g-pstyle2">ESCADA TIPO PF</p>
+				<div id="g-ai0-4" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:17.812%;margin-top:-7.1px;right:78.5%;width:auto;">
+					<p class="g-pstyle2" style="background-color: #FFF; padding: 2px;">ESCADA TIPO PF</p>
 				</div>
-				<div id="g-ai0-5" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:17.812%;margin-top:-7.1px;left:73.7463%;width:121px;">
-					<p class="g-pstyle3">ESCADA TIPO EP</p>
+				<div id="g-ai0-5" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:17.812%;margin-top:-7.1px;left:73.7463%;width:auto;">
+					<p class="g-pstyle3" style="background-color: #FFF; padding: 2px;">ESCADA TIPO EP</p>
 				</div>
-				<div id="g-ai0-6" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:29.1701%;margin-top:-7.3px;right:79.8275%;width:116px;">
-					<p class="g-pstyle2">DISTÂNCIA=15m</p>
+				<div id="g-ai0-6" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:29.1701%;margin-top:-7.3px;right:78.5%;width:auto;">
+					<p class="g-pstyle2" style="background-color: #FFF; padding: 2px;">DISTÂNCIA=15m</p>
 				</div>
-				<div id="g-ai0-7" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:29.1701%;margin-top:-7.3px;left:73.7463%;width:116px;">
-					<p class="g-pstyle3">DISTÂNCIA=40m</p>
+				<div id="g-ai0-7" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:29.1701%;margin-top:-7.3px;left:73.7463%;width:auto;">
+					<p class="g-pstyle3" style="background-color: #FFF; padding: 2px;">DISTÂNCIA=40m</p>
 				</div>
-				<div id="g-ai0-8" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:36.9646%;margin-top:-7.3px;right:79.8275%;width:116px;">
-					<p class="g-pstyle2">DISTÂNCIA=15m</p>
+				<div id="g-ai0-8" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:36.9646%;margin-top:-7.3px;right:78.5%;width:auto;">
+					<p class="g-pstyle2" style="background-color: #FFF; padding: 2px;">DISTÂNCIA=15m</p>
 				</div>
-				<div id="g-ai0-9" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:42.7898%;margin-top:-7.1px;right:79.4109%;width:120px;">
-					<p class="g-pstyle2">ESCADA TIPO PF</p>
+				<div id="g-ai0-9" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:42.7898%;margin-top:-7.1px;right:78.5%;width:auto;">
+					<p class="g-pstyle2" style="background-color: #FFF; padding: 2px;">ESCADA TIPO PF</p>
 				</div>
-				<div id="g-ai0-10" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:47.1506%;margin-top:-7.3px;right:79.8275%;width:116px;">
-					<p class="g-pstyle2">DISTÂNCIA=25m</p>
+				<div id="g-ai0-10" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:47.1506%;margin-top:-7.3px;right:78.5%;width:auto;">
+					<p class="g-pstyle2" style="background-color: #FFF; padding: 2px;">DISTÂNCIA=25m</p>
 				</div>
-				<div id="g-ai0-11" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:63.3596%;margin-top:-8.3px;right:14.51%;width:130px;">
+				<div id="g-ai0-11" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:63.3596%;margin-top:-8.3px;right:14.51%;width:auto;">
 					<p class="g-pstyle4">PASSEIO PÚBLICO</p>
 				</div>
 				<div id="g-ai0-12" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:68.2312%;margin-top:-8.3px;right:14.5332%;width:142px;">
@@ -1037,7 +1033,7 @@
 				<div id="g-ai0-6" class="g-Camada_1 g-aiAbs g-aiPointText" style="transform: matrix(0,-1,1,0,0,0);transform-origin: 50% 56.174998492432%;-webkit-transform: matrix(0,-1,1,0,0,0);-webkit-transform-origin: 50% 56.174998492432%;-ms-transform: matrix(0,-1,1,0,0,0);-ms-transform-origin: 50% 56.174998492432%;top:27.2815%;margin-top:-8.1px;left:25.8151%;margin-left:-144px;width:288px;">
 					<p class="g-pstyle0">E=0,00m&emsp;R=0,00m&emsp;REMANESCENTE=0,00m</p>
 				</div>
-				<div id="g-ai0-7" class="g-Camada_1 g-aiAbs g-aiPointText" style="transform: matrix(0,-1,1,0,0,0);transform-origin: 50% 56.174998492432%;-webkit-transform: matrix(0,-1,1,0,0,0);-webkit-transform-origin: 50% 56.174998492432%;-ms-transform: matrix(0,-1,1,0,0,0);-ms-transform-origin: 50% 56.174998492432%;top:27.2815%;margin-top:-8.1px;left:79.7168%;margin-left:-144px;width:288px;">
+				<div id="g-ai0-7" class="g-Camada_1 g-aiAbs g-aiPointText" style="transform: matrix(0,-1,1,0,0,0);transform-origin: 50% 56.174998492432%;-webkit-transform: matrix(0,-1,1,0,0,0);-webkit-transform-origin: 50% 56.174998492432%;-ms-transform: matrix(0,-1,1,0,0,0);-ms-transform-origin: 50% 56.174998492432%;top:27.2815%;margin-top:-8.1px;left:79%;margin-left:-144px;width:288px;">
 					<p class="g-pstyle0">E=0,00m&emsp;R=0,00m&emsp;REMANESCENTE=0,00m</p>
 				</div>
 				<div id="g-ai0-8" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:19.5905%;margin-top:-14.9px;left:35.8994%;margin-left:-30px;width:60px;">
@@ -1064,7 +1060,7 @@
 				<div id="g-ai0-14" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:40.4556%;margin-top:-8.1px;left:71.356%;margin-left:-18px;width:36px;">
 					<p class="g-pstyle0">a1</p>
 				</div>
-				<div id="g-ai0-15" class="g-Camada_1 g-aiAbs" style="top:39.8533%;left:79.2149%;width:11.5625%;">
+				<div id="g-ai0-15" class="g-Camada_1 g-aiAbs" style="top:39%;left:78.5%;width:11.5625%;">
 					<p>novo alinhamento quando houver doação para alargamento de passeio ou melhoramento viário.</p>
 				</div>
 				<div id="g-ai0-16" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:43.4893%;margin-top:-14.9px;left:59.8407%;margin-left:-30px;width:60px;">
@@ -1183,7 +1179,7 @@
 					<p class="g-pstyle0">COBERTURA VERDE</p>
 					<p class="g-pstyle0">CV+ = Xm&sup2;</p>
 				</div>
-				<div id="g-ai0-9" class="g-Camada_1 g-aiAbs" style="top:44.789%;left:78.9193%;width:10.3125%;">
+				<div id="g-ai0-9" class="g-Camada_1 g-aiAbs" style="top:43%;left:78.9193%;width:10.3125%;">
 					<p class="g-pstyle1">novo alinhamento quando houver doação para alargamento de passeio ou melhoramento viário.</p>
 				</div>
 				<div id="g-ai0-10" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:48.7875%;margin-top:-14.9px;left:46.4694%;margin-left:-71.5px;width:143px;">
@@ -1265,7 +1261,7 @@
 				<div id="g-ai0-12" class="g-Camada_1 g-aiAbs g-aiPointText" style="transform: matrix(0,-1,1,0,0,0);transform-origin: 50% 56.174998492432%;-webkit-transform: matrix(0,-1,1,0,0,0);-webkit-transform-origin: 50% 56.174998492432%;-ms-transform: matrix(0,-1,1,0,0,0);-ms-transform-origin: 50% 56.174998492432%;top:34.7006%;margin-top:-8.1px;left:12.8647%;margin-left:-75px;width:150px;">
 					<p class="g-pstyle0">NOME LOGRADOURO</p>
 				</div>
-				<div id="g-ai0-13" class="g-Camada_1 g-aiAbs" style="top:50.763%;left:79.0133%;width:10.8333%;">
+				<div id="g-ai0-13" class="g-Camada_1 g-aiAbs" style="top:49%;left:79.0133%;width:10.8333%;">
 					<p class="g-pstyle3">novo alinhamento quando houver doação para alargamento de passeio ou melhoramento viário.</p>
 				</div>
 				<div id="g-ai0-14" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:65.1611%;margin-top:-8.3px;left:24.6116%;margin-left:-28.5px;width:57px;">
@@ -1893,43 +1889,12 @@
 					<p class="g-pstyle1">Situação s/ escala</p>
 				</div>
 				<div id="g-ai0-38" class="g-Camada_1 g-aiAbs g-aiPointText" style="transform: matrix(1,0,0,1,0,0);transform-origin: 50% 56.1753708840912%;-webkit-transform: matrix(1,0,0,1,0,0);-webkit-transform-origin: 50% 56.1753708840912%;-ms-transform: matrix(1,0,0,1,0,0);-ms-transform-origin: 50% 56.1753708840912%;top:36.4978%;margin-top:-8.1px;left:52.6623%;width:280px;">
-					<p class="g-pstyle2">Declaro que a aprovação do projeto não implica </p>
-				</div>
-				<div id="g-ai0-39" class="g-Camada_1 g-aiAbs g-aiPointText" style="transform: matrix(1,0,0,1,0,0);transform-origin: 50% 56.174998492432%;-webkit-transform: matrix(1,0,0,1,0,0);-webkit-transform-origin: 50% 56.174998492432%;-ms-transform: matrix(1,0,0,1,0,0);-ms-transform-origin: 50% 56.174998492432%;top:38.2982%;margin-top:-8.1px;left:52.6623%;width:39px;">
-					<p class="g-pstyle2">no </p>
-				</div>
-				<div id="g-ai0-40" class="g-Camada_1 g-aiAbs g-aiPointText" style="transform: matrix(1,0,0,1,0,0);transform-origin: 50% 56.174998492432%;-webkit-transform: matrix(1,0,0,1,0,0);-webkit-transform-origin: 50% 56.174998492432%;-ms-transform: matrix(1,0,0,1,0,0);-ms-transform-origin: 50% 56.174998492432%;top:38.2982%;margin-top:-8.1px;left:55.4376%;width:25px;">
-					<p class="g-pstyle2"> </p>
-				</div>
-				<div id="g-ai0-41" class="g-Camada_1 g-aiAbs g-aiPointText" style="transform: matrix(1,0,0,1,0,0);transform-origin: 50% 56.174998492432%;-webkit-transform: matrix(1,0,0,1,0,0);-webkit-transform-origin: 50% 56.174998492432%;-ms-transform: matrix(1,0,0,1,0,0);-ms-transform-origin: 50% 56.174998492432%;top:38.2982%;margin-top:-8.1px;left:55.4376%;width:249px;">
-					<p class="g-pstyle2">reconhecimento por parte da prefeitura do </p>
+					<p class="g-pstyle2">Declaro que a aprovação do projeto não<br>
+					implica no reconhecimento por parte da<br>
+					prefeitura do direito de propriedada do terreno.</p>
 				</div>
 				<div id="g-ai0-42" class="g-Camada_1 g-aiAbs g-aiPointText" style="transform: matrix(1,0,0,1,0,0);transform-origin: 50% 56.1746261456826%;-webkit-transform: matrix(1,0,0,1,0,0);-webkit-transform-origin: 50% 56.1746261456826%;-ms-transform: matrix(1,0,0,1,0,0);-ms-transform-origin: 50% 56.1746261456826%;top:39.1384%;margin-top:-8.1px;left:2.7454%;width:69px;">
-					<p class="g-pstyle2"><span class="g-cstyle0">V</span>er folha</p>
-				</div>
-				<div id="g-ai0-43" class="g-Camada_1 g-aiAbs g-aiPointText" style="transform: matrix(1,0,0,1,0,0);transform-origin: 50% 56.1746261456826%;-webkit-transform: matrix(1,0,0,1,0,0);-webkit-transform-origin: 50% 56.1746261456826%;-ms-transform: matrix(1,0,0,1,0,0);-ms-transform-origin: 50% 56.1746261456826%;top:39.1384%;margin-top:-8.1px;left:11.6246%;width:29px;">
-					<p class="g-pstyle2">0</p>
-				</div>
-				<div id="g-ai0-44" class="g-Camada_1 g-aiAbs g-aiPointText" style="transform: matrix(1,0,0,1,0,0);transform-origin: 50% 56.1746261456826%;-webkit-transform: matrix(1,0,0,1,0,0);-webkit-transform-origin: 50% 56.1746261456826%;-ms-transform: matrix(1,0,0,1,0,0);-ms-transform-origin: 50% 56.1746261456826%;top:39.1384%;margin-top:-8.1px;left:12.7348%;width:25px;">
-					<p class="g-pstyle2"> </p>
-				</div>
-				<div id="g-ai0-45" class="g-Camada_1 g-aiAbs g-aiPointText" style="transform: matrix(1,0,0,1,0,0);transform-origin: 50% 56.1746261456826%;-webkit-transform: matrix(1,0,0,1,0,0);-webkit-transform-origin: 50% 56.1746261456826%;-ms-transform: matrix(1,0,0,1,0,0);-ms-transform-origin: 50% 56.1746261456826%;top:39.1384%;margin-top:-8.1px;left:12.9844%;width:25px;">
-					<p class="g-pstyle2">/</p>
-				</div>
-				<div id="g-ai0-46" class="g-Camada_1 g-aiAbs g-aiPointText" style="transform: matrix(1,0,0,1,0,0);transform-origin: 50% 56.1746261456826%;-webkit-transform: matrix(1,0,0,1,0,0);-webkit-transform-origin: 50% 56.1746261456826%;-ms-transform: matrix(1,0,0,1,0,0);-ms-transform-origin: 50% 56.1746261456826%;top:39.1384%;margin-top:-8.1px;left:13.5394%;width:25px;">
-					<p class="g-pstyle2"> </p>
-				</div>
-				<div id="g-ai0-47" class="g-Camada_1 g-aiAbs g-aiPointText" style="transform: matrix(1,0,0,1,0,0);transform-origin: 50% 56.1746261456826%;-webkit-transform: matrix(1,0,0,1,0,0);-webkit-transform-origin: 50% 56.1746261456826%;-ms-transform: matrix(1,0,0,1,0,0);-ms-transform-origin: 50% 56.1746261456826%;top:39.1384%;margin-top:-8.1px;left:13.789%;width:29px;">
-					<p class="g-pstyle2">0</p>
-				</div>
-				<div id="g-ai0-48" class="g-Camada_1 g-aiAbs g-aiPointText" style="transform: matrix(1,0,0,1,0,0);transform-origin: 50% 56.1746261456826%;-webkit-transform: matrix(1,0,0,1,0,0);-webkit-transform-origin: 50% 56.1746261456826%;-ms-transform: matrix(1,0,0,1,0,0);-ms-transform-origin: 50% 56.1746261456826%;top:39.9785%;margin-top:-8.1px;left:52.6623%;width:58px;">
-					<p class="g-pstyle2">direito </p>
-				</div>
-				<div id="g-ai0-49" class="g-Camada_1 g-aiAbs g-aiPointText" style="transform: matrix(1,0,0,1,0,0);transform-origin: 50% 56.1746261456826%;-webkit-transform: matrix(1,0,0,1,0,0);-webkit-transform-origin: 50% 56.1746261456826%;-ms-transform: matrix(1,0,0,1,0,0);-ms-transform-origin: 50% 56.1746261456826%;top:39.9785%;margin-top:-8.1px;left:58.6543%;width:25px;">
-					<p class="g-pstyle2"> </p>
-				</div>
-				<div id="g-ai0-50" class="g-Camada_1 g-aiAbs g-aiPointText" style="transform: matrix(1,0,0,1,0,0);transform-origin: 50% 56.1746261456826%;-webkit-transform: matrix(1,0,0,1,0,0);-webkit-transform-origin: 50% 56.1746261456826%;-ms-transform: matrix(1,0,0,1,0,0);-ms-transform-origin: 50% 56.1746261456826%;top:39.9785%;margin-top:-8.1px;left:58.6543%;width:164px;">
-					<p class="g-pstyle2">de propriedada do terreno.</p>
+					<p class="g-pstyle2">Ver folha 0/0</p>
 				</div>
 				<div id="g-ai0-51" class="g-Camada_1 g-aiAbs g-aiPointText" style="transform: matrix(1,0,0,1,0,0);transform-origin: 50% 56.1746261456826%;-webkit-transform: matrix(1,0,0,1,0,0);-webkit-transform-origin: 50% 56.1746261456826%;-ms-transform: matrix(1,0,0,1,0,0);-ms-transform-origin: 50% 56.1746261456826%;top:48.62%;margin-top:-8.1px;left:52.6623%;width:84px;">
 					<p class="g-pstyle2">Proprietário</p>

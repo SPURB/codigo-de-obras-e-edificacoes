@@ -18,7 +18,9 @@
 	
 	<h3>Como foi o processo de revisão?</h3>
 	<p>Considerando que o código anterior encontra-se em vigor há 25 anos e com base na experiência prática da sua aplicação, a Prefeitura de São Paulo iniciou um processo de avaliação e atualização dessas normas, tendo em vista oferecer resposta a novas demandas relacionadas à produção e consumo do ambiente construído, bem como adequação ao marco atual da disciplina urbanística, inaugurado com a aprovação do novo Plano Diretor Estratégico – PDE.</p>
-	<p>A primeira providência desse trabalho foi a elaboração e consolidação de todas as alterações e inclusões promovidas no Código de Obras e Edificações, desde junho de 1992 até o presente. </p>
+	<p>A primeira providência desse trabalho foi a elaboração e consolidação de todas as alterações e inclusões promovidas no Código de Obras e Edificações, desde junho de 1992 até o presente.</p>
+
+	<p>A partir do texto compilado, iniciou-se o processo de revisão do COE no âmbito da <strong>Secretaria Municipal de Licenciamento – SEL</strong><sup class="referencias-notas">1</sup>, atual Secretaria Municipal de Urbanismo e Licenciamento – SMUL, envolvendo representantes da Secretaria Executiva dos Órgãos Colegiados (SEC), Coordenadorias de Edificação Residencial (RESID), Edificação de Serviços e Uso institucional (SERVIN), Edificação de Uso Comercial e Industrial (COMIN), Parcelamento do Solo e Habitação de Interesse Social (PARHIS), Atividade Especial e Segurança de Uso (SEGUR) e Gabinete da Secretaria.</p>
 	
 	<div class="glossario-box">
 		<span class="nota">1</span> Conforme Decreto Nº 57.576, a Secretaria Municipal de Licenciamento (SEL) teve suas atribuições fundidas com a Secretaria Municipal de Desenvolvimento Urbano (SMDU), tornando-se em janeiro de 2017 a atual Secretaria Municipal de Urbanismo e Licenciamento (SMUL).</p>
@@ -32,8 +34,6 @@
 			<li>Secretaria Municipal da Pessoa com Deficiência e Mobilidade Reduzida para Secretaria Municipal da Pessoa com Deficiência (SMPED)</li>
 		</ul>
 	</div>
-
-	<p>A partir do texto compilado, iniciou-se o processo de revisão do COE no âmbito da <strong>Secretaria Municipal de Licenciamento – SEL</strong><sup class="referencias-notas">1</sup>, atual Secretaria Municipal de Urbanismo e Licenciamento – SMUL, envolvendo representantes da Secretaria Executiva dos Órgãos Colegiados (SEC), Coordenadorias de Edificação Residencial (RESID), Edificação de Serviços e Uso institucional (SERVIN), Edificação de Uso Comercial e Industrial (COMIN), Parcelamento do Solo e Habitação de Interesse Social (PARHIS), Atividade Especial e Segurança de Uso (SEGUR) e Gabinete da Secretaria.</p>
 
 	<p>Em paralelo, realizaram-se rodadas de discussão com entidades representativas de profissionais ligados à engenharia e arquitetura, do setor imobiliário e da construção civil, que agregam a maior parte do público que, necessariamente, utiliza o COE na elaboração dos projetos submetidos ao licenciamento, em especial: Associação Brasileira dos Escritórios de Arquitetura (ASBEA), Sindicato das Empresas de Compra, Venda, Locação e Administração de Imóveis Residenciais e Comerciais de São Paulo (SECOVI-SP) e Sindicato da Indústria da Construção Civil do Estado de São Paulo (SINDUSCON-SP).</p>
 	<p>Em novembro de 2013 foi apresentado ao Sr. Prefeito um plano de trabalho contendo os princípios orientadores do novo Código: <strong>(1) Simplificação, (2) Clareza, (3) Estrutura da Lei, (4) Responsabilização, (5) Atualização, (6) Adequação ao novo Plano Diretor</strong>, conforme descrição abaixo.</p>

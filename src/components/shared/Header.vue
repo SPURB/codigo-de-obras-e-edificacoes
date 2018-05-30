@@ -62,10 +62,12 @@ div.tituloSecao {
 	font-size: 30px;
 	font-weight: 700;
 	align-self: center;
+	line-height: 48px;
 }
 
 div.navDiv {
 	display: flex;
+	flex-direction: row;
 }
 
 .degradeBranco {
@@ -75,13 +77,33 @@ div.navDiv {
 }
 
 @media (min-width: 960px){
-		#app > .Header {
-			margin-top: -43px;
-		}
-		#app > .Header.scrollOn{
-			position: fixed;
-			top: 147px;
-			z-index: 100
+	#app > .Header {
+		margin-top: 69px;
+	}
+	#app > .Header.scrollOn{
+		position: fixed;
+		top: 35px;
+		z-index: 100
+	}
+}
+
+@media (max-width: 959px) {
+	#app > .Header, #app > .Header.scrollOn {
+		margin-top: 89px;
+	}
+	div.nav {
+		flex-direction: column-reverse !important;
+	}
+	div.tituloSecao {
+		width: 100%;
+	}
+	div.navDiv {
+		flex-wrap: wrap-reverse;
+		justify-content: space-between;
+		flex-direction: row-reverse;
+		width: 100%;
+		border-bottom:1px solid #EEEEEE;
+		flex-wrap: nowrap;
 	}
 }
 </style>

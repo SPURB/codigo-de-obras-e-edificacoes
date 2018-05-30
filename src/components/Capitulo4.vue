@@ -172,7 +172,7 @@
 		<h2>Seção II - Das Instâncias e Prazos para Despacho</h2>
 		<p class="corpo_lei"><strong class="bolinha">Art. 69.</strong> As instâncias administrativas para a apreciação e decisão dos pedidos de que trata este Código, protocolados a partir da data de sua vigência, são as seguintes:</p>
 		<div id="04_capitulo-IV_b01" class="glossario-box" style="width: 25%;">
-			<p class="corpo_referencias1"><sup>17 </sup>Conforme Decreto Nº 57.576, a Secretaria Municipal de Licenciamento (SEL) teve suas atribuições fundidas com a Secretaria Municipal de Desenvolvimento Urbano (SMDU), tornando-se em janeiro de 2017 a atual Secretaria Municipal de Urbanismo e Licenciamento (SMUL). </p>
+			<p class="corpo_referencias1"><span class="nota">17</span> Conforme Decreto Nº 57.576, a Secretaria Municipal de Licenciamento (SEL) teve suas atribuições fundidas com a Secretaria Municipal de Desenvolvimento Urbano (SMDU), tornando-se em janeiro de 2017 a atual Secretaria Municipal de Urbanismo e Licenciamento (SMUL). </p>
 		</div>	
 		<p class="corpo_lei"><strong class="destaque-lei">I - </strong>para os pedidos de competência da <strong>Secretaria Municipal de Licenciamento</strong><sup>17</sup>:</p>
 		<p class="corpo_lei"><strong class="destaque-lei">a)</strong> Diretor de Divisão Técnica;</p>
@@ -630,6 +630,11 @@
 		<p class="corpo_decreto"><strong class="artigo-decreto">Art. 62. </strong>Os Empreendimentos Habitacionais de Interesse Social em ZEIS – EZEIS, Empreendimentos Habitacionais de Interesse Social – EHIS, Empreendimentos Habitacionais do Mercado Popular – EHMP, Habitação de Interesse Social – HIS, Habitação de Mercado Popular – HMP e moradia econômica são regulamentados pelo Decreto nº 57.377, de 11 de outubro de 2016, e posteriores alterações. </p>
 		<p class="corpo_decreto"><strong class="destaque-decreto">Parágrafo único. </strong>A edificação destinada aos empreendimentos de que trata o “caput” deste artigo, quando executada sob a titularidade de pessoa jurídica de direito público do Município, do Estado de São Paulo e da União Federal, ainda que transferida posteriormente a terceiros, fica considerada regular na situação existente em 31 de julho de 2014, data de publicação da Lei n.º 16.050, de 2014, sendo de inteira responsabilidade do ente público executor o atendimento às normas de estabilidade, segurança, salubridade e acessibilidade, até a formalização da transferência de titularidade. </p>
 		<p class="corpo_lei"><strong class="destaque-lei">III - </strong>polo gerador de tráfego;</p>
+		<p class="corpo_lei"><strong class="destaque-lei">IV - </strong><strong>empreendimento gerador de impacto ambiental</strong><sup>18</sup>;</p>
+		<p class="corpo_lei"><strong class="destaque-lei">V - </strong><strong>empreendimento gerador de impacto de vizinhança</strong><sup>19</sup>;</p>
+		<p class="corpo_lei"><strong class="destaque-lei">VI - </strong>empreendimento com alto potencial de risco de incêndios e situações de emergência;</p>
+		<p class="corpo_lei"><strong class="destaque-lei">VII - </strong><strong>empreendimento que envolva usos especiais ou incômodos</strong><sup>20</sup>;</p>
+
 		<div class="glossario-box">
 			<p><span class="nota">18</span> Empreendimento gerador de impacto ambiental – EGIA São aqueles que podem causar alteração das propriedades físicas, químicas e biológicas do meio ambiente e que direta ou indiretamente afetem: a saúde, a segurança e o bem estar da população; as atividades sociais e econômicas; a biota; as condições paisagísticas e sanitárias do meio ambiente; a qualidade dos recursos ambientais.<br>
 			<span style="font-size: x-small; margin-left: 2em;">Fonte: Art. 108 da Lei nº 16.402/16</span></p>
@@ -637,10 +642,7 @@
 			<span style="font-size: x-small; margin-left: 2em;">Fonte: Art. 108 da Lei nº 16.402/16</span></p>
 			<p><span class="nota">20</span> Empreendimento que envolva usos especiais ou incômodos Enquadrados como nR3 pelo inciso IV do Art. 96 da Lei nº 16.402/16.</p>
 		</div>
-		<p class="corpo_lei"><strong class="destaque-lei">IV - </strong><strong>empreendimento gerador de impacto ambiental</strong><sup>18</sup>;</p>
-		<p class="corpo_lei"><strong class="destaque-lei">V - </strong><strong>empreendimento gerador de impacto de vizinhança</strong><sup>19</sup>;</p>
-		<p class="corpo_lei"><strong class="destaque-lei">VI - </strong>empreendimento com alto potencial de risco de incêndios e situações de emergência;</p>
-		<p class="corpo_lei"><strong class="destaque-lei">VII - </strong><strong>empreendimento que envolva usos especiais ou incômodos</strong><sup>20</sup>;</p>
+		
 		<p class="corpo_lei"><strong class="destaque-lei">VIII - </strong>residência unifamiliar, serviços, obras e empreendimentos que, por sua natureza, admitam procedimentos simplificados.</p>
 		<p class="corpo_lei"><strong class="destaque-lei">Parágrafo único. </strong>No licenciamento de residência unifamiliar pode ser emitido um único documento que englobe os alvarás de aprovação e execução.</p>
 		<p class="corpo_decreto"><strong class="artigo-decreto">Art. 63. </strong>A residência unifamiliar, enquadrada na subcategoria de uso R1, será licenciada mediante a emissão de Alvará de Aprovação e Execução para Residência Unifamiliar, de acordo com a legislação específica.</p>

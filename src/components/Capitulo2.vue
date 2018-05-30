@@ -81,13 +81,13 @@
 				<p class="corpo_lei"><strong class="destaque-lei">I - </strong>equipamento mecânico de transporte permanente, tais como elevador, escada rolante e plataforma de elevação;</p>
 				<p class="corpo_lei"><strong class="destaque-lei">II - </strong>tanque de armazenagem, bomba, filtro de combustível e equipamentos afins;</p>
 				<p class="corpo_lei"><strong class="destaque-lei">III - </strong>equipamento de sistema especial de segurança da edificação, definido nos termos deste Código.</p>
-				
+
+				<p class="corpo_decreto"><strong class="artigo-decreto">Art. 12. </strong>Para a instrução dos pedidos de documentos de controle de atividade edilícia, o proprietário ou possuidor deverá apresentar, além dos documentos previstos no COE, requerimento-padrão devidamente preenchido e assinado, contendo identificação dos respectivos dados de RG/CPF ou CNPJ e CREA/CAU do responsável técnico pelo projeto e do responsável técnico pela obra, quando for o caso, além da indicação do número de contribuinte relativo ao terreno, constante do carnê do IPTU, ou, no caso de área rural, do CCIR, e indicação do objeto do pedido, além de outros documentos <strong>fixados em portaria</strong><sup>4</sup>, nos termos do § 2º do artigo 1º deste decreto.</p>
+
 				<div id="02_capitulo-II_b01" class="glossario-box" style="width: 16%;">
 					<div style="text-transform: uppercase; color: #EC6B70; text-align: center;">Portaria</div>
 					<span class="nota">4</span> Ver documentação na Portaria, cap. 2 e 3.
 				</div>
-
-				<p class="corpo_decreto"><strong class="artigo-decreto">Art. 12. </strong>Para a instrução dos pedidos de documentos de controle de atividade edilícia, o proprietário ou possuidor deverá apresentar, além dos documentos previstos no COE, requerimento-padrão devidamente preenchido e assinado, contendo identificação dos respectivos dados de RG/CPF ou CNPJ e CREA/CAU do responsável técnico pelo projeto e do responsável técnico pela obra, quando for o caso, além da indicação do número de contribuinte relativo ao terreno, constante do carnê do IPTU, ou, no caso de área rural, do CCIR, e indicação do objeto do pedido, além de outros documentos <strong>fixados em portaria</strong><sup>4</sup>, nos termos do § 2º do artigo 1º deste decreto.</p>
 
 				<p class="corpo_decreto"><strong class="destaque-decreto">Parágrafo único. </strong>Os pedidos de expedição por via eletrônica seguirão os procedimentos definidos em sua regulamentação especifica.</p>
 
@@ -485,13 +485,13 @@
 				<p class="corpo_lei"><strong class="destaque-lei">II - </strong>documentos e licenças eventualmente ressalvadas no Alvará de Execução.</p>
 				<p class="corpo_lei"><strong class="destaque-lei">Parágrafo único. </strong>O cadastro de elevador e demais equipamentos mecânicos de transporte permanente, de tanque de armazenagem, bomba, filtro de combustível e equipamentos afins e de equipamento de sistema especial de segurança da edificação nos respectivos sistemas da Prefeitura é requisito para a emissão do Certificado de Conclusão, quando for o caso.</p>
 				<p class="corpo_decreto"><strong class="artigo-decreto">Art. 24. </strong>O Certificado de Conclusão é o documento hábil para a comprovação da regularidade da edificação, sendo válido quando acompanhado das peças gráficas aprovadas referentes ao Alvará de Execução, inclusive para fins de registro no Cartório de Registro de Imóveis.<strong class="destaque-decreto"></strong></p>
+				<p class="corpo_decreto"><strong class="destaque-decreto">§ 1º </strong>Os documentos necessários à emissão do Certificado de Conclusão são aqueles constantes do artigo 35 do COE, bem como os fixados em portaria<sup>9</sup>. </p>
 
 				<div id="02_capitulo-II_b06" class="glossario-box" style="width: 16%;">
 					<div style="text-transform: uppercase; color: #EC6B70; text-align: center;">Portaria</div>
 					<span class="nota">9</span> Ver documentação na Portaria, cap. 3, seção 3.D.
 				</div>
 
-				<p class="corpo_decreto"><strong class="destaque-decreto">§ 1º </strong>Os documentos necessários à emissão do Certificado de Conclusão são aqueles constantes do artigo 35 do COE, bem como os fixados em portaria<sup>9</sup>. </p>
 				<p class="corpo_decreto"><strong class="destaque-decreto">§ 2º </strong>Nas situações em que os Alvarás de Aprovação e de Execução tenham sido analisados e expedidos por meio eletrônico, o Certificado de Conclusão será válido quando acompanhado das peças gráficas aprovadas referentes ao Alvará de Aprovação, inclusive para fins de registro no Cartório de Registro de Imóveis. </p>
 				<p class="corpo_decreto"><strong class="destaque-decreto">§ 3º </strong>A emissão do Certificado de Conclusão independe da pendência do pagamento de quaisquer multas. </p>
 				<p class="corpo_decreto"><strong class="destaque-decreto">§ 4º </strong>Não será emitido o Certificado de Conclusão de obra embargada ou interditada, enquanto perdurar a infração relativa à obra objeto do pedido. </p>
@@ -511,13 +511,13 @@
 				<p class="corpo_lei"><strong class="destaque-lei">V - </strong>outros documentos e licenças exigidos na legislação municipal, conforme o caso.</p>
 				<p class="corpo_lei"><strong class="destaque-lei">Parágrafo único. </strong>O cadastro de elevador e demais equipamentos mecânicos de transporte permanente, de tanque de armazenagem, bomba, filtro de combustível e equipamentos afins e de equipamento de sistema especial de segurança da edificação nos respectivos sistemas da Prefeitura é requisito para a emissão do Certificado de Regularização, quando for o caso.</p>
 				<p class="corpo_decreto"><strong class="artigo-decreto">Art. 25. </strong>O Certificado de Regularização é documento hábil para a comprovação da regularidade da edificação ou serviço executado sem prévia licença da Prefeitura, sendo válido quando acompanhado das respectivas peças gráficas, inclusive para fins de registro no Cartório de Registro de Imóveis. </p>
+				<p class="corpo_decreto"><strong class="destaque-decreto">§ 1º </strong>O pedido de Certificado de Regularização deverá ser instruído com os documentos constantes do artigo 38 do COE, bem como com os documentos fixados em portaria<sup>10</sup>.</p>
 
 				<div id="02_capitulo-II_b07" class="glossario-box" style="width: 16%;">		
 					<div style="text-transform: uppercase; color: #EC6B70; text-align: center;">Portaria</div>
 					<span class="nota">10</span> Ver documentação na Portaria, cap. 3, seção 3.E.
 				</div>
 
-				<p class="corpo_decreto"><strong class="destaque-decreto">§ 1º </strong>O pedido de Certificado de Regularização deverá ser instruído com os documentos constantes do artigo 38 do COE, bem como com os documentos fixados em portaria<sup>10</sup>.</p>
 				<p class="corpo_decreto"><strong class="destaque-decreto">§ 2º </strong>O Certificado de Regularização será emitido mediante a comprovação do atendimento de um das hipóteses previstas nos incisos I ou II do artigo 36 do COE.<strong class="destaque-decreto"></strong></p>
 
 				<h2 class="subsecao">Subseção V - Do Certificado de Acessibilidade</h2>
@@ -540,13 +540,13 @@
 				<p class="corpo_lei"><strong class="destaque-lei">II - </strong>peças gráficas do projeto simplificado das obras e serviços de adaptação propostos, assinadas por profissional habilitado, conforme estabelecido neste Código e decreto regulamentar;</p>
 				<p class="corpo_lei"><strong class="destaque-lei">III - </strong>declaração do profissional responsável pela obra, atestando a sua conclusão e execução de acordo com as disposições da legislação municipal e, em especial, deste Código, bem como das normas pertinentes à acessibilidade no interior da edificação na data do protocolo do processo.</p>
 				<p class="corpo_lei"><strong class="destaque-lei">Parágrafo único.</strong> O cadastro de elevador e demais equipamentos mecânicos de transporte permanente nos sistemas da Prefeitura é requisito para a emissão do Certificado de Acessibilidade, quando for o caso.</p>
+				<p class="corpo_decreto"><strong class="artigo-decreto">Art. 28. </strong>O pedido de Certificado de Acessibilidade deverá ser instruído com os documentos fixados em portaria<sup>11</sup>, bem como com aqueles constantes do artigo 41 do COE.</p>
 
 				<div id="02_capitulo-II_b08" class="glossario-box" style="width: 16%;">
 					<div style="text-transform: uppercase; color: #EC6B70; text-align: center;">Portaria</div>
 					<span class="nota">11</span> Ver documentação na Portaria, cap. 3, seção 3.F.
 				</div>
 
-				<p class="corpo_decreto"><strong class="artigo-decreto">Art. 28. </strong>O pedido de Certificado de Acessibilidade deverá ser instruído com os documentos fixados em portaria<sup>11</sup>, bem como com aqueles constantes do artigo 41 do COE.</p>
 				<p class="corpo_lei"><strong class="artigo-lei">Art. 42. </strong>O Certificado de Acessibilidade pode ser requerido junto com o Certificado de Regularização ou Certificado de Segurança relativo à edificação.</p>
 
 				<h2 class="subsecao">Subseção VI - Do Certificado de Segurança</h2>
@@ -560,11 +560,13 @@
 				<p class="corpo_lei"><strong class="destaque-lei">V - </strong>outras declarações referentes às condições de uso dos equipamentos, exigidas em legislação municipal.</p>
 				<p class="corpo_lei"><strong class="destaque-lei">Parágrafo único. </strong>O cadastro de elevador e demais equipamentos mecânicos de transporte permanente, de tanque de armazenagem, bomba, filtro de combustível e equipamentos afins e de equipamento de sistema especial de segurança da edificação nos sistemas da Prefeitura é requisito para a emissão do Certificado de Segurança, quando for o caso.</p>
 				<p class="corpo_decreto"><strong class="artigo-decreto">Art. 29. </strong>O pedido de Certificado de Segurança poderá ser solicitado pelo proprietário ou possuidor da edificação existente que necessitar de espaço de circulação protegido, conforme NTO, e não tiverem Auto de Verificação de Segurança – AVS.</p>
+				<p class="corpo_decreto"><strong class="destaque-decreto">§ 1º </strong>O pedido de Certificado de Segurança deve ser instruído com os documentos fixados em portaria<sup>12</sup>, bem como com aqueles constantes do artigo 44 do COE.</p>
+				
 				<div id="02_capitulo-II_b09" class="glossario-box" style="width: 16%;">
 					<div style="text-transform: uppercase; color: #EC6B70; text-align: center;">Portaria</div>
 					<span class="nota">12</span> Ver documentação na Portaria, cap. 3, seção 3.G.
 				</div>
-				<p class="corpo_decreto"><strong class="destaque-decreto">§ 1º </strong>O pedido de Certificado de Segurança deve ser instruído com os documentos fixados em portaria<sup>12</sup>, bem como com aqueles constantes do artigo 44 do COE.</p>
+
 				<p class="corpo_decreto"><strong class="destaque-decreto">§ 2º </strong>Excluem-se da necessidade de Certificado de Segurança: </p>
 				<p class="corpo_decreto"><strong class="destaque-decreto">I -</strong> as edificações residenciais; </p>
 				<p class="corpo_decreto"><strong class="destaque-decreto">II -</strong> as edificações aprovadas após 20 de junho de 1975, data da edição da Lei nº 8.266, de 20 de junho de 1975, que tenham Auto ou Certificado de Conclusão e que não sofreram alterações de ordem física ou de utilização em relação ao regularmente licenciado. </p>
@@ -583,11 +585,13 @@
 				<p class="corpo_lei"><strong class="destaque-lei">II - </strong>peças gráficas do projeto simplificado da edificação assinadas por profissional habilitado, quando for o caso;</p>
 				<p class="corpo_lei"><strong class="destaque-lei">III - </strong>declaração assinada por profissional habilitado, atestando a conformidade da edificação às disposições deste Código e legislação correlata;</p>
 				<p class="corpo_lei"><strong class="destaque-lei">IV - </strong>outros documentos e licenças exigidos na legislação municipal, conforme o caso.</p>
+				<p class="corpo_decreto"><strong class="artigo-decreto">Art. 30. </strong>Em função de sua natureza, o pedido de Alvará de Autorização será acompanhado dos documentos previstos no artigo 46 do COE e fixados em portaria<sup>13</sup>, seção 3.H.)</span>.</p>
+
 				<div id="02_capitulo-II_b10" class="glossario-box" style="width: 16%;">
 					<div style="text-transform: uppercase; color: #EC6B70; text-align: center;">Portaria</div>
 					<span class="nota">13</span> Ver documentação na Portaria, cap. 3, seção 3.H.
 				</div>
-				<p class="corpo_decreto"><strong class="artigo-decreto">Art. 30. </strong>Em função de sua natureza, o pedido de Alvará de Autorização será acompanhado dos documentos previstos no artigo 46 do COE e fixados em portaria<sup>13</sup>, seção 3.H.)</span>.</p>
+
 				<p class="corpo_lei"><strong class="destaque-lei">§ 1º </strong>O cadastro de elevador e demais equipamentos mecânicos de transporte permanente, de tanque de armazenagem, bomba, filtro de combustível e equipamentos afins e de equipamento de sistema especial de segurança da edificação nos respectivos sistemas da Prefeitura é requisito para a emissão do Alvará de Autorização, quando for o caso.</p>
 				<p class="corpo_lei"><strong class="destaque-lei">§ 2º </strong>O Alvará de Autorização de que trata o “caput” deste artigo perde a eficácia no prazo de 6 (seis) meses, podendo ser revalidado uma vez por igual período, a pedido do interessado.</p>
 				<p class="corpo_decreto"><strong class="artigo-decreto">Art. 31. </strong>O Alvará de Autorização terá validade de 6 (seis) meses, podendo ser revalidado 1 (uma) vez por igual período, a pedido do interessado, mediante recolhimento de novas taxas. </p>
@@ -623,11 +627,13 @@
 				<p class="corpo_lei"><strong class="artigo-lei">Art. 48. </strong>O cadastro deve ser instruído com:</p>
 				<p class="corpo_lei"><strong class="destaque-lei">I - </strong>peças gráficas e memorial com a descrição e localização de cada equipamento, assinada por profissional habilitado;</p>
 				<p class="corpo_lei"><strong class="destaque-lei">II - </strong>declaração assinada por profissional habilitado, atestando que o equipamento foi instalado conforme o projeto aprovado e atende às normas técnicas aplicáveis e às disposições da legislação municipal na data do protocolo.</p>
+				<p class="corpo_decreto"><strong class="artigo-decreto">Art. 35. </strong>Em função da natureza do equipamento ou sistema de segurança, poderão ser exigidos outros documentos, a serem fixados em portaria<sup>14</sup>, além dos daqueles previstos no artigo 48 do COE. </p>
+
 				<div id="02_capitulo-II_b11" class="glossario-box" style="width: 16%;">
 					<div style="text-transform: uppercase; color: #EC6B70; text-align: center;">Portaria</div>
 					<span class="nota">14</span> Ver documentação na Portaria, cap. 3, seção 3.I e 3.J.
 				</div>
-				<p class="corpo_decreto"><strong class="artigo-decreto">Art. 35. </strong>Em função da natureza do equipamento ou sistema de segurança, poderão ser exigidos outros documentos, a serem fixados em portaria<sup>14</sup>, além dos daqueles previstos no artigo 48 do COE. </p>
+
 				<p class="corpo_lei"><strong class="artigo-lei">Art. 49. </strong>O responsável técnico pela manutenção das condições de uso do equipamento deve renovar o cadastro, sob pena de caducidade e aplicação das sanções previstas neste Código, a cada período de:</p>
 				<p class="corpo_lei"><strong class="destaque-lei">I - </strong>1 (um) ano, no caso de elevador e demais equipamentos mecânicos de transporte permanente;</p>
 				<p class="corpo_lei"><strong class="destaque-lei">II - </strong>5 (cinco) anos, no caso de tanque de armazenagem, bomba, filtro de combustível e equipamentos afins e de equipamento de sistema especial de segurança da edificação.</p>
@@ -640,10 +646,12 @@
 				<p class="corpo_decreto"><strong class="destaque-decreto">§ 3º </strong>A ausência do cadastramento e manutenção de equipamentos torna o local passível da aplicação das multas previstas no Anexo III do COE e deste decreto. </p>
 				
 				<h2 class="subsecao">Subseção IX - Da Ficha Técnica e Diretrizes de Projeto</h2>
+				<p class="corpo_lei"><strong class="artigo-lei">Art. 50. </strong>A pedido do interessado, a Prefeitura emite <strong>Ficha Técnica do imóvel</strong><sup>15</sup>, da qual devem constar as informações relativas ao uso e ocupação do solo, à incidência de melhoramentos urbanísticos e aos demais dados cadastrais disponíveis.</p>
+
 				<div id="02_capitulo-II_b12" class="glossario-box">
 					<span class="nota">15</span> A Ficha Técnica é documento equivalente ao Boletim de Dados Técnicos (BDT), podendo ser requerida junto à Municipalidade previamente à autuação do processo de licenciamento.
 				</div>
-				<p class="corpo_lei"><strong class="artigo-lei">Art. 50. </strong>A pedido do interessado, a Prefeitura emite <strong>Ficha Técnica do imóvel</strong><sup>15</sup>, da qual devem constar as informações relativas ao uso e ocupação do solo, à incidência de melhoramentos urbanísticos e aos demais dados cadastrais disponíveis.</p>
+
 				<p class="corpo_decreto"><strong class="artigo-decreto">Art. 39. </strong>Qualquer munícipe poderá solicitar Ficha Técnica por meio de requerimento eletrônico. </p>
 				<p class="corpo_decreto"><strong class="artigo-decreto">Art. 40. </strong>O pedido poderá abranger um ou mais imóveis, desde que contíguos e pertencentes a uma mesma quadra fiscal. </p>
 				<p class="corpo_decreto"><strong class="destaque-decreto">Parágrafo único. </strong>No caso de os imóveis não serem contíguos, o pedido será cancelado. </p>
@@ -656,10 +664,12 @@
 				<p class="corpo_decreto"><strong class="destaque-decreto">§ 2º </strong>A Ficha Técnica poderá instruir os pedidos de Diretrizes de Projeto e os Alvarás de Aprovação e Execução. </p>
 				<p class="corpo_lei"><strong class="artigo-lei">Art. 51. </strong>A pedido do interessado, a Prefeitura analisa consultas para o esclarecimento quanto à aplicação do PDE, LPUOS e COE em projetos arquitetônicos e emite as Diretrizes de Projeto.</p>
 				<p class="corpo_lei"><strong class="destaque-lei">Parágrafo único. </strong>O pedido deve ser instruído com documentação e peças gráficas que permitam o entendimento do projeto e da consulta formulada.</p>
+				
 				<div id="02_capitulo-II_b13" class="glossario-box" style="width: 16%;">
 					<div style="text-transform: uppercase; color: #EC6B70; text-align: center;">Portaria</div>
 					<span class="nota">16</span> Ver documentação na Portaria, cap. 3, seção 3.K.
 				</div>
+				
 				<p class="corpo_decreto"><strong class="artigo-decreto">Art. 46. </strong>As consultas a respeito de aplicação do PDE, LPUOS e COE deverão ser protocoladas como Diretrizes de Projeto, instruídas com projeto arquitetônico que permita a compreensão do pedido e demais documentos fixados em portaria<sup>16</sup>.</p>
 	</div>
 </template>

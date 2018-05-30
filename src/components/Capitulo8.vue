@@ -3,12 +3,14 @@
 
 		<h1>DAS DISPOSIÇÕES FINAIS E TRANSITÓRIAS</h1>
 
-		<div id="08_capitulo-VIII_b01" class="glossario-box" style="margin-top: 1.5em;">
+		<p class="corpo_lei"><strong class="bolinha">Art. 108.</strong> Para fins de aplicação dos índices de ocupação e aproveitamento do solo, observados os limites estabelecidos na LPUOS, não é considerada <strong>área construída computável</strong><sup>22</sup>:</p>
+
+		<div id="08_capitulo-VIII_b01" class="glossario-box">
 			<p><span class="nota">22</span> Área computavel é a soma das áreas cobertas de todos os pavimentos de uma edificação, que são consideradas para o cálculo do coeficiente de aproveitamento.</p>
 			<p>Área não computável é a soma das áreas cobertas de uma edificação não considerada para o cálculo do coeficiente de aproveitamento, nos termos dispostos na legislação pertinente.<br />
 			<span style="font-size: x-small; margin-left: 2em;">Fonte: Quadro 01 da Lei nº 16.050/14</span></p>
 		</div>
-		<p class="corpo_lei"><strong class="bolinha">Art. 108.</strong> Para fins de aplicação dos índices de ocupação e aproveitamento do solo, observados os limites estabelecidos na LPUOS, não é considerada <strong>área construída computável</strong><sup>22</sup>:</p>
+
 		<p class="corpo_decreto"><strong class="artigo-decreto">Art. 102. </strong>Para fins de aplicação dos índices de ocupação e aproveitamento do solo, observados os limites estabelecidos na LPUOS, são consideradas áreas construídas não computáveis aquelas constantes do artigo 108 do COE, atendidas as seguintes regras:<strong class="subtitulo_txt"></strong></p>
 		<p class="corpo_lei"><strong class="destaque-lei">I - </strong>o terraço aberto, com área construída máxima por pavimento equivalente a 5% (cinco por cento) da área do terreno;</p>
 		<p class="corpo_decreto"><strong class="destaque-decreto">I -</strong> no terraço aberto, com área construída máxima por pavimento equivalente a 5% (cinco por cento) da área do terreno, deve ser observado o remanescente do imóvel quando o terreno for objeto de doação de área para alargamento de passeio ou por melhoramento público; </p>
@@ -97,21 +99,17 @@
 			</div>
 		</div>
 
-		<div id="08_capitulo-VIII_b02" class="glossario-box">
-			<p class="corpo_referencias1"><span class="nota">23</span>Em função das alterações do novo PDE, Lei Nº 16.050, as vias coletoras não são contempladas.</p>
-		</div>
-
 		<p class="corpo_lei"><strong class="artigo-lei">Art. 109. </strong>A edificação cuja titularidade seja de pessoa jurídica de direito público do Município, do Estado de São Paulo e da União Federal e respectivas autarquias universitárias, ainda que implantada em imóvel não constante do Cadastro de Edificações do Município, fica considerada regular na situação existente em 31 de julho de 2014, data da Lei nº 16.050, de 31 de julho de 2014.</p>
 		<p class="corpo_lei"><strong class="destaque-lei">Parágrafo único. </strong>O atendimento às normas de estabilidade, segurança, salubridade e acessibilidade na edificação de que trata o “caput” deste artigo é de responsabilidade do ente público que a ocupa.</p>
 		<p class="corpo_lei"><strong class="artigo-lei">Art. 110. </strong>Os arts. 2º e 13 da Lei nº 15.150, de 6 de maio de 2010, passam a vigorar com as seguintes alterações:</p>
 		<p class="corpo_lei">“<strong class="bolinha" style="font-weight: 300;">Art. 2º</strong> (…)</p>
 		<p class="corpo_lei">§ 1º São consideradas Áreas Especiais de Tráfego – AET:</p>
+		<p class="corpo_lei">I - AET 1<sup>23</sup> – Minianel Viário: vias classificadas pela legislação vigente como Estruturais N1 e N3, inseridas no Minianel Viário;</p>
 
 		<div id="08_capitulo-VIII_b02" class="glossario-box">
 			<span class="nota">23</span> Em função das alterações do novo PDE, Lei Nº 16.050, as vias coletoras não são contempladas.
 		</div>
-		
-		<p class="corpo_lei">I - AET 1<sup class="referencias-notas">23</sup> – Minianel Viário: vias classificadas pela legislação vigente como Estruturais N1 e N3, inseridas no Minianel Viário;</p>
+
 		<p class="corpo_lei">II - AET 2 – na área externa ao Minianel Viário: vias classificadas pela legislação vigente como Estruturais N1, N2 e N3;</p>
 		<p class="corpo_lei">III - AET 3 – áreas de Operação Urbana: em todas as vias, independentemente de sua classificação.</p>
 		<p class="corpo_lei">§ 2º Para fins de enquadramento das edificações como Polos Geradores de Tráfego – PGT, são consideradas vagas de estacionamento de veículos o somatório das vagas oferecidas no projeto, excetuadas aquelas destinadas a carga e descarga, atendimento médico de emergência, segurança, motocicletas e bicicletas."</p>
@@ -135,32 +133,32 @@
 				<div id="g-ai0-2" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:2.8069%;margin-top:-11.9px;left:0%;width:341px;">
 					<p class="g-pstyle1">POLOS GERADORES DE TRÁFEGO (PGT)</p>
 				</div>
-				<div id="g-ai0-3" class="g-Camada_1 g-aiAbs" style="top:6.9019%;left:0%;width:83.2292%;">
+				<div id="g-ai0-3" class="g-Camada_1 g-aiAbs" style="top:6.9019%;left:0%;width:80%;">
 					<p class="g-pstyle2">No projeto de edificações PGT, não são consideradas no cálculo de estacionamento de veículos as vagas destinadas a:</p>
 				</div>
 				<div id="g-ai0-4" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:17.1007%;margin-top:-8.4px;left:49.6834%;width:113px;">
-					<p class="g-pstyle3"><span class="g-cstyle0">A</span><span class="g-cstyle1">T</span>END<span class="g-cstyle1">IM</span>EN<span class="g-cstyle2">T</span><span class="g-cstyle3">O </span></p>
+					<p class="g-pstyle3">ATENDIMENTO</p>
 				</div>
 				<div id="g-ai0-5" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:18.2276%;margin-top:-8.4px;left:6.607%;width:81px;">
-					<p class="g-pstyle4">CA<span class="g-cstyle4">R</span><span class="g-cstyle5">GA</span> <span class="g-cstyle3">E </span></p>
+					<p class="g-pstyle4">CARGA E</p>
 				</div>
 				<div id="g-ai0-6" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:19.272%;margin-top:-8.8px;left:49.6834%;width:94px;">
-					<p class="g-pstyle4">M<span class="g-cstyle5">É</span>DI<span class="g-cstyle6">C</span><span class="g-cstyle5">O</span> D<span class="g-cstyle3">E </span></p>
+					<p class="g-pstyle4">MÉDICO DE</p>
 				</div>
 				<div id="g-ai0-7" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:19.3544%;margin-top:-8.4px;left:28.1451%;width:117px;">
-					<p class="g-pstyle4">M<span class="g-cstyle7">O</span><span class="g-cstyle2">T</span><span class="g-cstyle5">OC</span>IC<span class="g-cstyle8">L</span><span class="g-cstyle9">E</span><span class="g-cstyle10">T</span>A<span class="g-cstyle3">S</span></p>
+					<p class="g-pstyle4">MOTOCICLETAS</p>
 				</div>
-				<div id="g-ai0-8" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:19.3544%;margin-top:-8.4px;left:70.9091%;width:100px;">
-					<p class="g-pstyle3"><span class="g-cstyle1">S</span>E<span class="g-cstyle11">G</span>U<span class="g-cstyle12">R</span><span class="g-cstyle1">A</span>NÇ<span class="g-cstyle3">A</span></p>
+				<div id="g-ai0-8" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:19.3544%;margin-top:-8.4px;left:70%;width:100px;">
+					<p class="g-pstyle3">SEGURANÇA</p>
 				</div>
-				<div id="g-ai0-9" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:19.3544%;margin-top:-8.4px;left:92.4472%;width:94px;">
-					<p class="g-pstyle3"><span class="g-cstyle1">B</span>IC<span class="g-cstyle1">IC</span><span class="g-cstyle8">L</span><span class="g-cstyle9">E</span><span class="g-cstyle0">T</span>A<span class="g-cstyle3">S</span></p>
+				<div id="g-ai0-9" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:19.3544%;margin-top:-8.4px;left:91.5%;width:94px;">
+					<p class="g-pstyle3">BICICLETAS</p>
 				</div>
 				<div id="g-ai0-10" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:20.4813%;margin-top:-8.4px;left:6.607%;width:91px;">
-					<p class="g-pstyle4"><span class="g-cstyle5">DE</span>SCA<span class="g-cstyle4">R</span><span class="g-cstyle5">G</span><span class="g-cstyle3">A</span></p>
+					<p class="g-pstyle4">DESCARGA</p>
 				</div>
 				<div id="g-ai0-11" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:21.524%;margin-top:-8.8px;left:49.6834%;width:104px;">
-					<p class="g-pstyle3">E<span class="g-cstyle1">M</span>E<span class="g-cstyle4">R</span><span class="g-cstyle13">G</span>ÊN<span class="g-cstyle1">CI</span><span class="g-cstyle3">A</span></p>
+					<p class="g-pstyle3">EMERGÊNCIA</p>
 				</div>
 				<div id="g-ai0-12" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:31.5415%;margin-top:-11.9px;left:0%;width:412px;">
 					<p class="g-pstyle1">PRÉ-REQUISITOS PARA EMPREENDIMENTOS PGT</p>
@@ -174,9 +172,9 @@
 					<p class="g-pstyle2">Procedimentos para aprovação de projetos, execução de obras e serviços referentes a minimização de impacto no sistema viário:</p>
 				</div>
 				<div id="g-ai0-15" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:50.7545%;margin-top:-8.3px;left:15.1945%;width:143px;">
-					<p class="g-pstyle5"><span class="g-cstyle1">O</span>BRI<span class="g-cstyle1">G</span><span class="g-cstyle10">A</span><span class="g-cstyle7">T</span><span class="g-cstyle1">Ó</span>RIO<span class="g-cstyle1"> </span><span class="g-cstyle14">P</span><span class="g-cstyle1">A</span><span class="g-cstyle15">R</span><span class="g-cstyle3">A</span></p>
+					<p class="g-pstyle5">OBRIGATÓRIO PARA</p>
 				</div>
-				<div id="g-ai0-16" class="g-Camada_1 g-aiAbs" style="top:52.5391%;left:77.6042%;width:20.9375%;">
+				<div id="g-ai0-16" class="g-Camada_1 g-aiAbs" style="top:51.5%;left:77%;width:20%;">
 					<p class="g-pstyle6">* Em caso de projeto modificado ou de mudança do projeto no decorrer da análise, fica dispensada a apresentação de nova certidão desde que as alterações em relação ao projeto original ampliado pela CET:</p>
 					<p class="g-pstyle6">a) não impliquem em alteração de uso, categoria de uso ou subcategoria de uso;</p>
 					<p class="g-pstyle6">b) não ultrapassem 5% (cinco porcento) nas áreas computáveis e não computáveis na taxa de ocupação e no número de vagas para veículos;</p>
@@ -187,29 +185,29 @@
 					<p class="g-pstyle7">FAVORÁVEL (SMT)</p>
 				</div>
 				<div id="g-ai0-18" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:57.7973%;margin-top:-8.3px;left:32.4098%;width:93px;">
-					<p class="g-pstyle5">A<span class="g-cstyle16">L</span><span class="g-cstyle8">V</span>A<span class="g-cstyle12">R</span>Á D<span class="g-cstyle3">E </span></p>
+					<p class="g-pstyle5">ALVARÁ DE</p>
 				</div>
 				<div id="g-ai0-19" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:57.8829%;margin-top:-5.9px;left:38.7585%;width:24px;">
 					<p class="g-pstyle8"> </p>
 				</div>
 				<div id="g-ai0-20" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:59.8882%;margin-top:-8.2px;left:32.1387%;width:98px;">
-					<p class="g-pstyle9"><span class="g-cstyle5">A</span>P<span class="g-cstyle4">R</span><span class="g-cstyle3">O</span><span class="g-cstyle8">V</span><span class="g-cstyle17">A</span>Ç<span class="g-cstyle17">Ã</span><span class="g-cstyle3">O</span></p>
+					<p class="g-pstyle9">APROVAÇÃO</p>
 				</div>
 				<div id="g-ai0-21" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:70.6151%;margin-top:-8.3px;left:15.1945%;width:143px;">
-					<p class="g-pstyle5"><span class="g-cstyle1">O</span>BRI<span class="g-cstyle1">G</span><span class="g-cstyle10">A</span><span class="g-cstyle7">T</span><span class="g-cstyle1">Ó</span>RIO<span class="g-cstyle1"> </span><span class="g-cstyle14">P</span><span class="g-cstyle1">A</span><span class="g-cstyle15">R</span><span class="g-cstyle3">A</span></p>
+					<p class="g-pstyle5">OBRIGATÓRIO PARA</p>
 				</div>
 				<div id="g-ai0-22" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:77.5958%;margin-top:-15.9px;left:0.8898%;width:130px;">
 					<p class="g-pstyle7">CERTIDÃO DE</p>
 					<p class="g-pstyle7">DIRETRIZES (SMT)</p>
 				</div>
 				<div id="g-ai0-23" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:77.9396%;margin-top:-8.3px;left:32.3675%;width:93px;">
-					<p class="g-pstyle5">A<span class="g-cstyle16">L</span><span class="g-cstyle8">V</span>A<span class="g-cstyle12">R</span>Á <span class="g-cstyle1">D</span><span class="g-cstyle3">E </span></p>
+					<p class="g-pstyle5">ALVARÁ DE</p>
 				</div>
 				<div id="g-ai0-24" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:77.9396%;margin-top:-8.3px;left:44.8914%;width:93px;">
-					<p class="g-pstyle5">A<span class="g-cstyle16">L</span><span class="g-cstyle8">V</span>A<span class="g-cstyle12">R</span>Á <span class="g-cstyle1">D</span><span class="g-cstyle3">E </span></p>
+					<p class="g-pstyle5">ALVARÁ DE</p>
 				</div>
-				<div id="g-ai0-25" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:78.0477%;margin-top:-8.1px;left:56.0577%;width:128px;">
-					<p class="g-pstyle5"><span class="g-cstyle1">C</span>E<span class="g-cstyle18">R</span>TIFICADO<span class="g-cstyle1"> </span>D<span class="g-cstyle3">E </span></p>
+				<div id="g-ai0-25" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:78.0477%;margin-top:-8.1px;left:56.0577%;width:auto;text-align:center">
+					<p class="g-pstyle5"><span class="g-cstyle1">CERTIFICADO DE<br>REGULARIZAÇÃO</p>
 				</div>
 				<div id="g-ai0-26" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:78.0477%;margin-top:-8.1px;left:37.8191%;width:25px;">
 					<p class="g-pstyle10"> </p>
@@ -218,28 +216,25 @@
 					<p class="g-pstyle10"> </p>
 				</div>
 				<div id="g-ai0-28" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:80.0305%;margin-top:-8.2px;left:32.3794%;width:90px;">
-					<p class="g-pstyle5">EXECUÇ<span class="g-cstyle19">Ã</span><span class="g-cstyle3">O</span></p>
+					<p class="g-pstyle5">EXECUÇão</p>
 				</div>
 				<div id="g-ai0-29" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:80.0305%;margin-top:-8.2px;left:44.1158%;width:113px;">
-					<p class="g-pstyle10"><span class="g-cstyle5">A</span><span class="g-cstyle1">P</span><span class="g-cstyle4">R</span>O<span class="g-cstyle8">V</span><span class="g-cstyle17">A</span><span class="g-cstyle1">Ç</span><span class="g-cstyle17">Ã</span><span class="g-cstyle5">O </span>E </p>
-				</div>
-				<div id="g-ai0-30" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:80.0305%;margin-top:-8.2px;left:56.0132%;width:126px;">
-					<p class="g-pstyle5">RE<span class="g-cstyle11">G</span>U<span class="g-cstyle15">L</span>AR<span class="g-cstyle1">I</span>Z<span class="g-cstyle17">A</span>Ç<span class="g-cstyle17">Ã</span><span class="g-cstyle3">O</span></p>
+					<p class="g-pstyle10">APROVAÇÃO E</p>
 				</div>
 				<div id="g-ai0-31" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:82.1433%;margin-top:-8.2px;left:44.9042%;width:90px;">
-					<p class="g-pstyle5">EXECUÇ<span class="g-cstyle17">Ã</span><span class="g-cstyle3">O</span></p>
+					<p class="g-pstyle5">EXECUÇÃO</p>
 				</div>
 				<div id="g-ai0-32" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:90.1612%;margin-top:-8.1px;left:41.322%;width:180px;">
-					<p class="g-pstyle5">P<span class="g-cstyle4">R</span>OJ<span class="g-cstyle9">E</span><span class="g-cstyle7">T</span>O <span class="g-cstyle1">M</span>O<span class="g-cstyle1">D</span>IFIC<span class="g-cstyle10">A</span>TI<span class="g-cstyle3">V</span>O <span class="g-cstyle3">/ </span></p>
+					<p class="g-pstyle5">PROJETO MODIFICATIVO / </p>
 				</div>
 				<div id="g-ai0-33" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:90.4429%;margin-top:-8.1px;left:15.1945%;width:142px;">
-					<p class="g-pstyle5">DIS<span class="g-cstyle1">PE</span>NSA<span class="g-cstyle1">D</span>O<span class="g-cstyle1"> </span><span class="g-cstyle20">P</span><span class="g-cstyle1">A</span><span class="g-cstyle12">R</span><span class="g-cstyle3">A*</span></p>
+					<p class="g-pstyle5">DISPENSADO PARA*</p>
 				</div>
 				<div id="g-ai0-34" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:92.1332%;margin-top:-8.1px;left:41.322%;width:191px;">
-					<p class="g-pstyle5">MU<span class="g-cstyle19">D</span>ANÇA<span class="g-cstyle1"> </span>DO<span class="g-cstyle1"> </span>P<span class="g-cstyle4">R</span>OJ<span class="g-cstyle9">E</span><span class="g-cstyle2">T</span>O N<span class="g-cstyle3">O </span></p>
+					<p class="g-pstyle5">MUDANÇA DO PROJETO NO</p>
 				</div>
 				<div id="g-ai0-35" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:93.9971%;margin-top:-8.3px;left:41.322%;width:167px;">
-					<p class="g-pstyle5"><span class="g-cstyle1">D</span>E<span class="g-cstyle13">C</span>ORRER <span class="g-cstyle19">D</span>A ANÁL<span class="g-cstyle1">I</span>S<span class="g-cstyle3">E</span></p>
+					<p class="g-pstyle5">DECORRER DA ANÁLISE</p>
 				</div>
 			</div>
 		</div>
@@ -253,13 +248,15 @@
 		<p class="corpo_lei">V <strong class="destaque-lei">- </strong>(…)</p>
 		<p class="corpo_lei">VI - decidir quanto à dispensa dos recuos laterais e de fundo quando o lote vizinho apresentar edificação encostada na divisa do lote, conforme análise caso a caso.</p>
 		<p class="corpo_lei">(…)<strong class="destaque-lei"> ”</strong><strong class="destaque-decreto"></strong></p>
+		<p class="corpo_lei">“Art. 83. A <strong>CEUSO</strong><sup>24</sup> é composta de 8 (oito) membros, todos com seus respectivos suplentes, sendo 4 (quatro) do Poder Público e 4 (quatro) da sociedade civil pertencentes a entidades ligadas à engenharia, arquitetura e construção civil, na forma definida em decreto.</p>
+		<p class="corpo_lei">(…)<strong class="destaque-decreto"></strong></p>
+		<p class="corpo_lei">§ 2º Os representantes da CEUSO devem ser arquitetos ou engenheiros, podendo o representante da <strong>Secretaria Municipal dos Negócios Jurídicos</strong><sup>25</sup> ser Procurador do Município.</p>
+
 		<div id="08_capitulo-VIII_b03" class="glossario-box">
 			<p><span class="nota">24</span> Comissão de Edificações e Uso do Solo – CEUSO</span> Órgão normativo e consultivo sobre a legislação de obras, de edificações, de parcelamento do solo, de acessibilidade e de segurança de uso das edificações e equipamentos.</p>
 			<p><span class="nota">25</span> Conforme Decreto Nº 57.576, a Secretaria Municipal dos Negócios Jurídicos teve sua denominação alterada para Secretaria Municipal de Justiça - SMJ.</p>
 		</div>
-		<p class="corpo_lei">“Art. 83. A <strong>CEUSO</strong><sup>24</sup> é composta de 8 (oito) membros, todos com seus respectivos suplentes, sendo 4 (quatro) do Poder Público e 4 (quatro) da sociedade civil pertencentes a entidades ligadas à engenharia, arquitetura e construção civil, na forma definida em decreto.</p>
-		<p class="corpo_lei">(…)<strong class="destaque-decreto"></strong></p>
-		<p class="corpo_lei">§ 2º Os representantes da CEUSO devem ser arquitetos ou engenheiros, podendo o representante da <strong>Secretaria Municipal dos Negócios Jurídicos</strong><sup>25</sup> ser Procurador do Município.</p>
+
 		<p class="corpo_lei">(…)"</p>
 		<p class="corpo_decreto"><strong class="artigo-decreto">Art. 104. </strong>Conforme previsto no artigo 111 do COE, que altera a Lei nº 15.764, de 27 de março de 2013, ficam definidos os seguintes membros da CEUSO:</p>
 		<p class="corpo_decreto"><strong class="destaque-decreto">I -</strong> membros indicados pela Administração Municipal, titular e suplente, a saber:<strong class="destaque-decreto"></strong></p>

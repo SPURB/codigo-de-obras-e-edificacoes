@@ -1,3 +1,6 @@
+#wrapper-first .clearfix {
+	height: 0;
+}
 #default-inner{
 	padding: 0 3%;
 	max-width: 94%;
@@ -48,7 +51,6 @@
 		font-weight: 700;
 		font-size: 20px;
 		line-height: 30px;
-		padding: 0;
 		margin: 30px 0 15px 0;
 	}
 
@@ -81,6 +83,8 @@
 	h4.subsecao_portaria {
 		font-size: 15px;
 		font-weight: 700;
+		line-height: 25px;
+		margin: 25px 0 0 0;
 	}
 
 	h5 /*legenda tabelas*/ {
@@ -140,15 +144,17 @@
 	div.glossario-box {
 		font-size: 13px;
 		line-height: 22px;
-		float: right;
+		float: left;
 		width: 35%;
 		padding: 20px;
-		margin: 0 0 20px 20px;
+		margin: 0 20px 20px 0;
 		border: 1px dashed #EB5757;
 		border-radius: 10px;
 		box-sizing: border-box;
 		word-break: break-word;
 		hyphens: auto;
+		-ms-hyphens: auto;
+		-webkit-hyphens: auto;
 		p { font-size: 13px; margin: 15px 0; };
 		p:first-child { margin-top: 0; };
 		p:last-child { margin-bottom: 0; };
@@ -162,8 +168,9 @@
 	sup {
 		font-weight: inherit;
 		color: #EB5757;
-		vertical-align: super;
+		vertical-align: 5px;
 		font-size: 10px;
+		line-height: 20px;
 		margin: 0 2px;
 	}
 
@@ -192,7 +199,7 @@
 	table caption {
 		font-weight: 700;
 		text-align: left;
-		margin: 15px 0 3px 0;
+		margin: 15px 0 5px 0;
 	}
 	table tr td {
 		padding: 10px;
@@ -233,6 +240,9 @@
 	table.quadro_modelo td {
 		padding: 7px;
 		height: 20px;
+		hyphens: auto;
+		-ms-hyphens: auto;
+		-webkit-hyphens: auto;
 	}
 
 	#tdPar td:nth-child(2n) {
@@ -325,6 +335,14 @@
 
 	.g-artboard {
 		margin: 40px 0;
+	}
+
+	@media (max-width: 959px) {
+		div.glossario-box {
+			float: none;
+			margin: 15px 0;
+			width: 100%;
+		}
 	}
 
 }

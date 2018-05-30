@@ -522,7 +522,7 @@
 				<div id="g-ai0-12" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:33.6174%;margin-top:-11.8px;left:-0.0001%;width:330px;">
 					<p class="g-pstyle6"><span class="g-cstyle3">B</span><span class="g-cstyle4">L</span>O<span class="g-cstyle5">C</span>OS<span class="g-cstyle3"> </span>DE<span class="g-cstyle3"> </span><span class="g-cstyle6">U</span>M<span class="g-cstyle3">A M</span>ES<span class="g-cstyle3">MA</span> E<span class="g-cstyle3">D</span>IF<span class="g-cstyle3">IC</span><span class="g-cstyle7">A</span><span class="g-cstyle3">Ç</span><span class="g-cstyle7">Ã</span><span class="g-cstyle8">O</span></p>
 				</div>
-				<div id="g-ai0-13" class="g-Camada_1 g-aiAbs" style="top:38.8967%;left:79.4649%;width:18.8542%;">
+				<div id="g-ai0-13" class="g-Camada_1 g-aiAbs" style="top:38.8967%;left:79.4649%;width:20%;">
 					<p class="g-pstyle7">Se H > 10m:</p>
 					<p class="g-pstyle8">Área retangular com lados iguais ou superiores a 2A por 3A</p>
 				</div>
@@ -555,7 +555,7 @@
 				<div id="g-ai0-22" class="g-Camada_1 g-aiAbs g-aiPointText" style="transform: matrix(0,-1,1,0,0,0);transform-origin: 50% 54.3112158976086%;-webkit-transform: matrix(0,-1,1,0,0,0);-webkit-transform-origin: 50% 54.3112158976086%;-ms-transform: matrix(0,-1,1,0,0,0);-ms-transform-origin: 50% 54.3112158976086%;top:50.9661%;margin-top:-11.6px;left:53.2466%;width:67px;">
 					<p class="g-pstyle12" style="text-align: center;">H &le; 10m</p>
 				</div>
-				<div id="g-ai0-23" class="g-Camada_1 g-aiAbs g-aiPointText" style="transform: matrix(0.8379,-0.5458,0.5458,0.8379,0,0);transform-origin: 50% 72.9065692342107%;-webkit-transform: matrix(0.8379,-0.5458,0.5458,0.8379,0,0);-webkit-transform-origin: 50% 72.9065692342107%;-ms-transform: matrix(0.8379,-0.5458,0.5458,0.8379,0,0);-ms-transform-origin: 50% 72.9065692342107%;top:50.5904%;margin-top:-18.1px;left:12.6076%;width:59px;">
+				<div id="g-ai0-23" class="g-Camada_1 g-aiAbs g-aiPointText" style="transform: matrix(0.8379,-0.5458,0.5458,0.8379,0,0);transform-origin: 50% 72.9065692342107%;-webkit-transform: matrix(0.8379,-0.5458,0.5458,0.8379,0,0);-webkit-transform-origin: 50% 72.9065692342107%;-ms-transform: matrix(0.8379,-0.5458,0.5458,0.8379,0,0);-ms-transform-origin: 50% 72.9065692342107%;top:49%;left:12.3%;width:59px;">
 					<p class="g-pstyle9">A1+A2</p>
 				</div>
 				<div id="g-ai0-24" class="g-Camada_1 g-aiAbs" style="top:55.0062%;left:15.9375%;width:31%;">

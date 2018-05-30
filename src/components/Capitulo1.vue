@@ -72,13 +72,15 @@
 
 		<p><strong>Art. 2º </strong>A análise dos projetos e dos pedidos de documentos de controle da atividade edilícia deve ser efetuada quanto à sua observância:</p>
 
+		<p><strong>I - </strong>às normas do <strong>Plano Diretor Estratégico – PDE</strong><sup>1</sup>, da <strong>Legislação de Parcelamento, Uso e Ocupação do Solo – LPUOS</strong><sup>2</sup> e das <strong>Operações Urbanas Consorciadas – OUC</strong><sup>3</sup>;</p>
+
 		<div class="glossario-box">
 			<p><span class="nota">1</span> Plano Diretor Estratégico – PDE (Lei nº 16.050, de 31 de julho de 2014), dispõe sobre a Política de Desenvolvimento Urbano, o Sistema de Planejamento Urbano e o Plano Diretor Estratégico do Município de São Paulo e aplica-se à totalidade do seu território.</p>
 			<p><span class="nota">2</span> Lei de Parcelamento, Uso e Ocupação do Solo – LPUOS (Lei nº 16.402, de 22 de março de 2016) Dispõe sobre o parcelamento, o uso e a ocupação do solo no território do Município de São Paulo de acordo com o Plano Diretor Estratégico – PDE, e legislação correlata.</p>
 			<p><span class="nota">3</span> Operação Urbana / Operação Urbana Consorciada – OU / OUC são instrumentos cujas diretrizes são previstas pelo PDE e aprovadas mediante lei municipal, realizadas sob a coordenação do Poder Público, envolvendo a iniciativa privada, empresas prestadoras de serviços públicos, moradores e usuários do local, em perímetro delimitado do território a fim de conferir melhorias urbanísticas que atendam às demandas sociais, ambientais e econômicas existentes.</p>
 		</div>
 
-		<p><strong>I - </strong>às normas do <strong>Plano Diretor Estratégico – PDE</strong><sup>1</sup>, da <strong>Legislação de Parcelamento, Uso e Ocupação do Solo – LPUOS</strong><sup>2</sup> e das <strong>Operações Urbanas Consorciadas – OUC</strong><sup>3</sup>;</p>
+		
 		<p><strong>II - </strong>aos planos de melhoramento viário aprovados;</p>
 		<p><strong>III - </strong>às servidões administrativas;</p>
 		<p><strong>IV - </strong>às restrições decorrentes das declarações de utilidade pública e de interesse social;</p>

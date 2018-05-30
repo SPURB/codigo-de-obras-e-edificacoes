@@ -1,7 +1,7 @@
 <template>
 	<div class="Portaria3">
 		
-		<h1>DOCUMENTAÇÃO ESPECIFICA</h1>
+		<h1>DOCUMENTAÇÃO ESPECÍFICA</h1>
 
 		<h2>Seção 3.A - Alvará de Aprovação</h2>
 		<p class="corpo_portaria"><strong class="subtitulo_txt">3.A.1. </strong>Levantamento planialtimétrico, no caso de obra nova ou de reforma quando houver anexação de novos lotes, elaborado por profissional habilitado, em escala legível, contemplando os seguintes itens, quando forem pertinentes:</p>

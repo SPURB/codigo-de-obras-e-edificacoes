@@ -68,6 +68,14 @@ export default {
 				}
 		};
 	}
-
+}
+@media (max-width: 959px) {
+	.HeaderMenu > div.menu {
+		padding: 12px 12px 12px 0;
+		width: 100%;
+	}
+	.HeaderMenu > div.menu-exp {
+		width: 100%;
+	}
 }
 </style>
