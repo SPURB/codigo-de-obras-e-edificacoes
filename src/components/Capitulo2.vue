@@ -84,23 +84,23 @@
 
 				<p class="corpo_decreto"><strong class="artigo-decreto">Art. 12. </strong>Para a instrução dos pedidos de documentos de controle de atividade edilícia, o proprietário ou possuidor deverá apresentar, além dos documentos previstos no COE, requerimento-padrão devidamente preenchido e assinado, contendo identificação dos respectivos dados de RG/CPF ou CNPJ e CREA/CAU do responsável técnico pelo projeto e do responsável técnico pela obra, quando for o caso, além da indicação do número de contribuinte relativo ao terreno, constante do carnê do IPTU, ou, no caso de área rural, do CCIR, e indicação do objeto do pedido, além de outros documentos <strong>fixados em portaria</strong><sup>4</sup>, nos termos do § 2º do artigo 1º deste decreto.</p>
 
-				<div id="02_capitulo-II_b01" class="glossario-box" style="width: 16%;">
+				<div id="02_capitulo-II_b01" class="glossario-box portaria">
 					<div style="text-transform: uppercase; color: #EC6B70; text-align: center;">Portaria</div>
 					<span class="nota">4</span> Ver documentação na Portaria, cap. 2 e 3.
 				</div>
 
 				<p class="corpo_decreto"><strong class="destaque-decreto">Parágrafo único. </strong>Os pedidos de expedição por via eletrônica seguirão os procedimentos definidos em sua regulamentação especifica.</p>
 
-				<div id="02_capitulo-II_b02" class="glossario-box">
-					<p><span class="nota">5</span> Conselho Municipal de Preservação do Patrimônio Histórico – CONPRESP tem como atribuição deliberar sobre os tombamentos de bens móveis e imóveis, definir área envoltória destes bens, etc.</p>
-					<p>Conselho de Defesa do Patrimônio Histórico Arqueológico, Artístico e Turístico - CONDEPHAAT tem função de proteger, valorizar e divulgar o patrimônio cultural no Estado de São Paulo. Nessa categoria se encaixam bens móveis, imóveis, edificações, monumentos, bairros, 	núcleos históricos, áreas naturais, bens imateriais, dentre outros.</p>
-					<p>IPHAN (Instituto do Patrimônio Histórico e Artístico Nacional) responde pela preservação do Patrimônio Cultural Brasileiro, cabendo a este órgão a proteção e promoção dos bens culturais do País, assegurando sua permanência e usufruto para as gerações presentes e futuras. Também é responsável pela conservação, salvaguarda e monitoramento dos bens culturais brasileiros inscritos na Lista do Patrimônio Mundial e na Lista do Patrimônio Cultural Imaterial da Humanidade.</p>
-				</div>
-
 				<p class="corpo_lei"><strong class="bolinha">Art. 13.</strong> Não estão sujeitas a licenciamento, nos termos deste Código, a execução de:</p>
 				<p class="corpo_decreto"><strong class="artigo-decreto">Art. 13. </strong>São de inteira responsabilidade do proprietário ou possuidor, e quando for o caso, do profissional habilitado, as obras e serviços relacionados no artigo 13 do COE. </p>
 				<p class="corpo_lei"><strong class="destaque-lei">I - </strong>obra e serviço de reparo e limpeza;</p>
 				<p class="corpo_lei"><strong class="destaque-lei">II - </strong>restauro, entendido como a recuperação de imóvel sob o regime de preservação municipal, estadual ou federal, de modo a lhe restituir as características originais, a ser autorizado pelo <strong>órgão competente</strong><sup class="referencias-notas">5</sup>;</p>
+
+				<div id="02_capitulo-II_b02" class="glossario-box full">
+					<p><span class="nota">5</span> Conselho Municipal de Preservação do Patrimônio Histórico – CONPRESP tem como atribuição deliberar sobre os tombamentos de bens móveis e imóveis, definir área envoltória destes bens, etc.</p>
+					<p>Conselho de Defesa do Patrimônio Histórico Arqueológico, Artístico e Turístico - CONDEPHAAT tem função de proteger, valorizar e divulgar o patrimônio cultural no Estado de São Paulo. Nessa categoria se encaixam bens móveis, imóveis, edificações, monumentos, bairros, núcleos históricos, áreas naturais, bens imateriais, dentre outros.</p>
+					<p>IPHAN (Instituto do Patrimônio Histórico e Artístico Nacional) responde pela preservação do Patrimônio Cultural Brasileiro, cabendo a este órgão a proteção e promoção dos bens culturais do País, assegurando sua permanência e usufruto para as gerações presentes e futuras. Também é responsável pela conservação, salvaguarda e monitoramento dos bens culturais brasileiros inscritos na Lista do Patrimônio Mundial e na Lista do Patrimônio Cultural Imaterial da Humanidade.</p>
+				</div>
 
 		<div id="g-02_capitulo-II_d01-box" class="ai2html">
 			<div id="g-02_capitulo-II_d01-01" class="g-artboard g-artboard-v4" data-max-width='960'>
@@ -244,13 +244,13 @@
 		<p class="corpo_lei"><strong class="destaque-lei">§ 2º </strong>Somente são aceitas divergências de até 5% (cinco por cento) entre as dimensões e área constantes do documento de propriedade apresentado e as apuradas no levantamento topográfico.</p>
 		<p class="corpo_lei"><strong class="destaque-lei">§ 3º </strong>Quando dentro do limite estabelecido no § 2º deste artigo, são observados os índices fixados pelo PDE e LPUOS em relação às menores dimensões e área apuradas.</p>
 		<p class="corpo_lei"><strong class="destaque-lei">§ 4º </strong>Havendo divergência superior a 5% (cinco por cento) entre qualquer dimensão ou área constante do documento de propriedade e a apurada no levantamento topográfico, o Alvará de Aprovação pode ser emitido, ficando a emissão do Alvará de Execução condicionada à apresentação da certidão de matrícula do imóvel com dimensões e área retificadas.</p>
+		<p class="corpo_decreto"><strong class="artigo-decreto">Art. 17. </strong>Nos pedidos de Alvará de Aprovação<sup>6</sup>, além dos documentos previstos no artigo 16 do COE e no artigo 12 deste decreto, deverão ainda conter:</p>
 
-		<div id="02_capitulo-II_b03" class="glossario-box" style="width: 16%;">
+		<div id="02_capitulo-II_b03" class="glossario-box portaria">
 			<div style="text-transform: uppercase; color: #EC6B70; text-align: center;">Portaria</div>
 			<span class="nota">6</span> Ver documentação na Portaria, cap. 3, seção 3.A.
 		</div>
 
-		<p class="corpo_decreto"><strong class="artigo-decreto">Art. 17. </strong>Nos pedidos de Alvará de Aprovação<sup>6</sup>, além dos documentos previstos no artigo 16 do COE e no artigo 12 deste decreto, deverão ainda conter:<strong class="destaque-decreto"></strong></p>
 		<p class="corpo_decreto"><strong class="destaque-decreto">I - </strong>as peças gráficas do projeto simplificado necessárias para o perfeito entendimento do projeto, contemplando todos os elementos pertinentes à caracterização da obra, fixados em portaria;</p>
 		<p class="corpo_decreto"><strong class="destaque-decreto">II - </strong>a planta de levantamento planialtimétrico elaborada por profissional habilitado, numerada na sequência das demais folhas do projeto simplificado, em escala adequada, fixados em portaria;<strong class="destaque-decreto"></strong></p>
 		<p class="corpo_decreto"><strong class="destaque-decreto">III -</strong> as declarações assinadas pelos profissionais habilitados, fixadas em portaria.</p>
@@ -278,12 +278,12 @@
 		<p class="corpo_decreto"><strong class="destaque-decreto">§ 1º </strong>Se houver necessidade de análise técnica em função da edição de legislação posterior, deverá ser solicitado novo alvará. </p>
 		<p class="corpo_decreto"><strong class="destaque-decreto">§ 2º </strong>Os casos que se enquadrarem no ”caput” deste artigo, sob nenhuma hipótese serão objeto de chancela de novas peças gráficas. </p>
 		<p class="corpo_decreto"><strong class="destaque-decreto">§ 3º </strong>O prazo de revalidação será o mesmo daquele estabelecido no artigo 18 do COE para o Alvará de Aprovação. </p>
+		<p class="corpo_lei"><strong class="artigo-lei">Art. 20. </strong>O Alvará de Aprovação pode, enquanto vigente, ser objeto de <strong>apostilamento</strong><sup>7</sup> para constar eventuais alterações de dados.</p>
 
 		<div id="02_capitulo-II_b04" class="glossario-box">
 			<span class="nota">7</span>Conforme Art. 51 do Decreto 57.776, é o meio pelo qual o documento de controle da atividade edilícia é aditado para constar eventuais alterações de dados, desde que não impliquem em modificações do projeto.
 		</div>
 
-		<p class="corpo_lei"><strong class="artigo-lei">Art. 20. </strong>O Alvará de Aprovação pode, enquanto vigente, ser objeto de <strong>apostilamento</strong><sup>7</sup> para constar eventuais alterações de dados.</p>
 		<p class="corpo_lei"><strong class="destaque-lei">Parágrafo único. </strong>A alteração do projeto aprovado dar-se-á por meio da emissão de novo Alvará de Aprovação.</p>
 		<p class="corpo_lei"><strong class="artigo-lei">Art. 21. </strong>Pode ser emitido mais de um Alvará de Aprovação para o mesmo imóvel.</p>
 		<p class="corpo_lei"><strong class="artigo-lei">Art. 22. </strong>O Alvará de Aprovação pode ser expedido juntamente com o Alvará de Desmembramento, por meio do mesmo procedimento, de acordo com o regulamento.</p>
@@ -312,6 +312,7 @@
 		<p class="corpo_lei"><strong class="artigo-lei">Art. 24. </strong>O pedido de Alvará de Execução deve ser instruído com documentos referentes ao terreno e ao projeto, assinado pelo profissional habilitado, de acordo com a natureza do pedido.</p>
 		<p class="corpo_lei"><strong class="destaque-lei">§ 1º </strong>O responsável técnico deve formalizar declaração de responsabilidade pela correta execução da obra, de acordo com o projeto aprovado, observadas as normas técnicas aplicáveis.</p>
 		<p class="corpo_lei"><strong class="destaque-lei">§ 2º </strong>Quando o pedido abranger a instalação de equipamento mecânico de transporte permanente, tais como elevador, escada rolante e plataforma de elevação, ou de tanque de armazenagem, bomba, filtro de combustível e equipamentos afins ou dispuser de sistema especial de segurança da edificação, deve ser formalizada declaração de responsabilidade assinada pelo profissional habilitado responsável pela instalação, atestando que os serviços atenderão às normas e às disposições legais pertinentes.</p>
+		<p class="corpo_lei"><strong class="destaque-lei">§ 3º </strong>O Alvará de Execução somente pode ser emitido após a comprovação do atendimento a eventuais ressalvas constantes do Alvará de Aprovação e o pagamento integral da <strong>outorga onerosa</strong><sup>8</sup> previsto na legislação urbanística, quando for o caso.</p>
 
 		<div id="02_capitulo-II_b05" class="glossario-box">		
 			<p><span class="nota">8</span>Outorga Onerosa É a concessão, pelo poder público de potencial construtivo adicional acima do resultando da aplicação do Coeficiente de Aproveitamento Básico, até o limite estabelecido pelo Coeficiente de Aproveitamento Máximo, de alteração de uso e parâmetros urbanísticos, mediante pagamento de contrapartida financeira.<br />
@@ -319,8 +320,7 @@
 			<p>CEPAC - Certificado de Potencial Adicional de Construção</span> É uma forma de contrapartida financeira de outorga onerosa do potencial construtivo adicional, alteração de uso e parâmetros urbanísticos para uso específico nas Operações Urbanas Consorciadas.<br />
 			<span style="font-size: x-small; margin-left: 2em;">Fonte: Quadro 01 da Lei nº 16.050/14</span></p>
 		</div>
-
-		<p class="corpo_lei"><strong class="destaque-lei">§ 3º </strong>O Alvará de Execução somente pode ser emitido após a comprovação do atendimento a eventuais ressalvas constantes do Alvará de Aprovação e o pagamento integral da <strong>outorga onerosa</strong><sup>8</sup> previsto na legislação urbanística, quando for o caso.</p>
+		
 		<p class="corpo_decreto"><strong class="artigo-decreto">Art. 19. </strong>Os pedidos de Alvará de Execução, além dos documentos previstos no artigo 24 do COE e no artigo 12 deste decreto, deverão ser instruídos com os documentos fixados em portaria.<strong class="destaque-decreto"></strong></p>
 		<p class="corpo_decreto"><strong class="destaque-decreto">Parágrafo único. </strong>A instalação de elevadores e aparelhos de transporte permanente será licenciada conjuntamente com a emissão do Alvará de Execução da edificação, devendo ser apresentada a declaração assinada pelo responsável técnico pela instalação, de que o projeto e a instalação atenderão as NTOs em vigor.<strong class="subtitulo_txt"></strong></p>
 		<p class="corpo_lei"><strong class="artigo-lei">Art. 25. </strong>Quando houver mais de um Alvará de Aprovação em vigor para o mesmo imóvel, o Alvará de Execução pode ser concedido apenas para um deles.</p>
@@ -487,7 +487,7 @@
 				<p class="corpo_decreto"><strong class="artigo-decreto">Art. 24. </strong>O Certificado de Conclusão é o documento hábil para a comprovação da regularidade da edificação, sendo válido quando acompanhado das peças gráficas aprovadas referentes ao Alvará de Execução, inclusive para fins de registro no Cartório de Registro de Imóveis.<strong class="destaque-decreto"></strong></p>
 				<p class="corpo_decreto"><strong class="destaque-decreto">§ 1º </strong>Os documentos necessários à emissão do Certificado de Conclusão são aqueles constantes do artigo 35 do COE, bem como os fixados em portaria<sup>9</sup>. </p>
 
-				<div id="02_capitulo-II_b06" class="glossario-box" style="width: 16%;">
+				<div id="02_capitulo-II_b06" class="glossario-box portaria">
 					<div style="text-transform: uppercase; color: #EC6B70; text-align: center;">Portaria</div>
 					<span class="nota">9</span> Ver documentação na Portaria, cap. 3, seção 3.D.
 				</div>
@@ -513,7 +513,7 @@
 				<p class="corpo_decreto"><strong class="artigo-decreto">Art. 25. </strong>O Certificado de Regularização é documento hábil para a comprovação da regularidade da edificação ou serviço executado sem prévia licença da Prefeitura, sendo válido quando acompanhado das respectivas peças gráficas, inclusive para fins de registro no Cartório de Registro de Imóveis. </p>
 				<p class="corpo_decreto"><strong class="destaque-decreto">§ 1º </strong>O pedido de Certificado de Regularização deverá ser instruído com os documentos constantes do artigo 38 do COE, bem como com os documentos fixados em portaria<sup>10</sup>.</p>
 
-				<div id="02_capitulo-II_b07" class="glossario-box" style="width: 16%;">		
+				<div id="02_capitulo-II_b07" class="glossario-box portaria">		
 					<div style="text-transform: uppercase; color: #EC6B70; text-align: center;">Portaria</div>
 					<span class="nota">10</span> Ver documentação na Portaria, cap. 3, seção 3.E.
 				</div>
@@ -542,7 +542,7 @@
 				<p class="corpo_lei"><strong class="destaque-lei">Parágrafo único.</strong> O cadastro de elevador e demais equipamentos mecânicos de transporte permanente nos sistemas da Prefeitura é requisito para a emissão do Certificado de Acessibilidade, quando for o caso.</p>
 				<p class="corpo_decreto"><strong class="artigo-decreto">Art. 28. </strong>O pedido de Certificado de Acessibilidade deverá ser instruído com os documentos fixados em portaria<sup>11</sup>, bem como com aqueles constantes do artigo 41 do COE.</p>
 
-				<div id="02_capitulo-II_b08" class="glossario-box" style="width: 16%;">
+				<div id="02_capitulo-II_b08" class="glossario-box portaria">
 					<div style="text-transform: uppercase; color: #EC6B70; text-align: center;">Portaria</div>
 					<span class="nota">11</span> Ver documentação na Portaria, cap. 3, seção 3.F.
 				</div>
@@ -562,7 +562,7 @@
 				<p class="corpo_decreto"><strong class="artigo-decreto">Art. 29. </strong>O pedido de Certificado de Segurança poderá ser solicitado pelo proprietário ou possuidor da edificação existente que necessitar de espaço de circulação protegido, conforme NTO, e não tiverem Auto de Verificação de Segurança – AVS.</p>
 				<p class="corpo_decreto"><strong class="destaque-decreto">§ 1º </strong>O pedido de Certificado de Segurança deve ser instruído com os documentos fixados em portaria<sup>12</sup>, bem como com aqueles constantes do artigo 44 do COE.</p>
 				
-				<div id="02_capitulo-II_b09" class="glossario-box" style="width: 16%;">
+				<div id="02_capitulo-II_b09" class="glossario-box portaria">
 					<div style="text-transform: uppercase; color: #EC6B70; text-align: center;">Portaria</div>
 					<span class="nota">12</span> Ver documentação na Portaria, cap. 3, seção 3.G.
 				</div>
@@ -587,7 +587,7 @@
 				<p class="corpo_lei"><strong class="destaque-lei">IV - </strong>outros documentos e licenças exigidos na legislação municipal, conforme o caso.</p>
 				<p class="corpo_decreto"><strong class="artigo-decreto">Art. 30. </strong>Em função de sua natureza, o pedido de Alvará de Autorização será acompanhado dos documentos previstos no artigo 46 do COE e fixados em portaria<sup>13</sup>, seção 3.H.)</span>.</p>
 
-				<div id="02_capitulo-II_b10" class="glossario-box" style="width: 16%;">
+				<div id="02_capitulo-II_b10" class="glossario-box portaria">
 					<div style="text-transform: uppercase; color: #EC6B70; text-align: center;">Portaria</div>
 					<span class="nota">13</span> Ver documentação na Portaria, cap. 3, seção 3.H.
 				</div>
@@ -629,7 +629,7 @@
 				<p class="corpo_lei"><strong class="destaque-lei">II - </strong>declaração assinada por profissional habilitado, atestando que o equipamento foi instalado conforme o projeto aprovado e atende às normas técnicas aplicáveis e às disposições da legislação municipal na data do protocolo.</p>
 				<p class="corpo_decreto"><strong class="artigo-decreto">Art. 35. </strong>Em função da natureza do equipamento ou sistema de segurança, poderão ser exigidos outros documentos, a serem fixados em portaria<sup>14</sup>, além dos daqueles previstos no artigo 48 do COE. </p>
 
-				<div id="02_capitulo-II_b11" class="glossario-box" style="width: 16%;">
+				<div id="02_capitulo-II_b11" class="glossario-box portaria">
 					<div style="text-transform: uppercase; color: #EC6B70; text-align: center;">Portaria</div>
 					<span class="nota">14</span> Ver documentação na Portaria, cap. 3, seção 3.I e 3.J.
 				</div>
@@ -665,7 +665,7 @@
 				<p class="corpo_lei"><strong class="artigo-lei">Art. 51. </strong>A pedido do interessado, a Prefeitura analisa consultas para o esclarecimento quanto à aplicação do PDE, LPUOS e COE em projetos arquitetônicos e emite as Diretrizes de Projeto.</p>
 				<p class="corpo_lei"><strong class="destaque-lei">Parágrafo único. </strong>O pedido deve ser instruído com documentação e peças gráficas que permitam o entendimento do projeto e da consulta formulada.</p>
 				
-				<div id="02_capitulo-II_b13" class="glossario-box" style="width: 16%;">
+				<div id="02_capitulo-II_b13" class="glossario-box portaria">
 					<div style="text-transform: uppercase; color: #EC6B70; text-align: center;">Portaria</div>
 					<span class="nota">16</span> Ver documentação na Portaria, cap. 3, seção 3.K.
 				</div>

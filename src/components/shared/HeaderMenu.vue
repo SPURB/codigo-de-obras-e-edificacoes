@@ -26,13 +26,14 @@ export default {
 			tituloMenu: "Seções",
 			showMenu: false,
 		}
-	}, 
+	},
 	props:['navItems']
 }
 </script>
 
 <style lang="scss" scoped>
 .HeaderMenu {
+	width: 200px;
 	div.menu {
 		max-height: 24px;
 		padding: 12px;
@@ -42,10 +43,9 @@ export default {
 		font-weight: 500;
 		color: #EB5757;
 		cursor: pointer;
-		min-width: 250px;
 		min-height: 100%;
 		box-sizing: border-box;
-		i { float: right; margin-left: 12px; }
+		i { float: right; }
 	}
 
 	div.menu-exp {
@@ -56,7 +56,7 @@ export default {
 		background-color: #FFF;
 		right: 0px;
 		top: 48px;
-		width: 251px;
+		width: 201px;
 		box-sizing: border-box;
 		ul li {
 				div {
@@ -70,9 +70,11 @@ export default {
 	}
 }
 @media (max-width: 959px) {
+	.HeaderMenu {
+		flex-grow: 1;
+	}
 	.HeaderMenu > div.menu {
 		padding: 12px 12px 12px 0;
-		width: 100%;
 	}
 	.HeaderMenu > div.menu-exp {
 		width: 100%;

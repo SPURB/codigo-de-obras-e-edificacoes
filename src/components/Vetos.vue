@@ -1,7 +1,6 @@
 <template>
 	<div class="Vetos">
 
-		<h1>Vetos</h1>
 		<p class="corpo_lei"><strong class="subtitulo_txt">Art. 15, Parágrafo único, V</strong> - Instalação de estande de vendas.</p>
 		<p class="veto">Razão do veto: Por esse dispositivo, o Alvará de Aprovação deverá incluir, quando necessário à implantação do projeto, as informações relativas à previsão da instalação de estande de vendas.</p>
 		<p class="veto">Assim, da forma em que redigido o mencionado inciso, o Alvará de Aprovação deveria ser expedido previamente ao Alvará de Autorização para a instalação do estande, causando inversão nos procedimentos atualmente praticados, de forma ágil e eficiente, para a emissão dos documentos de controle da atividade edilícia.</p>

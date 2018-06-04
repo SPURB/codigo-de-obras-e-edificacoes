@@ -87,10 +87,19 @@ div.navDiv {
 	}
 }
 
-@media (max-width: 959px) {
+@media (max-width: 560px) {
 	#app > .Header, #app > .Header.scrollOn {
 		margin-top: 89px;
 	}
+}
+
+@media (min-width: 561px) {
+	#app > .Header, #app > .Header.scrollOn {
+		margin-top: 69px;
+	}
+}
+
+@media (max-width: 959px) {
 	div.nav {
 		flex-direction: column-reverse !important;
 	}

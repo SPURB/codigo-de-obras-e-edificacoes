@@ -21,7 +21,7 @@
 					ÁREA MÍNIMA<br>
 				</div>
 				<div id="g-ai0-5" class="g-texto g-aiAbs g-aiPointText" style="top:51.9514%;margin-top:-15.5px;left:76.1502%;margin-left:-80.5px;width:auto;">
-					<p class="g-pstyle2" style="background-color:#FFFFFF;">ÁREA LIVRE<br>INTERNA DESCOBERTA</p>
+					<p class="g-pstyle2" style="background-color:#FFFFFF; height: unset !important;">ÁREA LIVRE<br>INTERNA DESCOBERTA</p>
 				</div>
 				<div id="g-ai0-6" class="g-texto g-aiAbs g-aiPointText" style="transform: matrix(0,-1,1,0,0,0);transform-origin: 50% 59.8093687134783%;-webkit-transform: matrix(0,-1,1,0,0,0);-webkit-transform-origin: 50% 59.8093687134783%;-ms-transform: matrix(0,-1,1,0,0,0);-ms-transform-origin: 50% 59.8093687134783%;top:52.0336%;margin-top:-5.1px;left:63.7174%;margin-left:-18.5px;width:37px;">
 					<p class="g-pstyle1">2A</p>

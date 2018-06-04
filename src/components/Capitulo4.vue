@@ -171,10 +171,12 @@
 
 		<h2>Seção II - Das Instâncias e Prazos para Despacho</h2>
 		<p class="corpo_lei"><strong class="bolinha">Art. 69.</strong> As instâncias administrativas para a apreciação e decisão dos pedidos de que trata este Código, protocolados a partir da data de sua vigência, são as seguintes:</p>
-		<div id="04_capitulo-IV_b01" class="glossario-box" style="width: 25%;">
-			<p class="corpo_referencias1"><span class="nota">17</span> Conforme Decreto Nº 57.576, a Secretaria Municipal de Licenciamento (SEL) teve suas atribuições fundidas com a Secretaria Municipal de Desenvolvimento Urbano (SMDU), tornando-se em janeiro de 2017 a atual Secretaria Municipal de Urbanismo e Licenciamento (SMUL). </p>
-		</div>	
 		<p class="corpo_lei"><strong class="destaque-lei">I - </strong>para os pedidos de competência da <strong>Secretaria Municipal de Licenciamento</strong><sup>17</sup>:</p>
+
+		<div id="04_capitulo-IV_b01" class="glossario-box">
+			<p class="corpo_referencias1"><span class="nota">17</span> Conforme Decreto Nº 57.576, a Secretaria Municipal de Licenciamento (SEL) teve suas atribuições fundidas com a Secretaria Municipal de Desenvolvimento Urbano (SMDU), tornando-se em janeiro de 2017 a atual Secretaria Municipal de Urbanismo e Licenciamento (SMUL).</p>
+		</div>
+		
 		<p class="corpo_lei"><strong class="destaque-lei">a)</strong> Diretor de Divisão Técnica;</p>
 		<p class="corpo_lei"><strong class="destaque-lei">b)</strong> Coordenador;</p>
 		<p class="corpo_lei"><strong class="destaque-lei">c)</strong> Secretário Municipal de Licenciamento;</p>

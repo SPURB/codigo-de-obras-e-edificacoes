@@ -45,6 +45,7 @@
 	h1 {
 		font-weight: 700;
 		font-size: 30px;
+		line-height: 45px;
 	}
 
 	h2 {
@@ -133,8 +134,8 @@
 		content: '•';
 		margin-right: 3px;
 		color: #ec6b70;
-		margin-left: -13px;
-		margin-right: 6px;
+		margin-left: -7px;
+		margin-right: 2px;
 	}
 
 	.glossario-decreto {
@@ -163,6 +164,15 @@
 			margin-left: 15px;
 			li { padding-left: 5px; };
 		};
+	}
+
+	.glossario-box.full {
+		margin-right: 0;
+		width: 100% !important;
+	}
+
+	.portaria {
+		width: 15% !important;
 	}
 
 	sup {
@@ -292,17 +302,6 @@
 		margin: 5px 0;
 	}
 
-	div.Creditos div p:first-child {
-		font-weight: 700;
-		margin-top: 15px;
-	}
-
-	div.Creditos div p {
-		line-height: 130%;
-		margin: 0;
-		padding: 0;
-	}
-
 	div.decreto {
 		padding-left: 60px;
 		color: #757575;
@@ -325,12 +324,26 @@
 		margin-bottom: 0;
 	}
 
-	div.Indice_remissivo span.vermelho {
-		color: #EB5757;
+	.Indice_remissivo {
+		column-count: 2;
+		p.indice {
+			display: inline-block;
+			margin: 0 0 25px 0;
+			width: 100%;
+		}
 	}
 
-	div.Creditos div p {
-		margin: 10px 0;
+	.Creditos {
+		column-count: 2;
+		div {
+			display: inline-block;
+			width: 100%;
+			margin: 0 0 25px 0;
+			p { margin: 0; };
+		}
+		div > p:first-child {
+			font-weight: 700;
+		}
 	}
 
 	.g-artboard {
@@ -338,11 +351,17 @@
 	}
 
 	@media (max-width: 959px) {
+		.corpo_decreto, div.decreto {
+			padding-left: 20px;
+		}
 		div.glossario-box {
 			float: none;
 			margin: 15px 0;
 			width: 100%;
 		}
+		.portaria { width: unset !important; }
+		.Indice_remissivo { column-count: 1; }
+		.Creditos { column-count: 1; }
 	}
 
 }
