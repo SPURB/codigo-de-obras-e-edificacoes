@@ -664,13 +664,12 @@
 				<p class="corpo_decreto"><strong class="destaque-decreto">§ 2º </strong>A Ficha Técnica poderá instruir os pedidos de Diretrizes de Projeto e os Alvarás de Aprovação e Execução. </p>
 				<p class="corpo_lei"><strong class="artigo-lei">Art. 51. </strong>A pedido do interessado, a Prefeitura analisa consultas para o esclarecimento quanto à aplicação do PDE, LPUOS e COE em projetos arquitetônicos e emite as Diretrizes de Projeto.</p>
 				<p class="corpo_lei"><strong class="destaque-lei">Parágrafo único. </strong>O pedido deve ser instruído com documentação e peças gráficas que permitam o entendimento do projeto e da consulta formulada.</p>
-				
+				<p class="corpo_decreto"><strong class="artigo-decreto">Art. 46. </strong>As consultas a respeito de aplicação do PDE, LPUOS e COE deverão ser protocoladas como Diretrizes de Projeto, instruídas com projeto arquitetônico que permita a compreensão do pedido e demais documentos fixados em portaria<sup>16</sup>.</p>
+
 				<div id="02_capitulo-II_b13" class="glossario-box portaria">
 					<div style="text-transform: uppercase; color: #EC6B70; text-align: center;">Portaria</div>
 					<span class="nota">16</span> Ver documentação na Portaria, cap. 3, seção 3.K.
 				</div>
-				
-				<p class="corpo_decreto"><strong class="artigo-decreto">Art. 46. </strong>As consultas a respeito de aplicação do PDE, LPUOS e COE deverão ser protocoladas como Diretrizes de Projeto, instruídas com projeto arquitetônico que permita a compreensão do pedido e demais documentos fixados em portaria<sup>16</sup>.</p>
 	</div>
 </template>
 

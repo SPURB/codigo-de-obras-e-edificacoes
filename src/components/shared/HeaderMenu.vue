@@ -10,7 +10,7 @@
 			<ul>
 				<template v-for="navitem in navItems" >
 					<li @click="showMenu = !showMenu">
-						<router-link :to='navitem.path' active-class="menuLi"><div>{{ navitem.name }}</div></router-link>
+						<router-link :to='navitem.path' active-class="menuLi"><div @click="topo">{{ navitem.meta.tituloMenu }}</div></router-link>
 					</li>
 				</template>
 			</ul>
@@ -27,13 +27,22 @@ export default {
 			showMenu: false,
 		}
 	},
+	methods: {
+		topo() {
+			window.scrollTo({
+				top: 0,
+				left: 0,
+				behavior: "smooth"
+			});
+		}
+	},
 	props:['navItems']
 }
 </script>
 
 <style lang="scss" scoped>
 .HeaderMenu {
-	width: 200px;
+	width: 290px;
 	div.menu {
 		max-height: 24px;
 		padding: 12px;
@@ -50,25 +59,33 @@ export default {
 
 	div.menu-exp {
 		position: absolute;
-		border: 1px solid #EEEEEE;
+		border-left: 1px solid #EEEEEE;
+		border-right: 1px solid #EEEEEE;
+		border-top: 1px solid #EEEEEE;
 		border-radius: 0 0 2px 2px;
 		box-shadow: 0 2px 2px rgba(0,0,0,0.12);
 		background-color: #FFF;
 		right: 0px;
 		top: 48px;
-		width: 201px;
+		width: 291px;
 		box-sizing: border-box;
-		ul li {
-				div {
-					line-height: 32px;
-					padding: 0 12px;
-				}
-				div:hover {
-					background-color: #EEE;
-				}
+		ul li div {
+			padding: 8px;
+			line-height: 20px;
+			border-bottom:1px solid #EEEEEE;
+			&:hover {
+				background-color: #F5F5F5;
+				transition: 200ms all;
+			};
 		};
 	}
 }
+@media (max-width: 360px) {
+	.HeaderMenu {
+		width: auto;
+	}
+}
+
 @media (max-width: 959px) {
 	.HeaderMenu {
 		flex-grow: 1;

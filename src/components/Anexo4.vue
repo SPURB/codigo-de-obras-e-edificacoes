@@ -1,7 +1,7 @@
 <template>
 	<div class="Anexo4">
 		
-		<h2 class="secao_lei">Tabelas relativas às áreas não computáveis</h2>
+		<h1>TABELAS RELATIVAS ÀS ÁREAS NÃO COMPUTÁVEIS</h1>
 
 		<table id="table-1" class="quadro">
 			<caption>Tabela 1 – Obras complementares</caption>

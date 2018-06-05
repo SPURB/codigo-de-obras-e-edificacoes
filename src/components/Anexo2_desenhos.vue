@@ -1,6 +1,8 @@
 <template>
 	<div class="Anexo2_desenhos">
 
+		<h1>DESENHOS</h1>
+
 		<!-- 11_anexo-II_d01-d02.html -->
 		<div id="g-11_anexo-II_d01-d02-box" class="ai2html">
 			<div id="g-11_anexo-II_d01-d02-Artboard_22" class="g-artboard g-artboard-v4" data-min-width='960'>
@@ -18,7 +20,7 @@
 					<p class="g-pstyle2" style="letter-spacing:-0.03em;">LARGURA MÍNIMA<br>
 					1,50m<br>
 					<br>
-					ÁREA MÍNIMA<br>
+					ÁREA MÍNIMA</p>
 				</div>
 				<div id="g-ai0-5" class="g-texto g-aiAbs g-aiPointText" style="top:51.9514%;margin-top:-15.5px;left:76.1502%;margin-left:-80.5px;width:auto;">
 					<p class="g-pstyle2" style="background-color:#FFFFFF; height: unset !important;">ÁREA LIVRE<br>INTERNA DESCOBERTA</p>

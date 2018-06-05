@@ -207,7 +207,7 @@
 					<p class="g-pstyle5">ALVARÁ DE</p>
 				</div>
 				<div id="g-ai0-25" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:78.0477%;margin-top:-8.1px;left:56.0577%;width:auto;text-align:center">
-					<p class="g-pstyle5"><span class="g-cstyle1">CERTIFICADO DE<br>REGULARIZAÇÃO</p>
+					<p class="g-pstyle5"><span class="g-cstyle1">CERTIFICADO DE<br>REGULARIZAÇÃO</span></p>
 				</div>
 				<div id="g-ai0-26" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:78.0477%;margin-top:-8.1px;left:37.8191%;width:25px;">
 					<p class="g-pstyle10"> </p>
@@ -312,17 +312,17 @@
 				<div id="g-ai0-1" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:7.4742%;margin-top:-11.9px;left:0%;width:439px;">
 					<p class="g-pstyle0">VALIDADE DE ALVARÁS ANTERIORES AO NOVO COE</p>
 				</div>
-				<div id="g-ai0-2" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:6.7072%;margin-top:-9.8px;right:-0.0221%;width:92px;">
+				<div id="g-ai0-2" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:6.7072%;margin-top:-9.8px;right:0.5%;width:92px;">
 					<p class="g-pstyle1">Lei Art. 116</p>
 				</div>
 				<div id="g-ai0-3" class="g-Camada_1 g-aiAbs" style="top:17.8571%;left:0%;width:74.7917%;">
 					<p>Validade de Alvarás para processos em andamento e para Alvarás de Aprovação ou Alvarás de Aprovação e Execução válidos na data de entrada em vigor do novo COE.</p>
 				</div>
 				<div id="g-ai0-4" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:85.9372%;margin-top:-10.6px;left:20.6389%;width:199px;">
-					<p class="g-pstyle2">A<span class="g-cstyle0">L</span><span class="g-cstyle1">V</span>A<span class="g-cstyle2">R</span>Á<span class="g-cstyle3"> </span>D<span class="g-cstyle3">E </span>A<span class="g-cstyle3">P</span><span class="g-cstyle4">R</span><span class="g-cstyle5">O</span><span class="g-cstyle1">V</span><span class="g-cstyle6">A</span>Ç<span class="g-cstyle6">Ã</span><span class="g-cstyle5">O</span></p>
+					<p class="g-pstyle2">ALVARÁ DE APROVAÇÃO</p>
 				</div>
 				<div id="g-ai0-5" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:85.9372%;margin-top:-10.6px;left:55.7957%;width:297px;">
-					<p class="g-pstyle3"><span class="g-cstyle7">A</span><span class="g-cstyle8">L</span><span class="g-cstyle1">V</span><span class="g-cstyle7">A</span><span class="g-cstyle2">R</span>Á<span class="g-cstyle7"> D</span>E<span class="g-cstyle7"> </span>A<span class="g-cstyle7">P</span><span class="g-cstyle4">R</span><span class="g-cstyle5">O</span><span class="g-cstyle1">V</span><span class="g-cstyle9">A</span>Ç<span class="g-cstyle6">Ã</span>O<span class="g-cstyle7"> </span>E<span class="g-cstyle7"> </span>EXE<span class="g-cstyle7">C</span>UÇ<span class="g-cstyle6">Ã</span><span class="g-cstyle5">O</span></p>
+					<p class="g-pstyle3">ALVARÁ DE APROVAÇÃO E EXECUÇÃO</p>
 				</div>
 			</div>
 		</div>

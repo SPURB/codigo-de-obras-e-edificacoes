@@ -80,7 +80,7 @@
 					<p class="g-pstyle7"><span class="g-cstyle37">Recuos e T.O. em função do lote resultante.<br> C.A. em função do lote original</span></p>
 				</div>
 				<div id="g-ai0-16" class="g-Camada_2 g-aiAbs g-aiPointText" style="top:53.4962%;margin-top:-8.1px;left:68.1639%;width:148px;">
-					<p class="g-pstyle7"><span class="g-cstyle37">Recuos, T.O. e C.A. em<br> função do lote resultante</p>
+					<p class="g-pstyle7"><span class="g-cstyle37">Recuos, T.O. e C.A. em<br> função do lote resultante</span></p>
 				</div>
 				<div id="g-ai0-18" class="g-Camada_2 g-aiAbs g-aiPointText" style="top:63.5455%;margin-top:-8.1px;left:32%;width:auto;">
 					<p class="g-pstyle7">Alinhamento<br> previsto</p>
@@ -95,16 +95,16 @@
 					<p class="g-pstyle7">Área atingida pelo<br> melhoramento</p>
 				</div>
 				<div id="g-ai0-24" class="g-Camada_2 g-aiAbs g-aiPointText" style="top:68.7323%;margin-top:-8.1px;left:80.9224%;width:92px;">
-					<p class="g-pstyle7">Alinhamen<span class="g-cstyle3">t</span>o </p>
+					<p class="g-pstyle7">Alinhamento </p>
 				</div>
 				<div id="g-ai0-26" class="g-Camada_2 g-aiAbs g-aiPointText" style="top:69.7048%;margin-top:-8.1px;left:80.9244%;width:77px;">
-					<p class="g-pstyle7">execu<span class="g-cstyle37">t</span>ado</p>
+					<p class="g-pstyle7">executado</p>
 				</div>
 				<div id="g-ai0-27" class="g-Camada_2 g-aiAbs g-aiPointText" style="top:76.1499%;margin-top:-10.6px;left:31.9172%;width:268px;">
 					<p class="g-pstyle10">PROJETO (COM DOAÇÃO DE ÁREA)</p>
 				</div>
 				<div id="g-ai0-28" class="g-Camada_2 g-aiAbs g-aiPointText" style="top:76.1374%;margin-top:-10.5px;left:68.1577%;width:158px;">
-					<p class="g-pstyle2"><span class="g-cstyle0">SI</span>T<span class="g-cstyle3">U</span><span class="g-cstyle23">A</span><span class="g-cstyle0">Ç</span><span class="g-cstyle23">Ã</span>O FUTU<span class="g-cstyle6">R</span><span class="g-cstyle1">A</span></p>
+					<p class="g-pstyle2">SITUAÇÃO FUTURA</p>
 				</div>
 				<div id="g-ai0-29" class="g-Camada_2 g-aiAbs" style="top:75.8562%;left:0.1042%;width:25.2083%;">
 					<p class="g-pstyle3">COM DUP/DIS EM VIGOR</p>
@@ -114,16 +114,16 @@
 					<p class="g-pstyle7"><span class="g-cstyle37">Recuos e T.O. em função do lote<br> resultante. C.A. em função do<br> lote original</span></p>
 				</div>
 				<div id="g-ai0-33" class="g-Camada_2 g-aiAbs g-aiPointText" style="top:89.4792%;margin-top:-8.1px;left:30.8388%;width:92px;">
-					<p class="g-pstyle7">Alinhamen<span class="g-cstyle3">t</span>o </p>
+					<p class="g-pstyle7">Alinhamento</p>
 				</div>
 				<div id="g-ai0-34" class="g-Camada_2 g-aiAbs g-aiPointText" style="top:89.4792%;margin-top:-8.1px;left:67.4678%;width:92px;">
-					<p class="g-pstyle7">Alinhamen<span class="g-cstyle3">t</span>o </p>
+					<p class="g-pstyle7">Alinhamento</p>
 				</div>
 				<div id="g-ai0-35" class="g-Camada_2 g-aiAbs g-aiPointText" style="top:90.6139%;margin-top:-8.1px;left:30.8408%;width:64px;">
-					<p class="g-pstyle7">p<span class="g-cstyle20">r</span>evis<span class="g-cstyle2">t</span>o</p>
+					<p class="g-pstyle7">previsto</p>
 				</div>
 				<div id="g-ai0-36" class="g-Camada_2 g-aiAbs g-aiPointText" style="top:90.6139%;margin-top:-8.1px;left:67.4697%;width:77px;">
-					<p class="g-pstyle7">execu<span class="g-cstyle37">t</span>ado</p>
+					<p class="g-pstyle7">executado</p>
 				</div>
 				<div id="g-ai0-37" class="g-Camada_2 g-aiAbs g-aiPointText" style="top:95.5115%;margin-top:-15.5px;left:26%;width:165px;">
 					<p class="g-pstyle7">Área atingida pelo </p>

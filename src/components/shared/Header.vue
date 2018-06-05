@@ -8,6 +8,7 @@
 			</div>
 		</div>
 		<div class="degradeBranco"></div>
+		<button class="topo" v-show="scrolling" @click="topo()"><i class="material-icons">arrow_upward</i></button>
 	</div>
 </template>
 
@@ -46,6 +47,13 @@ export default {
 					app.navitems.push(index)
 				}
 			})
+		},
+		topo() {
+			window.scrollTo({
+				top: 0,
+				left: 0,
+				behavior: "smooth"
+			});
 		}
 	},
 	components: { 
@@ -59,9 +67,8 @@ export default {
 @import '../../assets/main.scss';
 
 div.tituloSecao {
-	font-size: 30px;
-	font-weight: 700;
-	align-self: center;
+	font-size: 20px;
+	align-self: left;
 	line-height: 48px;
 }
 
@@ -74,6 +81,19 @@ div.navDiv {
 	background: linear-gradient(#FFFFFF, rgba(255,255,255,0));
 	height: 60px;
 	margin-bottom: -40px;
+}
+
+button.topo {
+	position: fixed;
+	right: 3%;
+	bottom: 3%;
+	padding: 12px;
+	border-radius: 2px;
+	background-color: #FFFFFF;
+	border: 1px solid #EEEEEE;
+	box-shadow: 0 2px 2px rgba(0,0,0,.12);
+	z-index: 6;
+	visibility: hidden;
 }
 
 @media (min-width: 960px){
@@ -113,6 +133,9 @@ div.navDiv {
 		width: 100%;
 		border-bottom:1px solid #EEEEEE;
 		flex-wrap: nowrap;
+	}
+	button.topo {
+		visibility: visible;
 	}
 }
 </style>

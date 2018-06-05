@@ -1,3 +1,6 @@
+#project-nav > #wrapper-first{
+    z-index:50
+}
 #wrapper-first .clearfix {
 	height: 0;
 }
@@ -44,12 +47,13 @@
 
 	h1 {
 		font-weight: 700;
-		font-size: 30px;
-		line-height: 45px;
+		font-size: 20px;
+		line-height: 30px;
+		margin: 30px 0;
 	}
 
 	h2 {
-		font-weight: 700;
+		font-weight: 500;
 		font-size: 20px;
 		line-height: 30px;
 		margin: 30px 0 15px 0;
@@ -99,9 +103,10 @@
 	}
 
 	hr {
-		border-style: solid;
-		border-color: #EBEBEB;
 		margin: 40px 0;
+		border: none;
+		height: 1px;
+		background-color: #EEEEEE;
 	}
 
 	#content {

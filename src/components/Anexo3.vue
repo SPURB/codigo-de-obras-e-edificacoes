@@ -1,7 +1,7 @@
 <template>
 	<div class="Anexo3">
 
-		<h2 class="secao_lei">Tabelas de multas</h2>
+		<h1>TABELAS DE MULTAS</h1>
 
 		<table id="table-1" class="quadro">
 			<caption>Valores das multas e embargo</caption>

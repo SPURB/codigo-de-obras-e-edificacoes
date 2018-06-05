@@ -1,7 +1,7 @@
 <template>
 	<div class="Anexo2_tabelas">
 		
-		<h2>TABELA DE TAXAS</h2>
+		<h1>TABELA DE TAXAS</h1>
 
 		<div>
 			<table class="quadro">

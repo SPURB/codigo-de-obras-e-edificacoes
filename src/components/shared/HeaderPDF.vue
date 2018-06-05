@@ -1,8 +1,8 @@
 <template>
 	<div class="HeaderPDF">
-		<a href="http://gestaourbana.prefeitura.sp.gov.br/wp-content/uploads/2018/04/codigo_de_obras_ilustrado.pdf" download="Código de Obras Ilustrado">
-			<span>Fazer o download integral do COE</span>
-			<i class="small material-icons" title="Fazer o download integral do COE">picture_as_pdf</i>
+		<a :href="caminhoPdf + linkPdf" :download="tituloPdf+'.pdf'" :title="tituloPdf+'.pdf'">
+			<span>Baixar {{ sectionName }}</span>
+			<i class="small material-icons">picture_as_pdf</i>
 		</a>
 	</div>
 </template>
@@ -12,6 +12,25 @@ export default {
 	name: 'HeaderPDF',
 	data() {
 		return {
+		}
+	},
+	computed: {
+		linkPdf() { 
+			return this.$route.meta.pdf 
+		},
+		sectionName() {
+			return this.$route.name
+		},
+		tituloPdf() {
+			return this.$route.meta.tituloDownload
+		},
+		caminhoPdf() {
+			if(location.port == '8080'){
+				return '../../../static/pdf/' 
+			}
+			else{
+				return template_directory_uri +'codigo-de-obras-e-edificacoes/dist/static/pdf/' 
+			}
 		}
 	},
 	props:['navItems']
