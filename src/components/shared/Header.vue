@@ -85,8 +85,8 @@ div.navDiv {
 
 button.topo {
 	position: fixed;
-	right: 3%;
-	bottom: 3%;
+	left: 12px;
+	bottom: 12px;
 	padding: 12px;
 	border-radius: 2px;
 	background-color: #FFFFFF;

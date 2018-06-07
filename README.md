@@ -1,27 +1,32 @@
-# codigo-de-obras-e-edificacoes
+# Código de Obras e Edificações Ilustrado
 
-> Página do portal gestaourbana.sp.gov.br com Lei nº 16.642 e Decreto nº 57.776 ilustradas
+> Código de SPA do portal [gestaourbana.sp.gov.br](http://gestaourbana.sp.gov.br) referente à Lei nº 16.642 e Decreto nº 57.776 ilustradas. 
+> [http://gestaourbana.prefeitura.sp.gov.br/coe-texto-da-lei-ilustrado/](http://gestaourbana.prefeitura.sp.gov.br/coe-texto-da-lei-ilustrado/)
 
-## Build Setup
+### Requisitos
+* Nodejs 
+* NPM
+
+## Setup
 
 ``` bash
-# install dependencies
+# Instalar dependências
 npm install
 
-# serve with hot reload at localhost:8080
+# Serve com 'hot reload' em localhost:8080
 npm run dev
 
-# build for production with minification
+# constrói para produção com minificação dos recursos
 npm run build
 
-# build for production and view the bundle analyzer report
+# constrói para produção e visualização dos recursos construídos
 npm run build --report
 
-# run unit tests
+# inicia testes unitários
 npm run unit
 
-# run all tests
+# inicia todos os testes
 npm test
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+Para ver explicações detalhadas de como as coisas funcionam ver [guia](http://vuejs-templates.github.io/webpack/) e [documentação do vue-loader](http://vuejs.github.io/vue-loader).

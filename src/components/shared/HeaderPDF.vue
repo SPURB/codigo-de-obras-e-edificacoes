@@ -29,7 +29,7 @@ export default {
 				return '../../../static/pdf/' 
 			}
 			else{
-				return template_directory_uri +'codigo-de-obras-e-edificacoes/dist/static/pdf/' 
+				return template_url +'/SPA/codigo-de-obras-e-edificacoes/dist/static/pdf/' 
 			}
 		}
 	},

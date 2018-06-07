@@ -125,8 +125,7 @@
 	<hr />
 
 	<!-- apresentacao_d02.html -->
-
-	<div id="g-00_apresentacao_d02-box" class="ai2html">
+<div id="g-00_apresentacao_d02-box" class="ai2html">
 	<div id="g-00_apresentacao_d02-01" class="g-artboard g-artboard-v4" data-max-width='960'>
 		<img id="g-00_apresentacao_d02-01-img" class="g-aiImg" :src="caminho + '00_apresentacao_d02-01.jpg'"/>
 		<div id="g-ai0-1" class="g-Camada_1 g-aiAbs g-aiPointText" style="top:6.7326%;margin-top:-11.4px;left:7.4923%;width:80px;">
@@ -196,7 +195,6 @@
 			<p class="g-pstyle9">2017</p>
 		</div>
 	</div>
-
 </div>
 
   </div>
@@ -215,6 +213,7 @@ export default {
 /* Estilo apresentacao_d01.html */
 #g-00_apresentacao_d01-box .g-artboard {
 	margin:0 auto;
+	width: 960px
 }
 #g-00_apresentacao_d01-box .g-artboard p {
 	margin:0;
@@ -224,7 +223,7 @@ export default {
 }
 .g-aiImg {
 	display:block;
-	width:100% !important;
+	width:960px !important;
 }
 .g-aiPointText p { white-space: nowrap; }
 #g-00_apresentacao_d01-01 {
@@ -323,13 +322,13 @@ export default {
 }
 .g-aiImg {
 	display:block;
-	width:100% !important;
+	width:960px !important;
 }
 .g-aiPointText p { white-space: nowrap; }
 #g-00_apresentacao_d02-01 {
 	position:relative;
 	overflow:hidden;
-	width:100%;
+	width:960px;
 }
 #g-00_apresentacao_d02-01 p {
 	font-size:16px;
