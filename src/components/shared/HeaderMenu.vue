@@ -10,9 +10,19 @@
 			<ul>
 				<template v-for="navitem in navItems" >
 					<li @click="showMenu = !showMenu">
-						<router-link :to='navitem.path' active-class="menuLi"><div @click="topo">{{ navitem.meta.tituloMenu }}</div></router-link>
+						<router-link :to='navitem.path' active-class="menuLi">
+							<div @click="topo">{{ navitem.meta.tituloMenu }}
+							</div>
+						</router-link>
 					</li>
 				</template>
+				<li>
+					<div>
+						<a 
+							href="http://gestaourbana.prefeitura.sp.gov.br/wp-content/uploads/2018/04/codigo_de_obras_ilustrado.pdf" 
+							download>Baixar Versão Completa <i class="small material-icons">picture_as_pdf</i></a>
+					</div>
+				</li>
 			</ul>
 		</div>
 	</div>
